@@ -1,0 +1,85 @@
+name: Score and Deploy
+
+on:
+  # Every 5 minutes on draft days (April 24-26, 2026)
+  schedule:
+    - cron: '*/5 * 24-26 4 *'
+  # Manual trigger — optionally score a single year
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Year to score (leave blank for all incomplete years)'
+        required: false
+        type: string
+  # Also run on push to main (for config/data/content changes)
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  score-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scorer/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r scorer/requirements.txt
+
+      - name: Run scorer
+        env:
+          SPORTRADAR_API_KEY: ${{ secrets.SPORTRADAR_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.year }}" ]; then
+            python scorer/score.py ${{ inputs.year }}
+          else
+            python scorer/score.py
+          fi
+
+      - name: Commit updated cache and data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scorer/actual-draft/ hugo/data/
+          git diff --cached --quiet || git commit -m "chore: update scored data [skip ci]"
+          git push
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.160.1'
+          extended: true
+
+      - name: Build Hugo site
+        run: hugo --source hugo/ --minify
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: hugo/public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
