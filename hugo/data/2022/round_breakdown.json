@@ -1,0 +1,206 @@
+[
+  {
+    "owner": "AJ",
+    "round": 1,
+    "picks": 8,
+    "points": 280
+  },
+  {
+    "owner": "AJ",
+    "round": 2,
+    "picks": 8,
+    "points": 175
+  },
+  {
+    "owner": "AJ",
+    "round": 3,
+    "picks": 8,
+    "points": 110
+  },
+  {
+    "owner": "AJ",
+    "round": 4,
+    "picks": 7,
+    "points": 106
+  },
+  {
+    "owner": "AJ",
+    "round": 5,
+    "picks": 5,
+    "points": 55
+  },
+  {
+    "owner": "AJ",
+    "round": 6,
+    "picks": 10,
+    "points": 110
+  },
+  {
+    "owner": "AJ",
+    "round": 7,
+    "picks": 3,
+    "points": 45
+  },
+  {
+    "owner": "Jared",
+    "round": 1,
+    "picks": 5,
+    "points": 180
+  },
+  {
+    "owner": "Jared",
+    "round": 2,
+    "picks": 6,
+    "points": 145
+  },
+  {
+    "owner": "Jared",
+    "round": 3,
+    "picks": 6,
+    "points": 70
+  },
+  {
+    "owner": "Jared",
+    "round": 4,
+    "picks": 8,
+    "points": 134
+  },
+  {
+    "owner": "Jared",
+    "round": 5,
+    "picks": 3,
+    "points": 51
+  },
+  {
+    "owner": "Jared",
+    "round": 6,
+    "picks": 8,
+    "points": 98
+  },
+  {
+    "owner": "Jared",
+    "round": 7,
+    "picks": 3,
+    "points": 15
+  },
+  {
+    "owner": "Jawad",
+    "round": 1,
+    "picks": 3,
+    "points": 105
+  },
+  {
+    "owner": "Jawad",
+    "round": 2,
+    "picks": 9,
+    "points": 220
+  },
+  {
+    "owner": "Jawad",
+    "round": 3,
+    "picks": 5,
+    "points": 70
+  },
+  {
+    "owner": "Jawad",
+    "round": 4,
+    "picks": 1,
+    "points": 18
+  },
+  {
+    "owner": "Jawad",
+    "round": 5,
+    "picks": 5,
+    "points": 75
+  },
+  {
+    "owner": "Jawad",
+    "round": 6,
+    "picks": 3,
+    "points": 28
+  },
+  {
+    "owner": "Jawad",
+    "round": 7,
+    "picks": 5,
+    "points": 45
+  },
+  {
+    "owner": "Ross",
+    "round": 1,
+    "picks": 8,
+    "points": 295
+  },
+  {
+    "owner": "Ross",
+    "round": 3,
+    "picks": 8,
+    "points": 110
+  },
+  {
+    "owner": "Ross",
+    "round": 4,
+    "picks": 4,
+    "points": 52
+  },
+  {
+    "owner": "Ross",
+    "round": 5,
+    "picks": 4,
+    "points": 68
+  },
+  {
+    "owner": "Ross",
+    "round": 6,
+    "picks": 1,
+    "points": 16
+  },
+  {
+    "owner": "Ross",
+    "round": 7,
+    "picks": 2,
+    "points": 30
+  },
+  {
+    "owner": "Tilo",
+    "round": 1,
+    "picks": 6,
+    "points": 215
+  },
+  {
+    "owner": "Tilo",
+    "round": 2,
+    "picks": 6,
+    "points": 160
+  },
+  {
+    "owner": "Tilo",
+    "round": 3,
+    "picks": 4,
+    "points": 70
+  },
+  {
+    "owner": "Tilo",
+    "round": 4,
+    "picks": 4,
+    "points": 52
+  },
+  {
+    "owner": "Tilo",
+    "round": 5,
+    "picks": 1,
+    "points": 7
+  },
+  {
+    "owner": "Tilo",
+    "round": 6,
+    "picks": 1,
+    "points": 16
+  },
+  {
+    "owner": "Tilo",
+    "round": 7,
+    "picks": 4,
+    "points": 50
+  }
+]

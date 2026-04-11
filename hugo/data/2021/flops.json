@@ -1,0 +1,26 @@
+[
+  {
+    "school": "Pitt",
+    "owner": "Jawad",
+    "bid": 8,
+    "projected": 66
+  },
+  {
+    "school": "BYU",
+    "owner": "Jawad",
+    "bid": 24,
+    "projected": 63
+  },
+  {
+    "school": "NC State",
+    "owner": "Tilo",
+    "bid": 3,
+    "projected": 22
+  },
+  {
+    "school": "Michigan State",
+    "owner": "Tilo",
+    "bid": 2,
+    "projected": 13
+  }
+]

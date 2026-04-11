@@ -1,0 +1,14 @@
+[
+  {
+    "school": "Washington",
+    "owner": "Jared",
+    "bid": 2,
+    "projected": 12
+  },
+  {
+    "school": "Vanderbilt",
+    "owner": "Netten",
+    "bid": 1,
+    "projected": 3
+  }
+]

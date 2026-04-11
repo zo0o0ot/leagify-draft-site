@@ -1,0 +1,582 @@
+[
+  {
+    "school": "Ohio State",
+    "owner": "Ross",
+    "bid": 70,
+    "projected": 225,
+    "actual": 286,
+    "difference": 61,
+    "performance_ratio": 1.271,
+    "points_per_dollar": 4.086
+  },
+  {
+    "school": "Georgia",
+    "owner": "Ross",
+    "bid": 69,
+    "projected": 160,
+    "actual": 226,
+    "difference": 66,
+    "performance_ratio": 1.413,
+    "points_per_dollar": 3.275
+  },
+  {
+    "school": "Texas",
+    "owner": "Tilo",
+    "bid": 69,
+    "projected": 202,
+    "actual": 205,
+    "difference": 3,
+    "performance_ratio": 1.015,
+    "points_per_dollar": 2.971
+  },
+  {
+    "school": "Oregon",
+    "owner": "Jared",
+    "bid": 55,
+    "projected": 116,
+    "actual": 175,
+    "difference": 59,
+    "performance_ratio": 1.509,
+    "points_per_dollar": 3.182
+  },
+  {
+    "school": "Michigan",
+    "owner": "Jawad",
+    "bid": 140,
+    "projected": 148,
+    "actual": 172,
+    "difference": 24,
+    "performance_ratio": 1.162,
+    "points_per_dollar": 1.229
+  },
+  {
+    "school": "Ole Miss",
+    "owner": "Jared",
+    "bid": 40,
+    "projected": 144,
+    "actual": 146,
+    "difference": 2,
+    "performance_ratio": 1.014,
+    "points_per_dollar": 3.65
+  },
+  {
+    "school": "Alabama",
+    "owner": "AJ",
+    "bid": 40,
+    "projected": 95,
+    "actual": 144,
+    "difference": 49,
+    "performance_ratio": 1.516,
+    "points_per_dollar": 3.6
+  },
+  {
+    "school": "Miami (FL)",
+    "owner": "Jared",
+    "bid": 32,
+    "projected": 89,
+    "actual": 127,
+    "difference": 38,
+    "performance_ratio": 1.427,
+    "points_per_dollar": 3.969
+  },
+  {
+    "school": "LSU",
+    "owner": "Ross",
+    "bid": 31,
+    "projected": 109,
+    "actual": 124,
+    "difference": 15,
+    "performance_ratio": 1.138,
+    "points_per_dollar": 4.0
+  },
+  {
+    "school": "Penn State",
+    "owner": "AJ",
+    "bid": 44,
+    "projected": 100,
+    "actual": 117,
+    "difference": 17,
+    "performance_ratio": 1.17,
+    "points_per_dollar": 2.659
+  },
+  {
+    "school": "Maryland",
+    "owner": "Ross",
+    "bid": 2,
+    "projected": 29,
+    "actual": 102,
+    "difference": 73,
+    "performance_ratio": 3.517,
+    "points_per_dollar": 51.0
+  },
+  {
+    "school": "South Carolina",
+    "owner": "AJ",
+    "bid": 40,
+    "projected": 89,
+    "actual": 101,
+    "difference": 12,
+    "performance_ratio": 1.135,
+    "points_per_dollar": 2.525
+  },
+  {
+    "school": "Arizona",
+    "owner": "AJ",
+    "bid": 20,
+    "projected": 57,
+    "actual": 86,
+    "difference": 29,
+    "performance_ratio": 1.509,
+    "points_per_dollar": 4.3
+  },
+  {
+    "school": "Florida",
+    "owner": "Jared",
+    "bid": 3,
+    "projected": 37,
+    "actual": 86,
+    "difference": 49,
+    "performance_ratio": 2.324,
+    "points_per_dollar": 28.667
+  },
+  {
+    "school": "Colorado",
+    "owner": "Tilo",
+    "bid": 35,
+    "projected": 84,
+    "actual": 84,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 2.4
+  },
+  {
+    "school": "Notre Dame",
+    "owner": "Jawad",
+    "bid": 25,
+    "projected": 75,
+    "actual": 83,
+    "difference": 8,
+    "performance_ratio": 1.107,
+    "points_per_dollar": 3.32
+  },
+  {
+    "school": "UCLA",
+    "owner": "AJ",
+    "bid": 11,
+    "projected": 37,
+    "actual": 81,
+    "difference": 44,
+    "performance_ratio": 2.189,
+    "points_per_dollar": 7.364
+  },
+  {
+    "school": "Texas A&M",
+    "owner": "Ross",
+    "bid": 10,
+    "projected": 65,
+    "actual": 80,
+    "difference": 15,
+    "performance_ratio": 1.231,
+    "points_per_dollar": 8.0
+  },
+  {
+    "school": "Iowa State",
+    "owner": "Jared",
+    "bid": 16,
+    "projected": 52,
+    "actual": 78,
+    "difference": 26,
+    "performance_ratio": 1.5,
+    "points_per_dollar": 4.875
+  },
+  {
+    "school": "Tennessee",
+    "owner": "Tilo",
+    "bid": 25,
+    "projected": 65,
+    "actual": 76,
+    "difference": 11,
+    "performance_ratio": 1.169,
+    "points_per_dollar": 3.04
+  },
+  {
+    "school": "Virginia Tech",
+    "owner": "Tilo",
+    "bid": 8,
+    "projected": 39,
+    "actual": 74,
+    "difference": 35,
+    "performance_ratio": 1.897,
+    "points_per_dollar": 9.25
+  },
+  {
+    "school": "Missouri",
+    "owner": "Jared",
+    "bid": 12,
+    "projected": 73,
+    "actual": 70,
+    "difference": -3,
+    "performance_ratio": 0.959,
+    "points_per_dollar": 5.833
+  },
+  {
+    "school": "Louisville",
+    "owner": "AJ",
+    "bid": 6,
+    "projected": 35,
+    "actual": 58,
+    "difference": 23,
+    "performance_ratio": 1.657,
+    "points_per_dollar": 9.667
+  },
+  {
+    "school": "Syracuse",
+    "owner": "Ross",
+    "bid": 3,
+    "projected": 32,
+    "actual": 53,
+    "difference": 21,
+    "performance_ratio": 1.656,
+    "points_per_dollar": 17.667
+  },
+  {
+    "school": "Boston College",
+    "owner": "Jared",
+    "bid": 5,
+    "projected": 42,
+    "actual": 52,
+    "difference": 10,
+    "performance_ratio": 1.238,
+    "points_per_dollar": 10.4
+  },
+  {
+    "school": "Iowa",
+    "owner": "Tilo",
+    "bid": 32,
+    "projected": 55,
+    "actual": 52,
+    "difference": -3,
+    "performance_ratio": 0.945,
+    "points_per_dollar": 1.625
+  },
+  {
+    "school": "California",
+    "owner": "Tilo",
+    "bid": 1,
+    "projected": 21,
+    "actual": 52,
+    "difference": 31,
+    "performance_ratio": 2.476,
+    "points_per_dollar": 52.0
+  },
+  {
+    "school": "Boise State",
+    "owner": "Jawad",
+    "bid": 27,
+    "projected": 42,
+    "actual": 51,
+    "difference": 9,
+    "performance_ratio": 1.214,
+    "points_per_dollar": 1.889
+  },
+  {
+    "school": "Oklahoma State",
+    "owner": "Jawad",
+    "bid": 1,
+    "projected": 22,
+    "actual": 48,
+    "difference": 26,
+    "performance_ratio": 2.182,
+    "points_per_dollar": 48.0
+  },
+  {
+    "school": "Minnesota",
+    "owner": "Jared",
+    "bid": 7,
+    "projected": 44,
+    "actual": 45,
+    "difference": 1,
+    "performance_ratio": 1.023,
+    "points_per_dollar": 6.429
+  },
+  {
+    "school": "Kentucky",
+    "owner": "Jawad",
+    "bid": 1,
+    "projected": 47,
+    "actual": 43,
+    "difference": -4,
+    "performance_ratio": 0.915,
+    "points_per_dollar": 43.0
+  },
+  {
+    "school": "USC",
+    "owner": "Netten",
+    "bid": 12,
+    "projected": 17,
+    "actual": 43,
+    "difference": 26,
+    "performance_ratio": 2.529,
+    "points_per_dollar": 3.583
+  },
+  {
+    "school": "UCF",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 22,
+    "actual": 42,
+    "difference": 20,
+    "performance_ratio": 1.909,
+    "points_per_dollar": 42.0
+  },
+  {
+    "school": "Auburn",
+    "owner": "Netten",
+    "bid": 1,
+    "projected": 19,
+    "actual": 41,
+    "difference": 22,
+    "performance_ratio": 2.158,
+    "points_per_dollar": 41.0
+  },
+  {
+    "school": "Arkansas",
+    "owner": "Jared",
+    "bid": 3,
+    "projected": 36,
+    "actual": 40,
+    "difference": 4,
+    "performance_ratio": 1.111,
+    "points_per_dollar": 13.333
+  },
+  {
+    "school": "North Dakota State",
+    "owner": "Netten",
+    "bid": 60,
+    "projected": 25,
+    "actual": 36,
+    "difference": 11,
+    "performance_ratio": 1.44,
+    "points_per_dollar": 0.6
+  },
+  {
+    "school": "Rutgers",
+    "owner": "Tilo",
+    "bid": 12,
+    "projected": 23,
+    "actual": 36,
+    "difference": 13,
+    "performance_ratio": 1.565,
+    "points_per_dollar": 3.0
+  },
+  {
+    "school": "TCU",
+    "owner": "Ross",
+    "bid": 2,
+    "projected": 28,
+    "actual": 35,
+    "difference": 7,
+    "performance_ratio": 1.25,
+    "points_per_dollar": 17.5
+  },
+  {
+    "school": "Kansas State",
+    "owner": "Jawad",
+    "bid": 2,
+    "projected": 24,
+    "actual": 34,
+    "difference": 10,
+    "performance_ratio": 1.417,
+    "points_per_dollar": 17.0
+  },
+  {
+    "school": "Kansas",
+    "owner": "Tilo",
+    "bid": 15,
+    "projected": 30,
+    "actual": 32,
+    "difference": 2,
+    "performance_ratio": 1.067,
+    "points_per_dollar": 2.133
+  },
+  {
+    "school": "Clemson",
+    "owner": "Netten",
+    "bid": 40,
+    "projected": 24,
+    "actual": 29,
+    "difference": 5,
+    "performance_ratio": 1.208,
+    "points_per_dollar": 0.725
+  },
+  {
+    "school": "Florida State",
+    "owner": "AJ",
+    "bid": 10,
+    "projected": 46,
+    "actual": 28,
+    "difference": -18,
+    "performance_ratio": 0.609,
+    "points_per_dollar": 2.8
+  },
+  {
+    "school": "Texas Tech",
+    "owner": "Netten",
+    "bid": 4,
+    "projected": 20,
+    "actual": 26,
+    "difference": 6,
+    "performance_ratio": 1.3,
+    "points_per_dollar": 6.5
+  },
+  {
+    "school": "North Carolina",
+    "owner": "AJ",
+    "bid": 10,
+    "projected": 47,
+    "actual": 25,
+    "difference": -22,
+    "performance_ratio": 0.532,
+    "points_per_dollar": 2.5
+  },
+  {
+    "school": "Nebraska",
+    "owner": "AJ",
+    "bid": 3,
+    "projected": 24,
+    "actual": 23,
+    "difference": -1,
+    "performance_ratio": 0.958,
+    "points_per_dollar": 7.667
+  },
+  {
+    "school": "Illinois",
+    "owner": "Netten",
+    "bid": 40,
+    "projected": 9,
+    "actual": 20,
+    "difference": 11,
+    "performance_ratio": 2.222,
+    "points_per_dollar": 0.5
+  },
+  {
+    "school": "West Virginia",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 22,
+    "actual": 20,
+    "difference": -2,
+    "performance_ratio": 0.909,
+    "points_per_dollar": 20.0
+  },
+  {
+    "school": "Stanford",
+    "owner": "Jawad",
+    "bid": 1,
+    "projected": 22,
+    "actual": 18,
+    "difference": -4,
+    "performance_ratio": 0.818,
+    "points_per_dollar": 18.0
+  },
+  {
+    "school": "Purdue",
+    "owner": "Tilo",
+    "bid": 1,
+    "projected": 17,
+    "actual": 17,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 17.0
+  },
+  {
+    "school": "Colorado State",
+    "owner": "Tilo",
+    "bid": 2,
+    "projected": 12,
+    "actual": 17,
+    "difference": 5,
+    "performance_ratio": 1.417,
+    "points_per_dollar": 8.5
+  },
+  {
+    "school": "Oklahoma",
+    "owner": "Netten",
+    "bid": 40,
+    "projected": 21,
+    "actual": 16,
+    "difference": -5,
+    "performance_ratio": 0.762,
+    "points_per_dollar": 0.4
+  },
+  {
+    "school": "Marshall",
+    "owner": "Jared",
+    "bid": 7,
+    "projected": 30,
+    "actual": 15,
+    "difference": -15,
+    "performance_ratio": 0.5,
+    "points_per_dollar": 2.143
+  },
+  {
+    "school": "Utah",
+    "owner": "Jawad",
+    "bid": 1,
+    "projected": 13,
+    "actual": 15,
+    "difference": 2,
+    "performance_ratio": 1.154,
+    "points_per_dollar": 15.0
+  },
+  {
+    "school": "Vanderbilt",
+    "owner": "Netten",
+    "bid": 1,
+    "projected": 2,
+    "actual": 15,
+    "difference": 13,
+    "performance_ratio": 7.5,
+    "points_per_dollar": 15.0
+  },
+  {
+    "school": "Indiana",
+    "owner": "Jawad",
+    "bid": 1,
+    "projected": 20,
+    "actual": 13,
+    "difference": -7,
+    "performance_ratio": 0.65,
+    "points_per_dollar": 13.0
+  },
+  {
+    "school": "Toledo",
+    "owner": "AJ",
+    "bid": 7,
+    "projected": 24,
+    "actual": 10,
+    "difference": -14,
+    "performance_ratio": 0.417,
+    "points_per_dollar": 1.429
+  },
+  {
+    "school": "Bowling Green",
+    "owner": "Netten",
+    "bid": 1,
+    "projected": 12,
+    "actual": 10,
+    "difference": -2,
+    "performance_ratio": 0.833,
+    "points_per_dollar": 10.0
+  },
+  {
+    "school": "East Carolina",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 20,
+    "actual": 10,
+    "difference": -10,
+    "performance_ratio": 0.5,
+    "points_per_dollar": 10.0
+  }
+]
