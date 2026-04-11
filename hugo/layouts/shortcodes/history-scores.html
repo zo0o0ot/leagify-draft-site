@@ -12,7 +12,7 @@
   {{ end }}
 {{ end }}
 
-{{/* Build school scores dataset across all years */}}
+{{/* Build school scores dataset across all years (owned + unclaimed) */}}
 {{ $allSchoolScores := slice }}
 {{ range $years }}
   {{ $y := . }}
@@ -20,6 +20,12 @@
   {{ if $schoolData }}
     {{ range $schoolData }}
       {{ $allSchoolScores = $allSchoolScores | append (dict "year" (int $y) "school" .school "actual" .actual) }}
+    {{ end }}
+  {{ end }}
+  {{ $nobodyData := index hugo.Data $y "nobody_schools" }}
+  {{ if $nobodyData }}
+    {{ range $nobodyData }}
+      {{ $allSchoolScores = $allSchoolScores | append (dict "year" (int $y) "school" .school "actual" .points) }}
     {{ end }}
   {{ end }}
 {{ end }}
