@@ -12,6 +12,18 @@
   {{ end }}
 {{ end }}
 
+{{/* Build school scores dataset across all years */}}
+{{ $allSchoolScores := slice }}
+{{ range $years }}
+  {{ $y := . }}
+  {{ $schoolData := index hugo.Data $y "school_stats" }}
+  {{ if $schoolData }}
+    {{ range $schoolData }}
+      {{ $allSchoolScores = $allSchoolScores | append (dict "year" (int $y) "school" .school "actual" .actual) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{/* Compute all-time totals */}}
 {{ $totals := dict }}
 {{ range $allScores }}
@@ -47,6 +59,9 @@
 
 <h2>Points by Year</h2>
 <div id="history-line-chart"></div>
+
+<h2>Top 20 Schools All-Time</h2>
+<div id="history-schools-chart"></div>
 
 <h3>All-Time Points Table</h3>
 <div style="overflow-x:auto">
@@ -138,4 +153,84 @@ const lineChart = Plot.plot({
   ],
 });
 document.getElementById("history-line-chart").append(lineChart);
+
+// Top 20 schools stacked by year
+const YEAR_COLORS = {
+  2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2'
+};
+
+// Normalize school names that changed across years
+const SCHOOL_ALIASES = {
+  'Brigham Young': 'BYU',
+};
+
+const schoolRaw = JSON.parse({{ $allSchoolScores | jsonify }});
+
+// Apply aliases and filter to schools with actual points
+const schoolNorm = schoolRaw
+  .map(d => ({ ...d, school: SCHOOL_ALIASES[d.school] ?? d.school }))
+  .filter(d => d.actual > 0);
+
+// Sum total points per school across all years
+const schoolTotals = new Map();
+for (const d of schoolNorm) {
+  schoolTotals.set(d.school, (schoolTotals.get(d.school) ?? 0) + d.actual);
+}
+
+// Pick top 20 schools
+const top20Schools = new Set(
+  [...schoolTotals.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20)
+    .map(([school]) => school)
+);
+
+const schoolData = schoolNorm.filter(d => top20Schools.has(d.school));
+
+// Sort order for y-axis: by total descending
+const schoolOrder = [...schoolTotals.entries()]
+  .filter(([s]) => top20Schools.has(s))
+  .sort((a, b) => a[1] - b[1])  // ascending so highest is at top in Plot
+  .map(([school]) => school);
+
+const years = [2021, 2022, 2023, 2024, 2025];
+
+const schoolsChart = Plot.plot({
+  marginLeft: 120,
+  marginRight: 60,
+  height: 520,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Points", grid: true },
+  y: { label: null, domain: schoolOrder },
+  color: {
+    domain: years,
+    range: years.map(y => YEAR_COLORS[y]),
+    legend: true,
+    label: "Year",
+    tickFormat: d => d.toString(),
+  },
+  marks: [
+    Plot.barX(schoolData, Plot.stackX({
+      x: "actual",
+      y: "school",
+      fill: "year",
+      order: "year",
+      title: d => `${d.year}: ${d.actual} pts`,
+    })),
+    Plot.text(
+      [...schoolTotals.entries()].filter(([s]) => top20Schools.has(s)).map(([school, total]) => ({ school, total })),
+      {
+        x: d => d.total,
+        y: "school",
+        text: d => d.total.toString(),
+        dx: 6,
+        textAnchor: "start",
+        fill: "#dfe2eb",
+        fontSize: 11,
+      }
+    ),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("history-schools-chart").append(schoolsChart);
 </script>
