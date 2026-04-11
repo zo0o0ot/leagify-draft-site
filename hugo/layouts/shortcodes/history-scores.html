@@ -187,7 +187,7 @@ for (const d of schoolNorm) {
 const top20Schools = new Set(
   [...schoolTotals.entries()]
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 20)
+    .slice(0, 25)
     .map(([school]) => school)
 );
 
@@ -204,7 +204,7 @@ const years = [2021, 2022, 2023, 2024, 2025];
 const schoolsChart = Plot.plot({
   marginLeft: 120,
   marginRight: 60,
-  height: 520,
+  height: 640,
   style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
   x: { label: "Points", grid: true },
   y: { label: null, domain: schoolOrder },
