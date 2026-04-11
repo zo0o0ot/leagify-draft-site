@@ -1,5 +1,40 @@
-<!-- nobody-schools shortcode -->
-<div id="nobody-schools-{{ .Get "year" }}"></div>
-<script>
-  // Populated by nobody-schools.js
+{{ $year := .Get "year" }}
+{{ $data := index hugo.Data $year "nobody_schools" }}
+{{ if $data }}
+<h2>Unowned Schools</h2>
+<p style="color:#c4c6cf;font-size:0.9em">Schools with NFL draft picks that no fantasy owner held. These are points nobody earned.</p>
+<div id="nobody-schools-{{ $year }}"></div>
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+const data = JSON.parse({{ $data | jsonify }});
+const chart = Plot.plot({
+  marginLeft: 160,
+  marginRight: 60,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Points (unclaimed)", grid: true },
+  y: { label: null },
+  marks: [
+    Plot.barX(data, {
+      x: "points",
+      y: "school",
+      sort: { y: "-x" },
+      fill: "#555e6e",
+    }),
+    Plot.text(data, {
+      x: "points",
+      y: "school",
+      text: d => d.points.toString(),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#dfe2eb",
+      sort: { y: "-x" },
+    }),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("nobody-schools-{{ $year }}").append(chart);
 </script>
+{{ else }}
+<p style="color:#59a14f">✓ Every school with NFL picks was owned by someone in the fantasy league.</p>
+{{ end }}

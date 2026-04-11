@@ -1,5 +1,37 @@
-<!-- picks-feed shortcode -->
-<div id="picks-feed-{{ .Get "year" }}"></div>
-<script>
-  // Populated by picks-feed.js
-</script>
+{{ $year := .Get "year" }}
+{{ $data := index hugo.Data $year "picks" }}
+{{ if $data }}
+<h2>All Picks</h2>
+<div style="overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:0.875em">
+  <thead>
+    <tr style="border-bottom:2px solid #31353c;color:#e9c400;text-align:left">
+      <th style="padding:6px 10px">#</th>
+      <th style="padding:6px 10px">Player</th>
+      <th style="padding:6px 10px">School</th>
+      <th style="padding:6px 10px">Pos</th>
+      <th style="padding:6px 10px">Rnd</th>
+      <th style="padding:6px 10px">Owner</th>
+      <th style="padding:6px 10px">Pts</th>
+      <th style="padding:6px 10px">Trade</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $data }}
+    <tr style="border-bottom:1px solid #1c2026">
+      <td style="padding:4px 10px;color:#c4c6cf">{{ .pick }}</td>
+      <td style="padding:4px 10px;font-weight:500">{{ .player }}</td>
+      <td style="padding:4px 10px">{{ .school }}</td>
+      <td style="padding:4px 10px;color:#c4c6cf">{{ .position }}</td>
+      <td style="padding:4px 10px;color:#c4c6cf;text-align:center">{{ .round }}</td>
+      <td style="padding:4px 10px">{{ .owner }}</td>
+      <td style="padding:4px 10px;text-align:right;font-weight:600;color:#e9c400">{{ .points }}</td>
+      <td style="padding:4px 10px;text-align:center;color:#adc6ff">{{ if .traded }}✓{{ end }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+</div>
+{{ else }}
+<p>No picks data available yet.</p>
+{{ end }}

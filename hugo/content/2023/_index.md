@@ -1,13 +1,16 @@
 ---
 title: "2023 NFL Draft"
 description: "Full 2023 Leagify draft results"
+layout: "page"
 ---
 
 {{< owner-scores year="2023" >}}
 
-{{< school-stats year="2023" >}}
-
 {{< round-breakdown year="2023" >}}
+
+{{< draft-roster year="2023" >}}
+
+{{< school-stats year="2023" >}}
 
 {{< flops year="2023" >}}
 

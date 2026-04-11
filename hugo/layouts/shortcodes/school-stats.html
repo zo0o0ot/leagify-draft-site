@@ -1,5 +1,86 @@
-<!-- school-stats shortcode -->
-<div id="school-stats-{{ .Get "year" }}"></div>
-<script>
-  // Populated by school-stats.js
+{{ $year := .Get "year" }}
+{{ $data := index hugo.Data $year "school_stats" }}
+{{ if $data }}
+<h2>School Performance</h2>
+<p style="color:#c4c6cf;font-size:0.9em">Each dot is a school. Schools above the line outperformed their projected points; below the line underperformed. Hover for details.</p>
+<div id="school-stats-{{ $year }}"></div>
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+const OWNER_COLORS = {
+  'Ross': '#4e79a7', 'Tilo': '#f28e2b', 'Jared': '#e15759',
+  'AJ': '#76b7b2', 'Jawad': '#59a14f', 'Netten': '#edc948'
+};
+
+const data = JSON.parse({{ $data | jsonify }});
+const maxVal = Math.max(...data.map(d => Math.max(d.projected, d.actual))) * 1.05;
+
+const chart = Plot.plot({
+  width: 600,
+  height: 500,
+  marginLeft: 60,
+  marginBottom: 50,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Projected Points", domain: [0, maxVal], grid: true },
+  y: { label: "Actual Points", domain: [0, maxVal], grid: true },
+  marks: [
+    // break-even line
+    Plot.line([[0, 0], [maxVal, maxVal]], { stroke: "#555", strokeDasharray: "4,4" }),
+    Plot.dot(data, {
+      x: "projected",
+      y: "actual",
+      r: 6,
+      fill: d => OWNER_COLORS[d.owner] ?? "#888",
+      stroke: "#1c2026",
+      strokeWidth: 1,
+      title: d => `${d.school}\n${d.owner}\nBid: $${d.bid}\nProjected: ${d.projected}\nActual: ${d.actual}\nDiff: ${d.difference > 0 ? "+" : ""}${d.difference}`,
+    }),
+    Plot.text(data, {
+      x: "projected",
+      y: "actual",
+      text: d => d.school,
+      dy: -10,
+      fontSize: 10,
+      fill: "#c4c6cf",
+    }),
+  ],
+});
+document.getElementById("school-stats-{{ $year }}").append(chart);
 </script>
+
+<h3>School Stats Table</h3>
+<div style="overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:0.9em">
+  <thead>
+    <tr style="border-bottom:2px solid #31353c;color:#e9c400">
+      <th style="text-align:left;padding:6px 10px">School</th>
+      <th style="text-align:left;padding:6px 10px">Owner</th>
+      <th style="text-align:right;padding:6px 10px">Bid</th>
+      <th style="text-align:right;padding:6px 10px">Projected</th>
+      <th style="text-align:right;padding:6px 10px">Actual</th>
+      <th style="text-align:right;padding:6px 10px">Diff</th>
+      <th style="text-align:right;padding:6px 10px">Ratio</th>
+      <th style="text-align:right;padding:6px 10px">Pts/$</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $data }}
+    <tr style="border-bottom:1px solid #1c2026">
+      <td style="padding:5px 10px">{{ .school }}</td>
+      <td style="padding:5px 10px">{{ .owner }}</td>
+      <td style="text-align:right;padding:5px 10px">${{ .bid }}</td>
+      <td style="text-align:right;padding:5px 10px">{{ .projected }}</td>
+      <td style="text-align:right;padding:5px 10px">{{ .actual }}</td>
+      <td style="text-align:right;padding:5px 10px{{ if gt .difference 0 }};color:#59a14f{{ else if lt .difference 0 }};color:#e15759{{ end }}">
+        {{ if gt .difference 0 }}+{{ end }}{{ .difference }}
+      </td>
+      <td style="text-align:right;padding:5px 10px">{{ printf "%.2f" .performance_ratio }}</td>
+      <td style="text-align:right;padding:5px 10px">{{ if .points_per_dollar }}{{ printf "%.2f" .points_per_dollar }}{{ else }}—{{ end }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+</div>
+{{ else }}
+<p>No school data available yet.</p>
+{{ end }}

@@ -1,5 +1,141 @@
-<!-- history-scores shortcode -->
-<div id="history-scores"></div>
-<script>
-  // Populated by history.js
+{{ $years := slice "2021" "2022" "2023" "2024" "2025" }}
+
+{{/* Build a combined dataset for all years */}}
+{{ $allScores := slice }}
+{{ range $years }}
+  {{ $y := . }}
+  {{ $yearData := index hugo.Data $y "owner_scores" }}
+  {{ if $yearData }}
+    {{ range $yearData }}
+      {{ $allScores = $allScores | append (dict "year" (int $y) "owner" .owner "points" .points) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Compute all-time totals */}}
+{{ $totals := dict }}
+{{ range $allScores }}
+  {{ $cur := index $totals .owner | default 0 }}
+  {{ $totals = merge $totals (dict .owner (add $cur .points)) }}
+{{ end }}
+
+<h2>Year-by-Year Podium</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-bottom:2.5rem">
+{{ range $years }}
+  {{ $y := . }}
+  {{ $yearData := index hugo.Data $y "owner_scores" }}
+  {{ if $yearData }}
+  <div style="background:#1c2026;border-radius:0.375rem;padding:1rem">
+    <div style="font-size:0.85em;color:#c4c6cf;margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.05em">{{ $y }}</div>
+    {{ range $i, $row := $yearData }}
+      {{ if lt $i 3 }}
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:4px 0;{{ if eq $i 0 }}border-bottom:1px solid #31353c{{ end }}">
+        <span style="{{ if eq $i 0 }}color:#e9c400;font-weight:700;font-size:1.05em{{ else if eq $i 1 }}color:#c4c6cf;font-weight:600{{ else }}color:#7a6a4a{{ end }}">
+          {{ if eq $i 0 }}🥇{{ else if eq $i 1 }}🥈{{ else }}🥉{{ end }} {{ $row.owner }}
+        </span>
+        <span style="color:#c4c6cf;font-size:0.9em">{{ $row.points }}</span>
+      </div>
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ end }}
+{{ end }}
+</div>
+
+<h2>All-Time Owner Standings</h2>
+<div id="history-totals-chart"></div>
+
+<h2>Points by Year</h2>
+<div id="history-line-chart"></div>
+
+<h3>All-Time Points Table</h3>
+<div style="overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:0.9em;max-width:400px">
+  <thead>
+    <tr style="border-bottom:2px solid #31353c;color:#e9c400;text-align:left">
+      <th style="padding:6px 10px">Owner</th>
+      <th style="text-align:right;padding:6px 10px">Total Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $owner, $pts := $totals }}
+    <tr style="border-bottom:1px solid #1c2026">
+      <td style="padding:5px 10px">{{ $owner }}</td>
+      <td style="text-align:right;padding:5px 10px;font-weight:600;color:#e9c400">{{ $pts }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+</div>
+
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+const OWNER_COLORS = {
+  'Ross': '#4e79a7', 'Tilo': '#f28e2b', 'Jared': '#e15759',
+  'AJ': '#76b7b2', 'Jawad': '#59a14f', 'Netten': '#edc948'
+};
+
+const data = JSON.parse({{ $allScores | jsonify }});
+
+// All-time totals bar chart
+const totals = Array.from(
+  data.reduce((m, d) => m.set(d.owner, (m.get(d.owner) ?? 0) + d.points), new Map()),
+  ([owner, points]) => ({ owner, points })
+).sort((a, b) => b.points - a.points);
+
+const totalsChart = Plot.plot({
+  marginLeft: 70,
+  marginRight: 60,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "14px" },
+  x: { label: "Total Points", grid: true },
+  y: { label: null },
+  marks: [
+    Plot.barX(totals, {
+      x: "points",
+      y: "owner",
+      sort: { y: "-x" },
+      fill: d => OWNER_COLORS[d.owner] ?? "#888",
+    }),
+    Plot.text(totals, {
+      x: "points",
+      y: "owner",
+      text: d => d.points.toString(),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#dfe2eb",
+      sort: { y: "-x" },
+    }),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("history-totals-chart").append(totalsChart);
+
+// Line chart by year
+const lineChart = Plot.plot({
+  marginLeft: 50,
+  marginRight: 80,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Year", tickFormat: d => d.toString(), type: "point" },
+  y: { label: "Points", grid: true },
+  color: { domain: Object.keys(OWNER_COLORS), range: Object.values(OWNER_COLORS), legend: true },
+  marks: [
+    Plot.line(data, {
+      x: "year",
+      y: "points",
+      stroke: "owner",
+      strokeWidth: 2,
+      marker: "circle",
+    }),
+    Plot.text(data, {
+      x: "year",
+      y: "points",
+      text: d => d.points.toString(),
+      dy: -10,
+      fontSize: 10,
+      fill: "#c4c6cf",
+    }),
+  ],
+});
+document.getElementById("history-line-chart").append(lineChart);
 </script>

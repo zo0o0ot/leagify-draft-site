@@ -1,5 +1,44 @@
-<!-- owner-scores shortcode -->
-<div id="owner-scores-{{ .Get "year" }}"></div>
-<script>
-  // Populated by owner-scores.js
+{{ $year := .Get "year" }}
+{{ $data := index hugo.Data $year "owner_scores" }}
+{{ if $data }}
+<h2>Owner Scores</h2>
+<div id="owner-scores-{{ $year }}"></div>
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+const OWNER_COLORS = {
+  'Ross': '#4e79a7', 'Tilo': '#f28e2b', 'Jared': '#e15759',
+  'AJ': '#76b7b2', 'Jawad': '#59a14f', 'Netten': '#edc948'
+};
+
+const data = JSON.parse({{ $data | jsonify }});
+const chart = Plot.plot({
+  marginLeft: 70,
+  marginRight: 60,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "14px" },
+  x: { label: "Points", grid: true },
+  y: { label: null },
+  marks: [
+    Plot.barX(data, {
+      x: "points",
+      y: "owner",
+      sort: { y: "-x" },
+      fill: d => OWNER_COLORS[d.owner] ?? "#888",
+    }),
+    Plot.text(data, {
+      x: "points",
+      y: "owner",
+      text: d => d.points.toString(),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#dfe2eb",
+      sort: { y: "-x" },
+    }),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("owner-scores-{{ $year }}").append(chart);
 </script>
+{{ else }}
+<p>No scoring data available yet.</p>
+{{ end }}

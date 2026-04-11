@@ -1,13 +1,5 @@
 [
   {
-    "school": "Brigham Young",
-    "points": 100
-  },
-  {
-    "school": "Pittsburgh",
-    "points": 92
-  },
-  {
     "school": "Virginia Tech",
     "points": 86
   },
@@ -122,10 +114,6 @@
   {
     "school": "Nebraska",
     "points": 12
-  },
-  {
-    "school": "North Carolina State",
-    "points": 10
   },
   {
     "school": "San Diego State",

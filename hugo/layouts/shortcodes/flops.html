@@ -1,5 +1,46 @@
-<!-- flops shortcode -->
-<div id="flops-{{ .Get "year" }}"></div>
-<script>
-  // Populated by flops.js
+{{ $year := .Get "year" }}
+{{ $data := index hugo.Data $year "flops" }}
+{{ if $data }}
+<h2>Flop Schools</h2>
+<p style="color:#c4c6cf;font-size:0.9em">Schools drafted in the fantasy league that had no players selected in the NFL draft. Sorted by projected points lost.</p>
+<div id="flops-{{ $year }}"></div>
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+const OWNER_COLORS = {
+  'Ross': '#4e79a7', 'Tilo': '#f28e2b', 'Jared': '#e15759',
+  'AJ': '#76b7b2', 'Jawad': '#59a14f', 'Netten': '#edc948'
+};
+
+const data = JSON.parse({{ $data | jsonify }});
+const chart = Plot.plot({
+  marginLeft: 140,
+  marginRight: 60,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Projected Points (lost)", grid: true },
+  y: { label: null },
+  marks: [
+    Plot.barX(data, {
+      x: "projected",
+      y: d => `${d.school} (${d.owner})`,
+      sort: { y: "-x" },
+      fill: d => OWNER_COLORS[d.owner] ?? "#888",
+      title: d => `${d.school}\n${d.owner}\nBid: $${d.bid}\nProjected: ${d.projected}`,
+    }),
+    Plot.text(data, {
+      x: "projected",
+      y: d => `${d.school} (${d.owner})`,
+      text: d => d.projected.toString(),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#dfe2eb",
+      sort: { y: "-x" },
+    }),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("flops-{{ $year }}").append(chart);
 </script>
+{{ else }}
+<p style="color:#59a14f">✓ No flop schools — every drafted school had at least one player selected.</p>
+{{ end }}

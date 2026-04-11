@@ -15,6 +15,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 2,
+    "round": 1,
+    "pick_in_round": 2,
+    "player": "Zach Wilson",
+    "school": "Brigham Young",
+    "position": "QB",
+    "experience": "JR",
+    "traded": false,
+    "points": 35,
+    "state": "",
+    "conference": "",
+    "player_id": "64cd3620-ad75-47df-83c3-a93162724be7",
+    "owner": "Jawad"
+  },
+  {
     "pick": 3,
     "round": 1,
     "pick_in_round": 3,
@@ -945,6 +960,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 70,
+    "round": 3,
+    "pick_in_round": 6,
+    "player": "Brady Christensen",
+    "school": "Brigham Young",
+    "position": "OL",
+    "experience": "JR",
+    "traded": true,
+    "points": 20,
+    "state": "",
+    "conference": "",
+    "player_id": "f47da012-60e9-4cbb-baae-f6cd339e25d9",
+    "owner": "Jawad"
+  },
+  {
     "pick": 71,
     "round": 3,
     "pick_in_round": 7,
@@ -958,6 +988,21 @@
     "conference": "Big 12",
     "player_id": "2770b98d-f2bc-4d75-9599-695471501508",
     "owner": "Jared"
+  },
+  {
+    "pick": 72,
+    "round": 3,
+    "pick_in_round": 8,
+    "player": "Alim McNeill",
+    "school": "North Carolina State",
+    "position": "DT",
+    "experience": "JR",
+    "traded": false,
+    "points": 10,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "6fd3da77-57af-4cc3-9d2c-386e7561016f",
+    "owner": "Tilo"
   },
   {
     "pick": 74,
@@ -1137,6 +1182,21 @@
     "state": "Michigan",
     "conference": "Big Ten",
     "player_id": "df20f738-32e9-4b17-9d08-04418a459636",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 90,
+    "round": 3,
+    "pick_in_round": 26,
+    "player": "Patrick Jones II",
+    "school": "Pittsburgh",
+    "position": "DL",
+    "experience": "SR",
+    "traded": true,
+    "points": 20,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "bf430a8a-eaf9-414a-a077-6c3f99466974",
     "owner": "Jawad"
   },
   {
@@ -1603,6 +1663,21 @@
     "conference": "ACC",
     "player_id": "80b08dcb-c043-43f0-8649-d3ed121fbb32",
     "owner": "Ross"
+  },
+  {
+    "pick": 135,
+    "round": 4,
+    "pick_in_round": 30,
+    "player": "Rashad Weaver",
+    "school": "Pittsburgh",
+    "position": "DL",
+    "experience": "SR",
+    "traded": true,
+    "points": 18,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "226b90b2-1b87-4cf1-874b-65639c142b13",
+    "owner": "Jawad"
   },
   {
     "pick": 136,
@@ -2100,6 +2175,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 175,
+    "round": 5,
+    "pick_in_round": 31,
+    "player": "Jason Pinnock",
+    "school": "Pittsburgh",
+    "position": "CB",
+    "experience": "SR",
+    "traded": true,
+    "points": 17,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "9da2eb07-a928-498e-8f66-085558ed5531",
+    "owner": "Jawad"
+  },
+  {
     "pick": 176,
     "round": 5,
     "pick_in_round": 32,
@@ -2325,6 +2415,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 199,
+    "round": 6,
+    "pick_in_round": 15,
+    "player": "Jaylen Twyman",
+    "school": "Pittsburgh",
+    "position": "DL",
+    "experience": "JR",
+    "traded": false,
+    "points": 6,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "a1e1a93c-e48e-4e67-bbe9-a34fdc5eaa55",
+    "owner": "Jawad"
+  },
+  {
     "pick": 200,
     "round": 6,
     "pick_in_round": 16,
@@ -2443,6 +2548,21 @@
     "conference": "ACC",
     "player_id": "530b0e35-9f2a-4ff2-8941-4e4da17ec7ff",
     "owner": "Ross"
+  },
+  {
+    "pick": 212,
+    "round": 6,
+    "pick_in_round": 28,
+    "player": "Damar Hamlin",
+    "school": "Pittsburgh",
+    "position": "DB",
+    "experience": "SR",
+    "traded": true,
+    "points": 16,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "cfbb954c-fcbd-4b33-9f71-7e5d50572f1b",
+    "owner": "Jawad"
   },
   {
     "pick": 213,
@@ -2655,6 +2775,21 @@
     "owner": "Tilo"
   },
   {
+    "pick": 230,
+    "round": 7,
+    "pick_in_round": 2,
+    "player": "Jimmy Morrissey",
+    "school": "Pittsburgh",
+    "position": "OL",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "0bd870d8-1f93-4ede-9fef-e3ea076d8749",
+    "owner": "Jawad"
+  },
+  {
     "pick": 232,
     "round": 7,
     "pick_in_round": 4,
@@ -2865,6 +3000,36 @@
     "owner": "Jawad"
   },
   {
+    "pick": 250,
+    "round": 7,
+    "pick_in_round": 22,
+    "player": "Khyiris Tonga",
+    "school": "Brigham Young",
+    "position": "DL",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "",
+    "conference": "",
+    "player_id": "19d880a3-295f-4772-bd20-edc39423f6b9",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 251,
+    "round": 7,
+    "pick_in_round": 23,
+    "player": "Chris Wilcox",
+    "school": "Brigham Young",
+    "position": "DB",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "",
+    "conference": "",
+    "player_id": "2cf7548a-4047-4fa7-8202-acc9e0176168",
+    "owner": "Jawad"
+  },
+  {
     "pick": 253,
     "round": 7,
     "pick_in_round": 25,
@@ -2908,5 +3073,20 @@
     "conference": "Pac 12",
     "player_id": "4d2571cf-f09e-4c8b-982a-589ef2f00416",
     "owner": "AJ"
+  },
+  {
+    "pick": 258,
+    "round": 7,
+    "pick_in_round": 30,
+    "player": "Dax Milne",
+    "school": "Brigham Young",
+    "position": "WR",
+    "experience": "JR",
+    "traded": true,
+    "points": 15,
+    "state": "",
+    "conference": "",
+    "player_id": "aac4a85c-d049-4140-b15d-f8386266c06e",
+    "owner": "Jawad"
   }
 ]

@@ -5,23 +5,23 @@
     "rank": 1
   },
   {
+    "owner": "Jawad",
+    "points": 755,
+    "rank": 2
+  },
+  {
     "owner": "AJ",
     "points": 734,
-    "rank": 2
+    "rank": 3
   },
   {
     "owner": "Ross",
     "points": 642,
-    "rank": 3
-  },
-  {
-    "owner": "Tilo",
-    "points": 599,
     "rank": 4
   },
   {
-    "owner": "Jawad",
-    "points": 563,
+    "owner": "Tilo",
+    "points": 609,
     "rank": 5
   }
 ]

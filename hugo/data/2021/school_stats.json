@@ -2,6 +2,7 @@
   {
     "school": "Alabama",
     "owner": "Ross",
+    "tier": "SEC",
     "bid": 111,
     "projected": 258,
     "actual": 272,
@@ -12,6 +13,7 @@
   {
     "school": "Ohio State",
     "owner": "Tilo",
+    "tier": "Big Ten",
     "bid": 90,
     "projected": 128,
     "actual": 177,
@@ -22,6 +24,7 @@
   {
     "school": "Notre Dame",
     "owner": "Jawad",
+    "tier": "FBS - Independent",
     "bid": 32,
     "projected": 87,
     "actual": 152,
@@ -32,6 +35,7 @@
   {
     "school": "Georgia",
     "owner": "Jared",
+    "tier": "SEC",
     "bid": 55,
     "projected": 122,
     "actual": 148,
@@ -42,6 +46,7 @@
   {
     "school": "Florida",
     "owner": "Tilo",
+    "tier": "SEC",
     "bid": 45,
     "projected": 101,
     "actual": 145,
@@ -52,6 +57,7 @@
   {
     "school": "Clemson",
     "owner": "Jared",
+    "tier": "ACC",
     "bid": 37,
     "projected": 87,
     "actual": 132,
@@ -62,6 +68,7 @@
   {
     "school": "Penn State",
     "owner": "Jawad",
+    "tier": "Big Ten",
     "bid": 32,
     "projected": 84,
     "actual": 115,
@@ -72,6 +79,7 @@
   {
     "school": "Kentucky",
     "owner": "AJ",
+    "tier": "SEC",
     "bid": 4,
     "projected": 45,
     "actual": 113,
@@ -82,6 +90,7 @@
   {
     "school": "Michigan",
     "owner": "Jawad",
+    "tier": "Big Ten",
     "bid": 37,
     "projected": 87,
     "actual": 111,
@@ -92,6 +101,7 @@
   {
     "school": "Oregon",
     "owner": "Tilo",
+    "tier": "Pac 12",
     "bid": 32,
     "projected": 73,
     "actual": 104,
@@ -102,6 +112,7 @@
   {
     "school": "LSU",
     "owner": "Jawad",
+    "tier": "SEC",
     "bid": 38,
     "projected": 111,
     "actual": 103,
@@ -110,8 +121,31 @@
     "points_per_dollar": 2.711
   },
   {
+    "school": "Brigham Young",
+    "owner": "Jawad",
+    "tier": "FBS - Independent",
+    "bid": 24,
+    "projected": 63,
+    "actual": 100,
+    "difference": 37,
+    "performance_ratio": 1.587,
+    "points_per_dollar": 4.167
+  },
+  {
+    "school": "Pittsburgh",
+    "owner": "Jawad",
+    "tier": "ACC",
+    "bid": 8,
+    "projected": 66,
+    "actual": 92,
+    "difference": 26,
+    "performance_ratio": 1.394,
+    "points_per_dollar": 11.5
+  },
+  {
     "school": "Stanford",
     "owner": "Jared",
+    "tier": "Pac 12",
     "bid": 9,
     "projected": 33,
     "actual": 85,
@@ -122,6 +156,7 @@
   {
     "school": "Missouri",
     "owner": "Jared",
+    "tier": "SEC",
     "bid": 13,
     "projected": 39,
     "actual": 82,
@@ -132,6 +167,7 @@
   {
     "school": "UCF",
     "owner": "Jared",
+    "tier": "FBS - AAC",
     "bid": 26,
     "projected": 50,
     "actual": 79,
@@ -142,6 +178,7 @@
   {
     "school": "Miami (FL)",
     "owner": "AJ",
+    "tier": "ACC",
     "bid": 23,
     "projected": 74,
     "actual": 78,
@@ -152,6 +189,7 @@
   {
     "school": "Northwestern",
     "owner": "Jared",
+    "tier": "Big Ten",
     "bid": 27,
     "projected": 71,
     "actual": 72,
@@ -162,6 +200,7 @@
   {
     "school": "Washington",
     "owner": "AJ",
+    "tier": "Pac 12",
     "bid": 19,
     "projected": 59,
     "actual": 72,
@@ -172,6 +211,7 @@
   {
     "school": "Oklahoma State",
     "owner": "AJ",
+    "tier": "Big 12",
     "bid": 31,
     "projected": 62,
     "actual": 72,
@@ -182,6 +222,7 @@
   {
     "school": "USC",
     "owner": "Ross",
+    "tier": "Pac 12",
     "bid": 22,
     "projected": 90,
     "actual": 69,
@@ -192,6 +233,7 @@
   {
     "school": "South Carolina",
     "owner": "Jared",
+    "tier": "SEC",
     "bid": 10,
     "projected": 51,
     "actual": 67,
@@ -202,6 +244,7 @@
   {
     "school": "Oklahoma",
     "owner": "AJ",
+    "tier": "Big 12",
     "bid": 26,
     "projected": 46,
     "actual": 66,
@@ -212,6 +255,7 @@
   {
     "school": "North Carolina",
     "owner": "Ross",
+    "tier": "ACC",
     "bid": 12,
     "projected": 56,
     "actual": 64,
@@ -222,6 +266,7 @@
   {
     "school": "Florida State",
     "owner": "Ross",
+    "tier": "ACC",
     "bid": 27,
     "projected": 71,
     "actual": 62,
@@ -232,6 +277,7 @@
   {
     "school": "North Dakota State",
     "owner": "AJ",
+    "tier": "FCS",
     "bid": 22,
     "projected": 45,
     "actual": 60,
@@ -242,6 +288,7 @@
   {
     "school": "Iowa",
     "owner": "Tilo",
+    "tier": "Big Ten",
     "bid": 18,
     "projected": 46,
     "actual": 60,
@@ -252,6 +299,7 @@
   {
     "school": "Duke",
     "owner": "Ross",
+    "tier": "ACC",
     "bid": 5,
     "projected": 22,
     "actual": 58,
@@ -262,6 +310,7 @@
   {
     "school": "Texas",
     "owner": "AJ",
+    "tier": "Big 12",
     "bid": 35,
     "projected": 83,
     "actual": 55,
@@ -272,6 +321,7 @@
   {
     "school": "Texas A&M",
     "owner": "AJ",
+    "tier": "SEC",
     "bid": 14,
     "projected": 38,
     "actual": 54,
@@ -282,6 +332,7 @@
   {
     "school": "Auburn",
     "owner": "AJ",
+    "tier": "SEC",
     "bid": 9,
     "projected": 39,
     "actual": 50,
@@ -292,6 +343,7 @@
   {
     "school": "TCU",
     "owner": "Jawad",
+    "tier": "Big 12",
     "bid": 11,
     "projected": 43,
     "actual": 47,
@@ -302,6 +354,7 @@
   {
     "school": "Minnesota",
     "owner": "AJ",
+    "tier": "Big Ten",
     "bid": 8,
     "projected": 35,
     "actual": 45,
@@ -312,6 +365,7 @@
   {
     "school": "Cincinnati",
     "owner": "Tilo",
+    "tier": "FBS - AAC",
     "bid": 5,
     "projected": 23,
     "actual": 45,
@@ -322,6 +376,7 @@
   {
     "school": "Purdue",
     "owner": "Jared",
+    "tier": "Big Ten",
     "bid": 11,
     "projected": 32,
     "actual": 33,
@@ -332,6 +387,7 @@
   {
     "school": "Louisville",
     "owner": "Tilo",
+    "tier": "ACC",
     "bid": 1,
     "projected": 22,
     "actual": 33,
@@ -342,6 +398,7 @@
   {
     "school": "Texas Tech",
     "owner": "Jared",
+    "tier": "Big 12",
     "bid": 4,
     "projected": 13,
     "actual": 33,
@@ -352,6 +409,7 @@
   {
     "school": "Tulsa",
     "owner": "Ross",
+    "tier": "FBS - AAC",
     "bid": 4,
     "projected": 26,
     "actual": 30,
@@ -362,6 +420,7 @@
   {
     "school": "Syracuse",
     "owner": "Jared",
+    "tier": "ACC",
     "bid": 8,
     "projected": 38,
     "actual": 30,
@@ -372,6 +431,7 @@
   {
     "school": "Wisconsin",
     "owner": "AJ",
+    "tier": "Big Ten",
     "bid": 3,
     "projected": 16,
     "actual": 29,
@@ -382,6 +442,7 @@
   {
     "school": "Ole Miss",
     "owner": "Jawad",
+    "tier": "SEC",
     "bid": 8,
     "projected": 26,
     "actual": 28,
@@ -392,6 +453,7 @@
   {
     "school": "Illinois",
     "owner": "Ross",
+    "tier": "Big Ten",
     "bid": 1,
     "projected": 10,
     "actual": 27,
@@ -402,6 +464,7 @@
   {
     "school": "Tennessee",
     "owner": "Ross",
+    "tier": "SEC",
     "bid": 5,
     "projected": 23,
     "actual": 26,
@@ -412,6 +475,7 @@
   {
     "school": "Oregon State",
     "owner": "AJ",
+    "tier": "Pac 12",
     "bid": 2,
     "projected": 15,
     "actual": 25,
@@ -422,6 +486,7 @@
   {
     "school": "Mississippi State",
     "owner": "Tilo",
+    "tier": "SEC",
     "bid": 1,
     "projected": 17,
     "actual": 20,
@@ -432,6 +497,7 @@
   {
     "school": "West Virginia",
     "owner": "Ross",
+    "tier": "Big 12",
     "bid": 4,
     "projected": 18,
     "actual": 17,
@@ -442,6 +508,7 @@
   {
     "school": "Indiana",
     "owner": "Ross",
+    "tier": "Big Ten",
     "bid": 1,
     "projected": 11,
     "actual": 17,
@@ -452,6 +519,7 @@
   {
     "school": "Wake Forest",
     "owner": "AJ",
+    "tier": "ACC",
     "bid": 4,
     "projected": 28,
     "actual": 15,
@@ -462,6 +530,7 @@
   {
     "school": "Kansas State",
     "owner": "Tilo",
+    "tier": "Big 12",
     "bid": 3,
     "projected": 9,
     "actual": 15,
@@ -470,8 +539,20 @@
     "points_per_dollar": 5.0
   },
   {
+    "school": "North Carolina State",
+    "owner": "Tilo",
+    "tier": "ACC",
+    "bid": 3,
+    "projected": 22,
+    "actual": 10,
+    "difference": -12,
+    "performance_ratio": 0.455,
+    "points_per_dollar": 3.333
+  },
+  {
     "school": "Memphis",
     "owner": "Jawad",
+    "tier": "FBS - AAC",
     "bid": 10,
     "projected": 30,
     "actual": 7,

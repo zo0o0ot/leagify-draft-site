@@ -1,5 +1,24 @@
-<!-- draft-status shortcode: populated by scorer data -->
-<div id="draft-status"></div>
-<script>
-  // Populated by draft-status.js once data is available
-</script>
+{{ $status := hugo.Data.draft_status }}
+{{ if $status }}
+{{ $s := $status.status }}
+<div style="margin-bottom:2rem;padding:1rem 1.5rem;border-radius:0.375rem;
+  {{ if eq $s "in_progress" }}background:#0f3470;border-left:4px solid #adc6ff;
+  {{ else if eq $s "between_days" }}background:#1a3a1a;border-left:4px solid #59a14f;
+  {{ else if eq $s "complete" }}background:#1c2026;border-left:4px solid #e9c400;
+  {{ else }}background:#1c2026;border-left:4px solid #555;
+  {{ end }}">
+  {{ if eq $s "in_progress" }}
+    <strong style="color:#adc6ff;text-transform:uppercase;letter-spacing:0.05em">⬤ LIVE</strong>
+    <span style="color:#dfe2eb;margin-left:1rem">Day {{ $status.current_day }}, Round {{ $status.current_round }} in progress</span>
+    <span style="color:#c4c6cf;font-size:0.85em;margin-left:1rem">{{ $status.total_picks_made }} picks made · Updated {{ $status.last_updated }}</span>
+  {{ else if eq $s "between_days" }}
+    <strong style="color:#59a14f">End of Day {{ $status.current_day }}</strong>
+    <span style="color:#dfe2eb;margin-left:1rem">{{ $status.total_picks_made }} picks made so far</span>
+  {{ else if eq $s "complete" }}
+    <strong style="color:#e9c400">Draft Complete</strong>
+    <span style="color:#dfe2eb;margin-left:1rem">Final results — {{ $status.total_picks_made }} total picks</span>
+  {{ else }}
+    <span style="color:#c4c6cf">The {{ $status.year }} NFL Draft has not yet begun.</span>
+  {{ end }}
+</div>
+{{ end }}

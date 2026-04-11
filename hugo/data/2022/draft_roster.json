@@ -1,0 +1,386 @@
+[
+  {
+    "owner": "AJ",
+    "school": "Georgia",
+    "tier": "SEC",
+    "bid": 86,
+    "projected": 247,
+    "actual": 295
+  },
+  {
+    "owner": "AJ",
+    "school": "LSU",
+    "tier": "SEC",
+    "bid": 26,
+    "projected": 80,
+    "actual": 165
+  },
+  {
+    "owner": "AJ",
+    "school": "Washington",
+    "tier": "Pac 12",
+    "bid": 28,
+    "projected": 63,
+    "actual": 90
+  },
+  {
+    "owner": "AJ",
+    "school": "UCLA",
+    "tier": "Flex",
+    "bid": 10,
+    "projected": 42,
+    "actual": 75
+  },
+  {
+    "owner": "AJ",
+    "school": "Michigan State",
+    "tier": "Big Ten",
+    "bid": 4,
+    "projected": 31,
+    "actual": 52
+  },
+  {
+    "owner": "AJ",
+    "school": "North Carolina State",
+    "tier": "ACC",
+    "bid": 10,
+    "projected": 44,
+    "actual": 50
+  },
+  {
+    "owner": "AJ",
+    "school": "Arizona State",
+    "tier": "Flex",
+    "bid": 5,
+    "projected": 35,
+    "actual": 50
+  },
+  {
+    "owner": "AJ",
+    "school": "Houston",
+    "tier": "SmallSchool",
+    "bid": 8,
+    "projected": 38,
+    "actual": 48
+  },
+  {
+    "owner": "AJ",
+    "school": "Nebraska",
+    "tier": "Big Ten",
+    "bid": 4,
+    "projected": 33,
+    "actual": 40
+  },
+  {
+    "owner": "AJ",
+    "school": "Oklahoma State",
+    "tier": "Big 12",
+    "bid": 1,
+    "projected": 14,
+    "actual": 16
+  },
+  {
+    "owner": "Jared",
+    "school": "Penn State",
+    "tier": "Big Ten",
+    "bid": 38,
+    "projected": 99,
+    "actual": 152
+  },
+  {
+    "owner": "Jared",
+    "school": "Cincinnati",
+    "tier": "SmallSchool",
+    "bid": 70,
+    "projected": 112,
+    "actual": 146
+  },
+  {
+    "owner": "Jared",
+    "school": "Texas A&M",
+    "tier": "SEC",
+    "bid": 47,
+    "projected": 90,
+    "actual": 76
+  },
+  {
+    "owner": "Jared",
+    "school": "Iowa State",
+    "tier": "Big 12",
+    "bid": 23,
+    "projected": 45,
+    "actual": 71
+  },
+  {
+    "owner": "Jared",
+    "school": "Tennessee",
+    "tier": "SEC",
+    "bid": 1,
+    "projected": 28,
+    "actual": 58
+  },
+  {
+    "owner": "Jared",
+    "school": "San Diego State",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 30,
+    "actual": 50
+  },
+  {
+    "owner": "Jared",
+    "school": "Illinois",
+    "tier": "Big Ten",
+    "bid": 3,
+    "projected": 21,
+    "actual": 42
+  },
+  {
+    "owner": "Jared",
+    "school": "Utah",
+    "tier": "Pac 12",
+    "bid": 9,
+    "projected": 38,
+    "actual": 35
+  },
+  {
+    "owner": "Jared",
+    "school": "South Carolina",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 28,
+    "actual": 33
+  },
+  {
+    "owner": "Jared",
+    "school": "Boston College",
+    "tier": "ACC",
+    "bid": 3,
+    "projected": 38,
+    "actual": 30
+  },
+  {
+    "owner": "Jawad",
+    "school": "Baylor",
+    "tier": "Big 12",
+    "bid": 27,
+    "projected": 57,
+    "actual": 96
+  },
+  {
+    "owner": "Jawad",
+    "school": "Kentucky",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 57,
+    "actual": 87
+  },
+  {
+    "owner": "Jawad",
+    "school": "Minnesota",
+    "tier": "Big Ten",
+    "bid": 25,
+    "projected": 56,
+    "actual": 65
+  },
+  {
+    "owner": "Jawad",
+    "school": "Ole Miss",
+    "tier": "Flex",
+    "bid": 21,
+    "projected": 54,
+    "actual": 58
+  },
+  {
+    "owner": "Jawad",
+    "school": "USC",
+    "tier": "Pac 12",
+    "bid": 25,
+    "projected": 58,
+    "actual": 56
+  },
+  {
+    "owner": "Jawad",
+    "school": "Arkansas",
+    "tier": "SEC",
+    "bid": 21,
+    "projected": 44,
+    "actual": 52
+  },
+  {
+    "owner": "Jawad",
+    "school": "Notre Dame",
+    "tier": "Flex",
+    "bid": 27,
+    "projected": 58,
+    "actual": 47
+  },
+  {
+    "owner": "Jawad",
+    "school": "Clemson",
+    "tier": "ACC",
+    "bid": 26,
+    "projected": 52,
+    "actual": 45
+  },
+  {
+    "owner": "Jawad",
+    "school": "Central Michigan",
+    "tier": "SmallSchool",
+    "bid": 1,
+    "projected": 29,
+    "actual": 45
+  },
+  {
+    "owner": "Jawad",
+    "school": "Rutgers",
+    "tier": "Big Ten",
+    "bid": 2,
+    "projected": 15,
+    "actual": 10
+  },
+  {
+    "owner": "Ross",
+    "school": "Ohio State",
+    "tier": "Big Ten",
+    "bid": 53,
+    "projected": 110,
+    "actual": 157
+  },
+  {
+    "owner": "Ross",
+    "school": "Mississippi State",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 51,
+    "actual": 65
+  },
+  {
+    "owner": "Ross",
+    "school": "Florida",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 46,
+    "actual": 63
+  },
+  {
+    "owner": "Ross",
+    "school": "North Carolina",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 37,
+    "actual": 61
+  },
+  {
+    "owner": "Ross",
+    "school": "Wisconsin",
+    "tier": "Flex",
+    "bid": 5,
+    "projected": 37,
+    "actual": 44
+  },
+  {
+    "owner": "Ross",
+    "school": "Northern Iowa",
+    "tier": "SmallSchool",
+    "bid": 20,
+    "projected": 35,
+    "actual": 40
+  },
+  {
+    "owner": "Ross",
+    "school": "Pittsburgh",
+    "tier": "ACC",
+    "bid": 19,
+    "projected": 43,
+    "actual": 38
+  },
+  {
+    "owner": "Ross",
+    "school": "Oregon",
+    "tier": "Pac 12",
+    "bid": 25,
+    "projected": 54,
+    "actual": 35
+  },
+  {
+    "owner": "Ross",
+    "school": "Purdue",
+    "tier": "Big Ten",
+    "bid": 15,
+    "projected": 43,
+    "actual": 35
+  },
+  {
+    "owner": "Ross",
+    "school": "Texas Tech",
+    "tier": "Big 12",
+    "bid": 6,
+    "projected": 14,
+    "actual": 33
+  },
+  {
+    "owner": "Tilo",
+    "school": "Alabama",
+    "tier": "SEC",
+    "bid": 73,
+    "projected": 154,
+    "actual": 193
+  },
+  {
+    "owner": "Tilo",
+    "school": "Oklahoma",
+    "tier": "Big 12",
+    "bid": 36,
+    "projected": 73,
+    "actual": 106
+  },
+  {
+    "owner": "Tilo",
+    "school": "Michigan",
+    "tier": "Big Ten",
+    "bid": 52,
+    "projected": 112,
+    "actual": 103
+  },
+  {
+    "owner": "Tilo",
+    "school": "Iowa",
+    "tier": "Big Ten",
+    "bid": 23,
+    "projected": 43,
+    "actual": 53
+  },
+  {
+    "owner": "Tilo",
+    "school": "Florida State",
+    "tier": "ACC",
+    "bid": 3,
+    "projected": 37,
+    "actual": 35
+  },
+  {
+    "owner": "Tilo",
+    "school": "Auburn",
+    "tier": "SEC",
+    "bid": 3,
+    "projected": 31,
+    "actual": 30
+  },
+  {
+    "owner": "Tilo",
+    "school": "Western Michigan",
+    "tier": "SmallSchool",
+    "bid": 3,
+    "projected": 28,
+    "actual": 25
+  },
+  {
+    "owner": "Tilo",
+    "school": "Washington State",
+    "tier": "Pac 12",
+    "bid": 3,
+    "projected": 22,
+    "actual": 25
+  }
+]

@@ -152,10 +152,12 @@ def compute_school_stats(owned_picks: list[dict], fantasy: list[dict]) -> list[d
         row = fantasy_by_school.get(school, {})
         projected = int(row.get("ProjectedPoints", 0))
         bid = int(row.get("Bid", 0))
+        tier = row.get("Position", "")
         projected_for_ratio = projected if projected > 0 else 1
         stats.append({
             "school": school,
             "owner": school_owner[school],
+            "tier": tier,
             "bid": bid,
             "projected": projected,
             "actual": actual,
@@ -190,6 +192,26 @@ def compute_flops(fantasy: list[dict], owned_picks: list[dict]) -> list[dict]:
                 "projected": int(row["ProjectedPoints"]),
             })
     return sorted(flops, key=lambda x: x["projected"], reverse=True)
+
+
+def compute_draft_roster(fantasy: list[dict], owned_picks: list[dict]) -> list[dict]:
+    """Every school an owner drafted, with actual points (0 if none scored)."""
+    school_actual: dict[str, int] = {}
+    for pick in owned_picks:
+        school_actual[pick["school"]] = school_actual.get(pick["school"], 0) + pick["points"]
+
+    roster = []
+    for row in fantasy:
+        school = row["Player"]
+        roster.append({
+            "owner": row["Owner"],
+            "school": school,
+            "tier": row.get("Position", ""),
+            "bid": int(row["Bid"]),
+            "projected": int(row["ProjectedPoints"]),
+            "actual": school_actual.get(school, 0),
+        })
+    return sorted(roster, key=lambda x: (x["owner"], -x["actual"]))
 
 
 def compute_nobody_schools(picks: list[dict], owned_picks: list[dict]) -> list[dict]:
@@ -313,6 +335,7 @@ def score_year(year: int, draft_complete: bool, api_key: str) -> dict:
     data_dir = os.path.join(HUGO_DATA_DIR, str(year))
     write_json(data_dir, "owner_scores.json", compute_owner_scores(owned_picks))
     write_json(data_dir, "school_stats.json", compute_school_stats(owned_picks, fantasy))
+    write_json(data_dir, "draft_roster.json", compute_draft_roster(fantasy, owned_picks))
     write_json(data_dir, "round_breakdown.json", compute_round_breakdown(owned_picks))
     write_json(data_dir, "flops.json", compute_flops(fantasy, owned_picks))
     write_json(data_dir, "nobody_schools.json", compute_nobody_schools(picks, owned_picks))
