@@ -190,7 +190,7 @@ const schoolData = schoolNorm.filter(d => top20Schools.has(d.school));
 // Sort order for y-axis: by total descending
 const schoolOrder = [...schoolTotals.entries()]
   .filter(([s]) => top20Schools.has(s))
-  .sort((a, b) => a[1] - b[1])  // ascending so highest is at top in Plot
+  .sort((a, b) => b[1] - a[1])  // descending so highest is at top in Plot
   .map(([school]) => school);
 
 const years = [2021, 2022, 2023, 2024, 2025];
