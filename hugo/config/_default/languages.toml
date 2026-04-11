@@ -1,0 +1,7 @@
+[en]
+  languageName = "English"
+  weight = 1
+  title = "Leagify Draft"
+
+  [en.params.author]
+    name = "Leagify"

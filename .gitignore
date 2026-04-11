@@ -1,0 +1,31 @@
+# Hugo build output
+hugo/public/
+hugo/resources/
+hugo/.hugo_build.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+scorer/__pycache__/
+
+# Scorer secrets / local config
+scorer.local.conf
+scorer/scorer.local.conf
+
+# Sportradar API cache for the current (incomplete) draft year
+# Completed years are committed so we never re-fetch them
+scorer/actual-draft/2026/*.json
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/

@@ -1,0 +1,4 @@
+baseURL = "https://zo0o0ot.github.io/leagify-draft-site/"
+languageCode = "en"
+title = "Leagify Draft"
+theme = "congo"

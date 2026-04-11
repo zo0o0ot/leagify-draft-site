@@ -1,0 +1,13 @@
+colorScheme = "slate"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+homepage.layout = "page"
+homepage.showRecent = false
+
+article.showDate = false
+article.showAuthor = false
+article.showReadingTime = false
+article.showTableOfContents = true
+
+footer.showCopyright = false

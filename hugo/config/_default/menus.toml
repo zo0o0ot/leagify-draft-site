@@ -1,0 +1,34 @@
+[[main]]
+  name = "2026"
+  pageRef = "/2026"
+  weight = 10
+
+[[main]]
+  name = "History"
+  pageRef = "/history"
+  weight = 20
+
+[[main]]
+  name = "2025"
+  pageRef = "/2025"
+  weight = 30
+
+[[main]]
+  name = "2024"
+  pageRef = "/2024"
+  weight = 40
+
+[[main]]
+  name = "2023"
+  pageRef = "/2023"
+  weight = 50
+
+[[main]]
+  name = "2022"
+  pageRef = "/2022"
+  weight = 60
+
+[[main]]
+  name = "2021"
+  pageRef = "/2021"
+  weight = 70
