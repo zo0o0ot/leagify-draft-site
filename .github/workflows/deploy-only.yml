@@ -1,8 +1,11 @@
 name: Deploy Only
 
-# Runs on pushes that only touch Hugo content/theme/layout files —
-# no scoring needed, just rebuild and redeploy the site.
+# Runs on push to main and manual dispatch — rebuilds and redeploys
+# the site without running the scorer. Use score-and-deploy for rescoring.
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:

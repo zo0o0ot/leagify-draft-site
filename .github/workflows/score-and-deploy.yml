@@ -11,10 +11,6 @@ on:
         description: 'Year to score (leave blank for all incomplete years)'
         required: false
         type: string
-  # Also run on push to main (for config/data/content changes)
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
