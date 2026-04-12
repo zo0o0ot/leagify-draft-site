@@ -1,0 +1,48 @@
+State,Region,Points (predicted),Points (actual),Points (With Bonuses),Difference,Diff w/Bonus,Bonuses,Owner
+California,West,277,261,381,-16,104,120,Ross
+Florida,South,250,245,375,-5,125,130,Jawad
+Alabama,South,291,234,334,-57,43,100,AJ
+Texas,South,220,215,315,-5,95,100,Jared
+North Carolina,South,130,153,243,23,113,90,AJ
+Pennsylvania,Northeast,127,133,213,6,86,80,Jawad
+Ohio,Midwest,115,125,205,10,90,80,Jawad
+Georgia,South,152,120,140,-32,-12,20,Jared
+Indiana,Midwest,119,105,155,-14,36,50,Ross
+Louisiana,South,145,105,165,-40,20,60,Tilo
+Oklahoma,South,143,104,144,-39,1,40,Ross
+Virginia,South,107,102,182,-5,75,80,Tilo
+Mississippi,South,35,90,180,55,145,90,Nobody
+Kentucky,South,88,86,146,-2,58,60,Ross
+Washington,West,77,83,133,6,56,50,AJ
+South Carolina,South,65,67,107,2,42,40,Jawad
+Tennessee,South,65,59,129,-6,64,70,Nobody
+Iowa,Midwest,91,55,65,-36,-26,10,Tilo
+Michigan,Midwest,72,54,104,-18,32,50,Jared
+Arkansas,South,20,41,51,21,31,10,Nobody
+Massachusetts,Northeast,35,36,66,1,31,30,Jawad
+Idaho,West,39,36,46,-3,7,10,Ross
+Wyoming,West,35,35,45,0,10,10,AJ
+Wisconsin,Midwest,34,33,63,-1,29,30,AJ
+Maryland,Northeast,31,32,32,1,1,0,Jared
+Arizona,West,31,27,67,-4,36,40,Jared
+Kansas,Midwest,42,25,35,-17,-7,10,Tilo
+Colorado,West,47,25,25,-22,-22,0,Jared
+Utah,West,29,24,34,-5,5,10,Tilo
+New Jersey,Northeast,12,21,41,9,29,20,AJ
+Nevada,West,11,20,20,9,9,0,Jawad
+New York,Northeast,3,19,49,16,46,30,Ross
+Oregon,West,35,17,17,-18,-18,0,Tilo
+South Dakota,Midwest,19,15,25,-4,6,10,Ross
+Missouri,Midwest,13,13,33,0,20,20,AJ
+New Mexico,West,9,13,23,4,14,10,Nobody
+Connecticut,Northeast,9,12,22,3,13,10,AJ
+Illinois,Midwest,15,12,22,-3,7,10,Jawad
+West Virginia,South,32,8,8,-24,-24,0,Nobody
+Delaware,Northeast,2,7,7,5,5,0,Tilo
+Maine,Northeast,0,6,16,6,16,10,Ross
+Nebraska,Midwest,7,6,16,-1,9,10,Nobody
+Australia,Down Under,0,5,15,5,15,10,Nobody
+Hawaii,West,0,0,0,0,0,0,Jawad
+Puerto Rico,Northeast,0,0,0,0,0,0,Tilo
+North Dakota,Midwest,4,0,0,-4,-4,0,Nobody
+Minnesota,Midwest,12,0,0,-12,-12,0,Jared

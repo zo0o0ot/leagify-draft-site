@@ -1,0 +1,41 @@
+Pick,State,Player,Region,Points (Predicted),ConsensusPoints,AJ,Jawad,Ross,Tilo,Jared
+1,Alabama,AJ,South,291,301,South,South,West,Midwest,South
+2,Florida,Jawad,South,250,248,West,Northeast,South,South,South
+3,California,Ross,West,277,281,South,Midwest,Midwest,South,Midwest
+4,Iowa,Tilo,Midwest,91,98,Midwest,South,South,Midwest,West
+5,Texas,Jared,South,220,239,West,Northeast,West,West,Northeast
+6,Georgia,Jared,South,152,154,Northeast,Midwest,Midwest,West,West
+7,Louisiana,Tilo,South,145,136,Northeast,West,Northeast,Northeast,Midwest
+8,Oklahoma,Ross,South,143,149,Midwest,West,Northeast,Northeast,Northeast
+9,Pennsylvania,Jawad,Northeast,127,121,,,,,
+10,Washington,AJ,West,77,74,,,,,
+11,North Carolina,AJ,South,130,147,,,,,
+12,Ohio,Jawad,Midwest,115,144,,,,,
+13,Indiana,Ross,Midwest,119,122,,,,,
+14,Virginia,Tilo,South,107,125,,,,,
+15,Michigan,Jared,Midwest,72,78,,,,,
+16,Colorado,Jared,West,47,44,,,,,
+17,Kansas,Tilo,Midwest,42,34,,,,,
+18,Kentucky,Ross,South,88,101,,,,,
+19,South Carolina,Jawad,South,65,60,,,,,
+20,Wisconsin,AJ,Midwest,34,39,,,,,
+21,Wyoming,AJ,West,35,35,,,,,
+22,Massachusetts,Jawad,Northeast,35,45,,,,,
+23,Idaho,Ross,West,39,47,,,,,
+24,Oregon,Tilo,West,35,42,,,,,
+25,Maryland,Jared,Northeast,31,28,,,,,
+26,Arizona,Jared,West,31,24,,,,,
+27,Utah,Tilo,West,29,29,,,,,
+28,South Dakota,Ross,Midwest,19,24,,,,,
+29,Illinois,Jawad,Midwest,15,22,,,,,
+30,New Jersey,AJ,Northeast,12,12,,,,,
+31,Connecticut,AJ,Northeast,9,8,,,,,
+32,Nevada,Jawad,West,11,12,,,,,
+33,New York,Ross,Northeast,3,12,,,,,
+34,Delaware,Tilo,Northeast,2,6,,,,,
+35,Minnesota,Jared,Midwest,12,13,,,,,
+36,Rhode Island,Jared,Northeast,0,1,,,,,
+37,Puerto Rico,Tilo,Northeast,0,0,,,,,
+38,Maine,Ross,Northeast,0,1,,,,,
+39,Hawaii,Jawad,West,0,6,,,,,
+40,Missouri,AJ,Midwest,13,12,,,,,

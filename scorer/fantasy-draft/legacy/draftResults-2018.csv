@@ -1,0 +1,257 @@
+RD,PICK,Player,School,State,Owner,TEAM,Value,Traded,Trade Bonus,Total Points
+1,1,Baker Mayfield,Oklahoma,Oklahoma,Ross,Cleveland Browns,40,No,0,40
+1,2,Saquon Barkley,Penn State,Pennsylvania,Jawad,New York Giants,35,No,0,35
+1,3,Sam Darnold,USC,California,Ross,New York Jets,35,Yes,10,45
+1,4,Denzel Ward,Ohio State,Ohio,Jawad,Cleveland Browns,35,Yes,10,45
+1,5,Bradley Chubb,North Carolina State,North Carolina,AJ,Denver Broncos,35,No,0,35
+1,6,Quinton Nelson,Notre Dame,Indiana,Ross,Indianapolis Colts,35,Yes,10,45
+1,7,Josh Allen,Wyoming,Wyoming,AJ,Buffalo Bills,35,Yes,10,45
+1,8,Roquan Smith,Georgia,Georgia,Jared,Chicago Bears,35,No,0,35
+1,9,Mike McGlinchey,Notre Dame,Indiana,Ross,San Francisco 49ers,35,No,0,35
+1,10,Josh Rosen,UCLA,California,Ross,Arizona Cardinals,35,Yes,10,45
+1,11,Minkah Fitzpatrick,Alabama,Alabama,AJ,Miami Dolphins,30,No,0,30
+1,12,Vita Vea,Washington,Washington,AJ,Tampa Bay Buccaneers,30,Yes,10,40
+1,13,Da'Ron Payne,Alabama,Alabama,AJ,Washington Redskins,30,No,0,30
+1,14,Marcus Davenport,UTSA,Texas,Jared,New Orleans Saints,30,Yes,10,40
+1,15,Kolton Miller,UCLA,California,Ross,Oakland Raiders,30,Yes,10,40
+1,16,Tremaine Edmunds,Virginia Tech,Virginia,Tilo,Buffalo Bills,30,Yes,10,40
+1,17,Derwin James,Florida State,Florida,Jawad,Los Angeles Chargers,30,No,0,30
+1,18,Jaire Alexander,Louisville,Kentucky,Ross,Green Bay Packers,30,Yes,10,40
+1,19,Leighton VanderEsch,Boise State,Idaho,Ross,Dallas Cowboys,30,No,0,30
+1,20,Frank Ragnow,Arkansas,Arkansas,Nobody,Detroit Lions,30,No,0,30
+1,21,Billy Price,Ohio State,Ohio,Jawad,Cincinnati Bengals,25,Yes,10,35
+1,22,Rashaan Evans,Alabama,Alabama,AJ,Tennessee Titans,25,Yes,10,35
+1,23,Isaiah Wynn,Georgia,Georgia,Jared,New England Patriots,25,Yes,10,35
+1,24,DJ Moore,Maryland,Maryland,Jared,Carolina Panthers,25,No,0,25
+1,25,Hayden Hurst,South Carolina,South Carolina,Jawad,Baltimore Ravens,25,Yes,10,35
+1,26,Calvin Ridley,Alabama,Alabama,AJ,Atlanta Falcons,25,No,0,25
+1,27,Rashaad Penny,San Diego State,California,Ross,Seattle Seahawks,25,Yes,10,35
+1,28,Terrell Edmunds,Virginia Tech,Virginia,Tilo,Pittsburgh Steelers,25,No,0,25
+1,29,Taven Bryan,Florida,Florida,Jawad,Jacksonville Jaguars,25,No,0,25
+1,30,Mike Hughes,UCF,Florida,Jawad,Minnesota Vikings,25,No,0,25
+1,31,Sony Michel,Georgia,Georgia,Jared,New England Patriots,25,No,0,25
+1,32,Lamar Jackson,Louisville,Kentucky,Ross,Baltimore Ravens,25,Yes,10,35
+2,33,Austin Corbett,Nevada,Nevada,Jawad,Cleveland Browns,20,No,0,20
+2,34,Will Hernandez,UTEP,Texas,Jared,New York Giants,20,No,0,20
+2,35,Nick Chubb,Georgia,Georgia,Jared,Cleveland Browns,20,Yes,10,30
+2,36,Darius Leonard,South Carolina State,South Carolina,Jawad,Indianapolis Colts,20,No,0,20
+2,37,Braden Smith,Auburn,Alabama,AJ,Indianapolis Colts,20,Yes,10,30
+2,38,Ronald Jones,USC,California,Ross,Tampa Bay Buccaneers,20,No,0,20
+2,39,James Daniels,Iowa,Iowa,Tilo,Chicago Bears,20,No,0,20
+2,40,Courtland Sutton,SMU,Texas,Jared,Denver Broncos,20,No,0,20
+2,41,Harold Landry,Boston College,Massachusetts,Jawad,Tennessee Titans,20,Yes,10,30
+2,42,Mike Geseki,Penn State,Pennsylvania,Jawad,Miami Dolphins,20,No,0,20
+2,43,Kerryon Johnson,Auburn,Alabama,AJ,Detroit Lions,20,Yes,10,30
+2,44,Dante Pettis,Washington,Washington,AJ,San Francisco 49ers,20,Yes,10,30
+2,45,Josh Jackson,Iowa,Iowa,Tilo,Green Bay Packers,20,No,0,20
+2,46,Breeland Speaks,Ole Miss,Mississippi,Nobody,Kansas City Chiefs,20,Yes,10,30
+2,47,Christian Kirk,Texas A&M,Texas,Jared,Arizona Cardinals,20,No,0,20
+2,48,Uchenna Nwosu,USC,California,Ross,Los Angeles Chargers,20,No,0,20
+2,49,Dallas Goedert,South Dakota State,South Dakota,Ross,Philadelphia Eagles,15,Yes,10,25
+2,50,Connor Williams,Texas,Texas,Jared,Dallas Cowboys,15,No,0,15
+2,51,Anthony Miller,Memphis,Tennessee,Nobody,Chicago Bears,15,Yes,10,25
+2,52,Kemoko Turay,Rutgers,New Jersey,AJ,Indianapolis Colts,15,Yes,10,25
+2,53,M.J. Stewart,North Carolina,North Carolina,AJ,Tampa Bay Buccaneers,15,Yes,10,25
+2,54,Jessie Bates III,Wake Forest,North Carolina,AJ,Kansas City Chiefs,15,Yes,10,25
+2,55,Donte Jackson,LSU,Louisiana,Tilo,Carolina Panthers,15,No,0,15
+2,56,Duke Dawson,Florida,Florida,Jawad,New England Patriots,15,Yes,10,25
+2,57,P.J. Hall,Sam Houston State,Texas,Jared,Oakland Raiders,15,Yes,10,25
+2,58,Isaiah Oliver,Colorado,Colorado,Jared,Atlanta Falcons,15,No,0,15
+2,59,Derrius Guice,LSU,Louisiana,Tilo,Washington Redskins,15,Yes,10,25
+2,60,James Washington,Oklahoma State,Oklahoma,Ross,Pittsburgh Steelers,15,No,0,15
+2,61,D.J. Chark,LSU,Louisiana,Tilo,Jacksonville Jaguars,15,No,0,15
+2,62,Brian O'Neil,Pittsburgh,Pennsylvania,Jawad,Minnesota Vikings,15,No,0,15
+2,63,Carlton Davis,Auburn,Alabama,AJ,Tampa Bay Buccaneers,15,Yes,10,25
+2,64,Tyquan Lewis,Ohio State,Ohio,Jawad,Indianapolis Colts,15,Yes,10,25
+3,65,Brandon Parker,North Carolina A&T,North Carolina,AJ,Oakland Raiders,10,Yes,10,20
+3,66,Lorenzo Carter,Georgia,Georgia,Jared,New York Giants,10,No,0,10
+3,67,Chad Thomas,Miami (FL),Florida,Jawad,Cleveland Browns,10,Yes,10,20
+3,68,Justin Reid,Stanford,California,Ross,Houston Texans,10,No,0,10
+3,69,B.J. Hill,North Carolina State,North Carolina,AJ,New York Giants,10,Yes,10,20
+3,70,Fred Warner,BYU,Utah,Tilo,San Francisco 49ers,10,Yes,10,20
+3,71,Royce Freeman,Oregon,Oregon,Tilo,Denver Broncos,10,No,0,10
+3,72,Nathan Shepherd,Fort Hays State,Kansas,Tilo,New York Jets,10,No,0,10
+3,73,Jerome Baker,Ohio State,Ohio,Jawad,Miami Dolphins,10,No,0,10
+3,74,Geron Christian,Louisville,Kentucky,Ross,Washington Redskins,10,Yes,10,20
+3,75,Derrick Nnadi,Florida State,Florida,Jawad,Kansas City Chiefs,10,Yes,10,20
+3,76,Mason Rudolph,Oklahoma State,Oklahoma,Ross,Pittsburgh Steelers,10,Yes,10,20
+3,77,Sam Hubbard,Ohio State,Ohio,Jawad,Cincinnati Bengals,10,No,0,10
+3,78,Malik Jefferson,Texas,Texas,Jared,Cincinnati Bengals,10,Yes,10,20
+3,79,Rasheem Green,USC,California,Ross,Seattle Seahawks,10,Yes,10,20
+3,80,Martinas Rankin,Mississippi State,Mississippi,Nobody,Houston Texans,10,Yes,10,20
+3,81,Michael Gallup,Colorado State,Colorado,Jared,Dallas Cowboys,10,No,0,10
+3,82,Tracy Walker,Louisiana-Lafayette,Louisiana,Tilo,Detroit Lions,10,No,0,10
+3,83,Orlando Brown,Oklahoma,Oklahoma,Ross,Baltimore Ravens,10,No,0,10
+3,84,Justin Jones,North Carolina State,North Carolina,AJ,Los Angeles Chargers,10,No,0,10
+3,85,Rashaan Gaulden,Tennessee,Tennessee,Nobody,Carolina Panthers,10,Yes,10,20
+3,86,Mark Andrews,Oklahoma,Oklahoma,Ross,Baltimore Ravens,10,Yes,10,20
+3,87,Arden Key,LSU,Louisiana,Tilo,Oakland Raiders,10,Yes,10,20
+3,88,Oren Burks,Vanderbilt,Tennessee,Nobody,Green Bay Packers,10,Yes,10,20
+3,89,Joseph Noteboom,TCU,Texas,Jared,Los Angeles Rams,10,Yes,10,20
+3,90,Deadrin Senat,USF,Florida,Jawad,Atlanta Falcons,10,No,0,10
+3,91,Tre'Quan Smith,UCF,Florida,Jawad,New Orleans Saints,10,No,0,10
+3,92,Chukwuma Okorafor,Western Michigan,Michigan,Jared,Pittsburgh Steelers,10,No,0,10
+3,93,Ronnie Harrison,Alabama,Alabama,AJ,Jacksonville Jaguars,10,No,0,10
+3,94,Alex Cappa,Humbolt State,California,Ross,Tampa Bay Buccaneers,10,Yes,10,20
+3,95,Tarvarius Moore,Southern Miss,Mississippi,Nobody,San Francisco 49ers,10,Yes,10,20
+3,96,Harrison Phillips,Stanford,California,Ross,Buffalo Bills,10,Yes,10,20
+3,97,Mason Cole,Michigan,Michigan,Jared,Arizona Cardinals,10,Yes,10,20
+3,98,Jordan Akins,UCF,Florida,Jawad,Houston Texans,10,Yes,10,20
+3,99,Isaac Yiadom,Boston College,Massachusetts,Jawad,Denver Broncos,10,Yes,10,20
+3,100,Dorian O'Daniel,Clemson,South Carolina,Jawad,Kansas City Chiefs,10,Yes,10,20
+4,101,Ian Thomas,Indiana,Indiana,Ross,Carolina Panthers,8,Yes,10,18
+4,102,Jalyn Holmes,Ohio State,Ohio,Jawad,Minnesota Vikings,8,Yes,10,18
+4,103,Keke Coutee,Texas Tech,Texas,Jared,Houston Texans,8,No,0,8
+4,104,Nyheim Hines,North Carolina State,North Carolina,AJ,Indianapolis Colts,8,No,0,8
+4,105,Antonio Callaway,Florida,Florida,Jawad,Cleveland Browns,8,Yes,10,18
+4,106,Josey Jewell,Iowa,Iowa,Tilo,Denver Broncos,8,No,0,8
+4,107,Chris Herndon,Miami (FL),Florida,Jawad,New York Jets,8,No,0,8
+4,108,Kyle Lauletta,Richmond,Virginia,Tilo,New York Giants,8,Yes,10,18
+4,109,Troy Apke,Penn State,Pennsylvania,Jawad,Washington Redskins,8,Yes,10,18
+4,110,Nick Nelson,Wisconsin,Wisconsin,AJ,Oakland Raiders,8,No,0,8
+4,111,Brian Allen,Michigan State,Michigan,Jared,Los Angeles Rams,8,Yes,10,18
+4,112,Mark Walton,Miami (FL),Florida,Jawad,Cincinnati Bengals,8,No,0,8
+4,113,Daesean Hamilton,Penn State,Pennsylvania,Jawad,Denver Broncos,8,Yes,10,18
+4,114,Da'Shawn Hand,Alabama,Alabama,AJ,Detroit Lions,8,Yes,10,18
+4,115,Joel Iyiegbuniwe,Western Kentucky,Kentucky,Ross,Chicago Bears,8,Yes,10,18
+4,116,Dorance Armstrong,Kansas,Kansas,Tilo,Dallas Cowboys,8,No,0,8
+4,117,Jordan Whitehead,Pittsburgh,Pennsylvania,Jawad,Tampa Bay Buccaneers,8,Yes,10,18
+4,118,Anthony Averett,Alabama,Alabama,AJ,Baltimore Ravens,8,No,0,8
+4,119,Kyzir White,West Virginia,West Virginia,Nobody,Los Angeles Chargers,8,No,0,8
+4,120,Will Dissly,Washington,Washington,AJ,Seattle Seahawks,8,No,0,8
+4,121,Taron Johnson,Weber State,Utah,Tilo,Buffalo Bills,8,No,0,8
+4,122,Kenny Young,UCLA,California,Ross,Baltimore Ravens,8,Yes,10,18
+4,123,Durham Smythe,Notre Dame,Indiana,Ross,Miami Dolphins,8,Yes,10,18
+4,124,Armani Watts,Texas A&M,Texas,Jared,Kansas City Chiefs,8,Yes,10,18
+4,125,Avonte Maddox,Pittsburgh,Pennsylvania,Jawad,Philadelphia Eagles,8,Yes,10,18
+4,126,Ito Smith,Southern Miss,Mississippi,Nobody,Atlanta Falcons,8,No,0,8
+4,127,Rick Leonard,Florida State,Florida,Jawad,New Orleans Saints,8,No,0,8
+4,128,Kentavious Street,North Carolina State,North Carolina,AJ,San Francisco 49ers,8,Yes,10,18
+4,129,Will Richardson,North Carolina State,North Carolina,AJ,Jacksonville Jaguars,8,No,0,8
+4,130,Josh Sweat,Florida State,Florida,Jawad,Philadelphia Eagles,8,Yes,10,18
+4,131,Karen Ballage,Arizona State,Arizona,Jared,Miami Dolphins,8,Yes,10,18
+4,132,Jaleel Scott,New Mexico State,New Mexico,Nobody,Baltimore Ravens,8,Yes,10,18
+4,133,J'Mon Moore,Missouri,Missouri,AJ,Green Bay Packers,8,Yes,10,18
+4,134,Chase Edmonds,Fordham,New York,Ross,Arizona Cardinals,8,Yes,10,18
+4,135,John Franklin-Meyers,Stephen F. Austin,Texas,Jared,Los Angeles Rams,8,Yes,10,18
+4,136,Marquis Haynes,Ole Miss,Mississippi,Nobody,Carolina Panthers,8,Yes,10,18
+4,137,Dalton Schultz,Stanford,California,Ross,Dallas Cowboys,8,Yes,10,18
+5,138,Cole Madison,Washington State,Washington,AJ,Green Bay Packers,7,Yes,10,17
+5,139,R.J. Macintosh,Miami (FL),Florida,Jawad,New York Giants,7,No,0,7
+5,140,Maurice Hurst,Michigan,Michigan,Jared,Oakland Raiders,7,Yes,10,17
+5,141,Shaquem Griffin,UCF,Florida,Jawad,Seattle Seahawks,7,Yes,10,17
+5,142,D.J. Reed,Kansas State,Kansas,Tilo,San Francisco 49ers,7,Yes,10,17
+5,143,Ja'whaun Bentley,Purdue,Indiana,Ross,New England Patriots,7,Yes,10,17
+5,144,Justin Watson,Pennsylvania,Pennsylvania,Jawad,Tampa Bay Buccaneers,7,No,0,7
+5,145,Bilal Nichols,Delaware,Delaware,Tilo,Chicago Bears,7,No,0,7
+5,146,Tre Flowers,Oklahoma State,Oklahoma,Ross,Seattle Seahawks,7,Yes,10,17
+5,147,Micah Kiser,Virginia,Virginia,Tilo,Los Angeles Rams,7,Yes,10,17
+5,148,Marcus Allen,Penn State,Pennsylvania,Jawad,Pittsburgh Steelers,7,Yes,10,17
+5,149,Michael Dickson,Texas,Texas,Jared,Seattle Seahawks,7,Yes,10,17
+5,150,Genard Avery,Memphis,Tennessee,Nobody,Cleveland Browns,7,Yes,10,17
+5,151,Davontae Harris,Illinois State,Illinois,Jawad,Cincinnati Bengals,7,No,0,7
+5,152,Dane Cruikshank,Arizona,Arizona,Jared,Tennessee Titans,7,Yes,10,17
+5,153,Tyrell Crosby,Oregon,Oregon,Tilo,Detroit Lions,7,No,0,7
+5,154,Siran Neal,Jacksonville State,Alabama,AJ,Buffalo Bills,7,Yes,10,17
+5,155,Scott Quessenberry,UCLA,California,Ross,Los Angeles Chargers,7,No,0,7
+5,156,Troy Fumagalli,Wisconsin,Wisconsin,AJ,Denver Broncos,7,Yes,10,17
+5,157,Tyler Conklin,Central Michigan,Michigan,Jared,Minnesota Vikings,7,Yes,10,17
+5,158,Andrew Brown,Virginia,Virginia,Tilo,Cincinnati Bengals,7,Yes,10,17
+5,159,Daurice Fountain,Northern Iowa,Iowa,Tilo,Indianapolis Colts,7,Yes,10,17
+5,160,Ogbonnia Okoronkwo,Oklahoma,Oklahoma,Ross,Los Angeles Rams,7,Yes,10,17
+5,161,Jermaine Carter,Maryland,Maryland,Jared,Carolina Panthers,7,No,0,7
+5,162,Jordan Lasley,UCLA,California,Ross,Baltimore Ravens,7,Yes,10,17
+5,163,Tim Settle,Virginia Tech,Virginia,Tilo,Washington Redskins,7,Yes,10,17
+5,164,Natrell Jamerson,Wisconsin,Wisconsin,AJ,New Orleans Saints,7,No,0,7
+5,165,Jaylen Samuels,North Carolina State,North Carolina,AJ,Pittsburgh Steelers,7,No,0,7
+5,166,Wyatt Teller,Virginia Tech,Virginia,Tilo,Buffalo Bills,7,Yes,10,17
+5,167,Daniel Carlson,Auburn,Alabama,AJ,Minnesota Vikings,7,Yes,10,17
+5,168,Jamarco Jones,Ohio State,Ohio,Jawad,Seattle Seahawks,7,Yes,10,17
+5,169,Jordan Wilkins,Ole Miss,Mississippi,Nobody,Indianapolis Colts,7,Yes,10,17
+5,170,Darius Phillips,Western Michigan,Michigan,Jared,Cincinnati Bengals,7,Yes,10,17
+5,171,Mike White,Western Kentucky,Kentucky,Ross,Dallas Cowboys,7,Yes,10,17
+5,172,JK Scott,Alabama,Alabama,AJ,Green Bay Packers,7,Yes,10,17
+5,173,Johnny Townsend,Florida,Florida,Jawad,Oakland Raiders,7,Yes,10,17
+5,174,Marquez Valdes-Scantling,USF,Florida,Jawad,Green Bay Packers,7,Yes,10,17
+6,175,Damion Ratley,Texas A&M,Texas,Jared,Cleveland Browns,6,No,0,6
+6,176,John Kelly,Tennessee,Tennessee,Nobody,Los Angeles Rams,6,Yes,10,16
+6,177,Duke Ejiofor,Wake Forest,North Carolina,AJ,Houston Texans,6,No,0,6
+6,178,Christian Sam,Arizona State,Arizona,Jared,New England Patriots,6,Yes,10,16
+6,179,Parry Nickerson,Tulane,Louisiana,Tilo,New York Jets,6,No,0,6
+6,180,Foley Fatukasi,Connecticut,Connecticut,AJ,New York Jets,6,Yes,10,16
+6,181,Kylie Fitts,Utah,Utah,Tilo,Chicago Bears,6,No,0,6
+6,182,Christian Campbell,Penn State,Pennsylvania,Jawad,Arizona Cardinals,6,Yes,10,16
+6,183,Sam Jones,Arizona State,Arizona,Jared,Denver Broncos,6,Yes,10,16
+6,184,Marcell Harris,Florida,Florida,Jawad,San Francisco 49ers,6,No,0,6
+6,185,Deon Cain,Clemson,South Carolina,Jawad,Indianapolis Colts,6,Yes,10,16
+6,186,Jake Martin,Temple,Pennsylvania,Jawad,Seattle Seahawks,6,Yes,10,16
+6,187,Ray-Ray McCloud,Clemson,South Carolina,Jawad,Buffalo Bills,6,Yes,10,16
+6,188,Simeon Thomas,Louisiana-Lafayette,Louisiana,Tilo,Cleveland Browns,6,Yes,10,16
+6,189,Kamrin Moore,Boston College,Massachusetts,Jawad,New Orleans Saints,6,Yes,10,16
+6,190,Deshon Elliott,Texas,Texas,Jared,Baltimore Ravens,6,No,0,6
+6,191,Dylan Cantrell,Texas A&M,Texas,Jared,Los Angeles Chargers,6,No,0,6
+6,192,Jamil Demby,Maine,Maine,Ross,Los Angeles Chargers,6,Yes,10,16
+6,193,Chris Covington,Indiana,Indiana,Ross,Dallas Cowboys,6,No,0,6
+6,194,Russsell Gage,LSU,Louisiana,Tilo,Atlanta Falcons,6,Yes,10,16
+6,195,Sebastian Joseph,Rutgers,New Jersey,AJ,Los Angeles Rams,6,Yes,10,16
+6,196,Tremon Smith,Central Arkansas,Arkansas,Nobody,Kansas City Chiefs,6,No,0,6
+6,197,Shaun Dion Hamilton,Alabama,Alabama,AJ,Washington Redskins,6,Yes,10,16
+6,198,Reginald McKenzie,Tennessee,Tennessee,Nobody,Kansas City Chiefs,6,Yes,10,16
+6,199,Luke Falk,Washington State,Washington,AJ,Tennessee Titans,6,No,0,6
+6,200,Foyesade Olukun,Yale,Connecticut,AJ,Atlanta Falcons,6,No,0,6
+6,201,Boston Scott,Louisiana Tech,Louisiana,Tilo,New Orleans Saints,6,No,0,6
+6,202,Jack Cichy,Wisconsin,Wisconsin,AJ,Tampa Bay Buccaneers,6,Yes,10,16
+6,203,Tanner Lee,Nebraska,Nebraska,Nobody,Jacksonville Jaguars,6,Yes,10,16
+6,204,Trenton Cannon,Virginia State,Virginia,Tilo,New York Jets,6,Yes,10,16
+6,205,Trevon Young,Louisville,Kentucky,Ross,Los Angeles Rams,6,Yes,10,16
+6,206,Matt Pryor,TCU,Texas,Jared,Philadelphia Eagles,6,No,0,6
+6,207,Equanimeous St. Brown,Notre Dame,Indiana,Ross,Green Bay Packers,6,Yes,10,16
+6,208,Cedrick Wilson,Boise State,Idaho,Ross,Dallas Cowboys,6,Yes,10,16
+6,209,Cornell Armstrong,Southern Miss,Mississippi,Nobody,Miami Dolphins,6,Yes,10,16
+6,210,Braxton Berrios,Miami (FL),Florida,Jawad,New England Patriots,6,Yes,10,16
+6,211,Jordan Thomas,Mississippi State,Mississippi,Nobody,Houston Texans,6,Yes,10,16
+6,212,Greg Senat,Wagner,New York,Ross,Baltimore Ravens,6,Yes,10,16
+6,213,Colby Gossett,Appalachian State,North Carolina,AJ,Minnesota Vikings,6,Yes,10,16
+6,214,Peter Kalambayi,Stanford,California,Ross,Houston Texans,6,Yes,10,16
+6,215,Bradley Bozeman,Alabama,Alabama,AJ,Baltimore Ravens,6,Yes,10,16
+6,216,Azeem Victor,Washington,Washington,AJ,Oakland Raiders,6,Yes,10,16
+6,217,Keishawn Bierria,Washington,Washington,AJ,Denver Broncos,6,Yes,10,16
+6,218,Ade Aruna,Tulane,Louisiana,Tilo,Minnesota Vikings,6,Yes,10,16
+7,219,Danny Etling,LSU,Louisiana,Tilo,New England Patriots,5,Yes,10,15
+7,220,Alex McGough,Florida International,Florida,Jawad,Seattle Seahawks,5,Yes,10,15
+7,221,Matthew Adams,Houston,Texas,Jared,Indianapolis Colts,5,No,0,5
+7,222,Jermaine Kelly,San Jose State,California,Ross,Houston Texans,5,No,0,5
+7,223,Jullian Taylor,Temple,Pennsylvania,Jawad,San Francisco 49ers,5,Yes,10,15
+7,224,Javon Wims,Georgia,Georgia,Jared,Chicago Bears,5,No,0,5
+7,225,Devante Downs,California,California,Ross,Minnesota Vikings,5,Yes,10,15
+7,226,David Williams,Arkansas,Arkansas,Nobody,Denver Broncos,5,Yes,10,15
+7,227,Quentin Poling,Ohio,Ohio,Jawad,Miami Dolphins,5,Yes,10,15
+7,228,Marcell Ateman,Oklahoma State,Oklahoma,Ross,Oakland Raiders,5,No,0,5
+7,229,Jason Sanders,New Mexico,New Mexico,Nobody,Miami Dolphins,5,No,0,5
+7,230,Leon Jacobs,Wisconsin,Wisconsin,AJ,Jacksonville Jaguars,5,Yes,10,15
+7,231,Travin Howard,TCU,Texas,Jared,Los Angeles Rams,5,Yes,10,15
+7,232,James Looney,California,California,Ross,Green Bay Packers,5,No,0,5
+7,233,Jordan Mailata,Australia,Australia,Nobody,Philadelphia Eagles,5,Yes,10,15
+7,234,Andre Smith,North Carolina,North Carolina,AJ,Carolina Panthers,5,Yes,10,15
+7,235,Zaire Franklin,Syracuse,New York,Ross,Indianapolis Colts,5,Yes,10,15
+7,236,Bo Scarbrough,Alabama,Alabama,AJ,Dallas Cowboys,5,No,0,5
+7,237,Nick Bawden,San Diego State,California,Ross,Detroit Lions,5,No,0,5
+7,238,Zach Sieler,Ferris State,Michigan,Jared,Baltimore Ravens,5,No,0,5
+7,239,Hunter Bradley,Mississippi State,Mississippi,Nobody,Green Bay Packers,5,Yes,10,15
+7,240,Richie James,Middle Tennessee,Tennessee,Nobody,San Francisco 49ers,5,Yes,10,15
+7,241,Greg Stroman,Virginia Tech,Virginia,Tilo,Washington Redskins,5,Yes,10,15
+7,242,Kendrick Norton,Miami (FL),Florida,Jawad,Carolina Panthers,5,No,0,5
+7,243,Keion Crossen,Western Carolina,North Carolina,AJ,New England Patriots,5,Yes,10,15
+7,244,Justin Lawler,SMU,Texas,Jared,Los Angeles Rams,5,Yes,10,15
+7,245,Will Clapp,LSU,Louisiana,Tilo,New Orleans Saints,5,No,0,5
+7,246,Joshua Frazier,Alabama,Alabama,AJ,Pittsburgh Steelers,5,No,0,5
+7,247,Logan Cooke,Mississippi State,Mississippi,Nobody,Jacksonville Jaguars,5,No,0,5
+7,248,Kendall Donnerson,Southeast Missouri,Missouri,AJ,Green Bay Packers,5,Yes,10,15
+7,249,Logan Woodside,Toledo,Ohio,Jawad,Cincinnati Bengals,5,Yes,10,15
+7,250,Ryan Izzo,Florida State,Florida,Jawad,Philadelphia Eagles,5,Yes,10,15
+7,251,Justin Jackson,Northwestern,Illinois,Jawad,Los Angeles Chargers,5,Yes,10,15
+7,252,Rod Taylor,Ole Miss,Mississippi,Nobody,Cincinnati Bengals,5,Yes,10,15
+7,253,Auden Tate,Florida State,Florida,Jawad,Cincinnati Bengals,5,Yes,10,15
+7,254,Korey Cunningham,Cincinatti,Ohio,Jawad,Arizona Cardinals,5,Yes,10,15
+7,255,Austin Proehl,North Carolina,North Carolina,AJ,Tampa Bay Buccaneers,5,Yes,10,15
+7,256,Trey Quinn,SMU,Texas,Jared,Washington Redskins,5,Yes,10,15
