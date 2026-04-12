@@ -1,9 +1,9 @@
 {
-  "year": 2025,
-  "status": "complete",
-  "current_round": 7,
-  "current_day": 3,
-  "draft_complete": true,
-  "last_updated": "2026-04-11T06:42:32.711057+00:00",
-  "total_picks_made": 257
+  "year": 2026,
+  "status": "pre_draft",
+  "current_round": 0,
+  "current_day": 0,
+  "draft_complete": false,
+  "last_updated": "2026-04-12T00:32:10.742257+00:00",
+  "total_picks_made": 0
 }

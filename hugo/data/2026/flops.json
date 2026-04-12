@@ -1,0 +1,362 @@
+[
+  {
+    "school": "Ohio State",
+    "owner": "Ross",
+    "bid": 106,
+    "projected": 207
+  },
+  {
+    "school": "Miami (FL)",
+    "owner": "Tilo",
+    "bid": 48,
+    "projected": 150
+  },
+  {
+    "school": "Clemson",
+    "owner": "Tilo",
+    "bid": 85,
+    "projected": 146
+  },
+  {
+    "school": "Texas A&M",
+    "owner": "Jared",
+    "bid": 49,
+    "projected": 135
+  },
+  {
+    "school": "Indiana",
+    "owner": "Netten",
+    "bid": 43,
+    "projected": 134
+  },
+  {
+    "school": "Alabama",
+    "owner": "Jared",
+    "bid": 42,
+    "projected": 127
+  },
+  {
+    "school": "Georgia",
+    "owner": "Ross",
+    "bid": 55,
+    "projected": 120
+  },
+  {
+    "school": "Texas Tech",
+    "owner": "Jared",
+    "bid": 42,
+    "projected": 110
+  },
+  {
+    "school": "Oregon",
+    "owner": "Jared",
+    "bid": 45,
+    "projected": 109
+  },
+  {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "bid": 37,
+    "projected": 99
+  },
+  {
+    "school": "Tennessee",
+    "owner": "Netten",
+    "bid": 27,
+    "projected": 98
+  },
+  {
+    "school": "Notre Dame",
+    "owner": "Jawad",
+    "bid": 31,
+    "projected": 97
+  },
+  {
+    "school": "LSU",
+    "owner": "Jawad",
+    "bid": 25,
+    "projected": 94
+  },
+  {
+    "school": "Arizona State",
+    "owner": "Tilo",
+    "bid": 30,
+    "projected": 86
+  },
+  {
+    "school": "Utah",
+    "owner": "Netten",
+    "bid": 20,
+    "projected": 77
+  },
+  {
+    "school": "Florida",
+    "owner": "Netten",
+    "bid": 28,
+    "projected": 69
+  },
+  {
+    "school": "USC",
+    "owner": "Tilo",
+    "bid": 24,
+    "projected": 68
+  },
+  {
+    "school": "Oklahoma",
+    "owner": "Jawad",
+    "bid": 20,
+    "projected": 68
+  },
+  {
+    "school": "Texas",
+    "owner": "Jawad",
+    "bid": 20,
+    "projected": 63
+  },
+  {
+    "school": "Auburn",
+    "owner": "Netten",
+    "bid": 17,
+    "projected": 61
+  },
+  {
+    "school": "Missouri",
+    "owner": "Jawad",
+    "bid": 17,
+    "projected": 60
+  },
+  {
+    "school": "Iowa",
+    "owner": "Netten",
+    "bid": 26,
+    "projected": 57
+  },
+  {
+    "school": "Michigan",
+    "owner": "Jawad",
+    "bid": 20,
+    "projected": 56
+  },
+  {
+    "school": "Washington",
+    "owner": "Jawad",
+    "bid": 9,
+    "projected": 56
+  },
+  {
+    "school": "Cincinnati",
+    "owner": "Ross",
+    "bid": 8,
+    "projected": 46
+  },
+  {
+    "school": "South Carolina",
+    "owner": "Ross",
+    "bid": 7,
+    "projected": 44
+  },
+  {
+    "school": "Illinois",
+    "owner": "Jared",
+    "bid": 12,
+    "projected": 40
+  },
+  {
+    "school": "Arkansas",
+    "owner": "AJ",
+    "bid": 5,
+    "projected": 40
+  },
+  {
+    "school": "Kentucky",
+    "owner": "AJ",
+    "bid": 4,
+    "projected": 36
+  },
+  {
+    "school": "Ole Miss",
+    "owner": "Tilo",
+    "bid": 6,
+    "projected": 34
+  },
+  {
+    "school": "Toledo",
+    "owner": "Netten",
+    "bid": 4,
+    "projected": 34
+  },
+  {
+    "school": "TCU",
+    "owner": "Jawad",
+    "bid": 3,
+    "projected": 29
+  },
+  {
+    "school": "Vanderbilt",
+    "owner": "Jared",
+    "bid": 2,
+    "projected": 29
+  },
+  {
+    "school": "Georgia Tech",
+    "owner": "Netten",
+    "bid": 5,
+    "projected": 29
+  },
+  {
+    "school": "Duke",
+    "owner": "Netten",
+    "bid": 4,
+    "projected": 29
+  },
+  {
+    "school": "Arizona",
+    "owner": "Tilo",
+    "bid": 2,
+    "projected": 28
+  },
+  {
+    "school": "Louisville",
+    "owner": "Jawad",
+    "bid": 7,
+    "projected": 28
+  },
+  {
+    "school": "UCF",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 24
+  },
+  {
+    "school": "San Diego State",
+    "owner": "Jared",
+    "bid": 1,
+    "projected": 22
+  },
+  {
+    "school": "Baylor",
+    "owner": "Jared",
+    "bid": 1,
+    "projected": 22
+  },
+  {
+    "school": "Northwestern",
+    "owner": "Tilo",
+    "bid": 2,
+    "projected": 20
+  },
+  {
+    "school": "SMU",
+    "owner": "Jared",
+    "bid": 3,
+    "projected": 20
+  },
+  {
+    "school": "North Carolina State",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 20
+  },
+  {
+    "school": "Boston College",
+    "owner": "Jared",
+    "bid": 1,
+    "projected": 19
+  },
+  {
+    "school": "Florida State",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 18
+  },
+  {
+    "school": "North Dakota State",
+    "owner": "Ross",
+    "bid": 2,
+    "projected": 18
+  },
+  {
+    "school": "Kansas State",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 18
+  },
+  {
+    "school": "Iowa State",
+    "owner": "Ross",
+    "bid": 2,
+    "projected": 17
+  },
+  {
+    "school": "Pittsburgh",
+    "owner": "Tilo",
+    "bid": 1,
+    "projected": 17
+  },
+  {
+    "school": "Wisconsin",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 16
+  },
+  {
+    "school": "Nebraska",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 16
+  },
+  {
+    "school": "BYU",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 15
+  },
+  {
+    "school": "Wake Forest",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 14
+  },
+  {
+    "school": "Mississippi State",
+    "owner": "Tilo",
+    "bid": 1,
+    "projected": 12
+  },
+  {
+    "school": "California",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 12
+  },
+  {
+    "school": "Stanford",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 12
+  },
+  {
+    "school": "UConn",
+    "owner": "Ross",
+    "bid": 1,
+    "projected": 11
+  },
+  {
+    "school": "Kansas",
+    "owner": "Tilo",
+    "bid": 1,
+    "projected": 11
+  },
+  {
+    "school": "North Carolina",
+    "owner": "Netten",
+    "bid": 1,
+    "projected": 11
+  },
+  {
+    "school": "Michigan State",
+    "owner": "AJ",
+    "bid": 1,
+    "projected": 10
+  }
+]
