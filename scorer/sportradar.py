@@ -27,6 +27,8 @@ def _fetch_and_cache(url: str, path: str, api_key: str) -> dict:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
+    # Sportradar trial rate limit: 1 request/second
+    time.sleep(1.5)
     return data
 
 
@@ -45,7 +47,4 @@ def get_draft(year: int, api_key: str, draft_complete: bool = False) -> dict:
         with open(path) as f:
             return json.load(f)
     url = f"{BASE_URL}/{year}/draft.json"
-    data = _fetch_and_cache(url, path, api_key)
-    # Sportradar trial rate limit: 1 request/second
-    time.sleep(1.5)
-    return data
+    return _fetch_and_cache(url, path, api_key)
