@@ -1,11 +1,74 @@
 {{ $year := .Get "year" }}
 {{ $data := index hugo.Data $year "school_stats" }}
+{{ $picks := index hugo.Data $year "picks" }}
 {{ if $data }}
+<h2>Players by School</h2>
+<p style="color:#c4c6cf;font-size:0.9em">Number of players drafted from each owned school, broken down by round. Top 20 schools by player count shown.</p>
+<div id="players-by-school-{{ $year }}"></div>
+
 <h2>School Performance</h2>
 <p style="color:#c4c6cf;font-size:0.9em">Each dot is a school. Schools above the line outperformed their projected points; below the line underperformed. Labels show top 20 scorers and top 10 underperformers. Hover any dot for details.</p>
 <div id="school-stats-{{ $year }}"></div>
 <script type="module">
 import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+{{ if $picks }}
+const picksData = JSON.parse({{ $picks | jsonify }});
+
+// Count players per school+round, keeping only owned schools
+const ownedSchools = new Set(JSON.parse({{ $data | jsonify }}).map(d => d.school));
+const schoolRoundCounts = {};
+for (const p of picksData) {
+  if (!ownedSchools.has(p.school)) continue;
+  const key = `${p.school}__${p.round}`;
+  if (!schoolRoundCounts[key]) schoolRoundCounts[key] = { school: p.school, round: p.round, players: 0 };
+  schoolRoundCounts[key].players++;
+}
+
+// Total players per school, pick top 20
+const schoolTotals = {};
+for (const { school, players } of Object.values(schoolRoundCounts)) {
+  schoolTotals[school] = (schoolTotals[school] ?? 0) + players;
+}
+const top20Schools = new Set(
+  Object.entries(schoolTotals).sort((a, b) => b[1] - a[1]).slice(0, 20).map(([s]) => s)
+);
+const schoolOrder = Object.entries(schoolTotals)
+  .filter(([s]) => top20Schools.has(s))
+  .sort((a, b) => b[1] - a[1])
+  .map(([s]) => s);
+
+const schoolPickData = Object.values(schoolRoundCounts).filter(d => top20Schools.has(d.school));
+
+const schoolPlayersChart = Plot.plot({
+  marginLeft: 130,
+  marginRight: 50,
+  style: { background: "transparent", color: "#dfe2eb", fontSize: "13px" },
+  x: { label: "Players Drafted", grid: true },
+  y: { label: null, domain: schoolOrder },
+  color: {
+    domain: [1, 2, 3, 4, 5, 6, 7],
+    range: ["#e9c400", "#f28e2b", "#e15759", "#59a14f", "#76b7b2", "#b07aa1", "#4e79a7"],
+    legend: true,
+    label: "Round",
+  },
+  marks: [
+    Plot.barX(schoolPickData, Plot.stackX({
+      x: "players",
+      y: "school",
+      fill: "round",
+      order: "round",
+      title: d => `Round ${d.round}: ${d.players} player${d.players !== 1 ? 's' : ''}`,
+    })),
+    Plot.text(
+      schoolOrder.map(school => ({ school, total: schoolTotals[school] })),
+      { x: d => d.total, y: "school", text: d => d.total.toString(), dx: 6, textAnchor: "start", fill: "#dfe2eb", fontSize: 11 }
+    ),
+    Plot.ruleX([0]),
+  ],
+});
+document.getElementById("players-by-school-{{ $year }}").append(schoolPlayersChart);
+{{ end }}
 
 const OWNER_COLORS = {
   'Ross': '#4e79a7', 'Tilo': '#f28e2b', 'Jared': '#e15759',
