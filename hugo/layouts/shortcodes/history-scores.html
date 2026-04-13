@@ -1,5 +1,5 @@
 {{/* Owner scores go back to 2017; school data only from 2021 onward */}}
-{{ $ownerYears := slice "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024" "2025" }}
+{{ $ownerYears := slice "2014" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024" "2025" }}
 {{ $schoolYears := slice "2021" "2022" "2023" "2024" "2025" }}
 
 {{/* Build owner scores dataset for all years */}}
@@ -62,7 +62,10 @@
 {{ end }}
 </div>
 
-<h2>All-Time Owner Standings</h2>
+<h2>Medal Count</h2>
+<div id="history-medals"></div>
+
+<h2>All-Time Owner Points</h2>
 <div id="history-totals-chart"></div>
 
 <h2>Points by Year</h2>
@@ -103,10 +106,11 @@ const data = JSON.parse({{ $allScores | jsonify }});
 
 // Year colors for all years (consistent with schools chart for 2021+)
 const ALL_YEAR_COLORS = {
+  2014: '#d4a373', 2015: '#a8dadc', 2016: '#6a994e',
   2017: '#9c755f', 2018: '#bab0ac', 2019: '#b07aa1', 2020: '#edc948',
   2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2'
 };
-const allYears = [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+const allYears = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
 
 // All-time totals stacked bar chart (colored by year)
 const ownerTotals = new Map();
@@ -149,6 +153,43 @@ const totalsChart = Plot.plot({
   ],
 });
 document.getElementById("history-totals-chart").append(totalsChart);
+
+// Medal count table
+const medals = {};
+const years = [...new Set(data.map(d => d.year))].sort();
+for (const year of years) {
+  const yearData = data.filter(d => d.year === year).sort((a, b) => b.points - a.points);
+  yearData.forEach((d, i) => {
+    if (!medals[d.owner]) medals[d.owner] = { gold: 0, silver: 0, bronze: 0 };
+    if (i === 0) medals[d.owner].gold++;
+    else if (i === 1) medals[d.owner].silver++;
+    else if (i === 2) medals[d.owner].bronze++;
+  });
+}
+const medalOrder = Object.entries(medals)
+  .sort((a, b) => b[1].gold - a[1].gold || b[1].silver - a[1].silver || b[1].bronze - a[1].bronze);
+
+const medalTable = document.createElement('table');
+medalTable.style.cssText = 'border-collapse:collapse;font-size:0.95em;min-width:280px';
+medalTable.innerHTML = `
+  <thead>
+    <tr style="border-bottom:2px solid #31353c;color:#e9c400;text-align:left">
+      <th style="padding:6px 12px">Owner</th>
+      <th style="padding:6px 12px;text-align:center">🥇</th>
+      <th style="padding:6px 12px;text-align:center">🥈</th>
+      <th style="padding:6px 12px;text-align:center">🥉</th>
+    </tr>
+  </thead>
+  <tbody>
+    ${medalOrder.map(([owner, m]) => `
+      <tr style="border-bottom:1px solid #1c2026">
+        <td style="padding:5px 12px;color:#dfe2eb">${owner}</td>
+        <td style="padding:5px 12px;text-align:center;font-weight:600;color:#e9c400">${m.gold || ''}</td>
+        <td style="padding:5px 12px;text-align:center;font-weight:600;color:#c4c6cf">${m.silver || ''}</td>
+        <td style="padding:5px 12px;text-align:center;font-weight:600;color:#7a6a4a">${m.bronze || ''}</td>
+      </tr>`).join('')}
+  </tbody>`;
+document.getElementById("history-medals").append(medalTable);
 
 // Line chart by year
 const lineChart = Plot.plot({
