@@ -1,0 +1,263 @@
+Owner,Points,Bonus?,Rnd.,Pick #,NFL team,Player,Pos.,College,Conf.,Notes
+Tilo,30,,1,1,Houston Texans,Jadeveon Clowney,DE,South Carolina,SEC,
+Ross,20,,1,2,St. Louis Rams,Greg Robinson,OT,Auburn,SEC,from Washington[R1 - 1]
+AJ,20,,1,3,Jacksonville Jaguars,Blake Bortles,QB,University of Central Florida,The American,
+AJ,20,,1,4,Buffalo Bills,Sammy Watkins,WR,Clemson University,ACC,from Cleveland
+Jared,20,,1,5,Oakland Raiders,Khalil Mack,LB,Buffalo University,MAC,
+AJ,20,,1,6,Atlanta Falcons,Jake Matthews,OT,Texas A&M,SEC,
+AJ,20,,1,7,Tampa Bay Buccaneers,Mike Evans,WR,Texas A&M,SEC,
+Ross,20,,1,8,Cleveland Browns,Justin Gilbert,DB,Oklahoma State,Big 12,from Minnesota
+Jared,20,5,1,9,Minnesota Vikings,Anthony Barr,LB,UCLA,Pac-12,from Cleveland via Buffalo
+Jared,20,,1,10,Detroit Lions,Eric Ebron,TE,North Carolina,ACC,
+AJ,15,,1,11,Tennessee Titans,Taylor Lewan,OT,Michigan,Big Ten,
+Jawad,15,,1,12,New York Giants,"Odell Beckham, Jr.",WR,LSU,SEC,
+Ross,15,,1,13,St. Louis Rams,Aaron Donald,DT,Pittsburgh,ACC,
+Tilo,15,,1,14,Chicago Bears,Kyle Fuller,CB,Virginia Tech,ACC,
+Jared,15,,1,15,Pittsburgh Steelers,Ryan Shazier,LB,Ohio State,Big Ten,
+Jawad,15,,1,16,Dallas Cowboys,Zach Martin,OT,Notre Dame,Ind.,
+Jared,15,,1,17,Baltimore Ravens,C.J. Mosley,LB,Alabama,SEC,
+Ross,15,,1,18,New York Jets,Calvin Pryor,S,Louisville,The American,
+Jared,15,,1,19,Miami Dolphins,Ja'Wuan James,OT,Tennessee,SEC,
+Tilo,15,,1,20,New Orleans Saints,Brandin Cooks,WR,Oregon State,Pac-12,
+Jared,10,,1,21,Green Bay Packers,Ha Ha Clinton-Dix,S,Alabama,SEC,
+AJ,10,5,1,22,Cleveland Browns,Johnny Manziel,QB,Texas A&M,SEC,from Philadelphia
+Ross,10,,1,23,Kansas City Chiefs,Dee Ford,DE,Auburn,SEC,
+Tilo,10,,1,24,Cincinnati Bengals,Darqueze Dennard,CB,Michigan State,Big Ten,
+AJ,10,,1,25,San Diego Chargers,Jason Verrett,CB,TCU,Big 12,
+Ross,10,,1,26,Philadelphia Eagles,Marcus Smith,DE,Louisville,The American,from Indianapolis[R1 - 3]
+Nobody!,10,,1,27,Arizona Cardinals,Deone Bucannon,S,Washington State,Pac-12,from New Orleans
+Jawad,10,,1,28,Carolina Panthers,Kelvin Benjamin,WR,Florida State,ACC,
+Jawad,10,,1,29,New England Patriots,Dominique Easley,DT,Florida,SEC,
+Ross,10,,1,30,San Francisco 49ers,Jimmie Ward,S,Northern Illinois,MAC,
+Jared,10,,1,31,Denver Broncos,Bradley Roby,CB,Ohio State,Big Ten,
+Ross,10,,1,32,Minnesota Vikings,Teddy Bridgewater,QB,Louisville,The American,from Seattle
+,,,Round 2,,,,,,,
+Jared,6,,2,33,Houston Texans,Xavier Su'a-Filo,G,UCLA,Pac-12,
+Ross,6,,2,34,Dallas Cowboys,Demarcus Lawrence,DE,Boise State,MWC,from Washington[R1 - 10]
+Nobody!,6,,2,35,Cleveland Browns,Joel Bitonio,OT,Nevada,MWC,
+Tilo,6,,2,36,Oakland Raiders,Derek Carr,QB,Fresno State,MWC,
+Jared,6,,2,37,Atlanta Falcons,Ra'Shede Hageman,DT,Minnesota,Big Ten,
+Ross,6,,2,38,Tampa Bay Buccaneers,Austin Seferian-Jenkins,TE,Washington,Pac-12,
+Jawad,6,,2,39,Jacksonville Jaguars,Marqise Lee,WR,USC,Pac-12,
+Tilo,6,,2,40,Detroit Lions,Kyle Van Noy,LB,BYU,Ind.,from Minnesota via Seattle[R2 - 1]
+Jawad,6,,2,41,St. Louis Rams,Lamarcus Joyner,S,Florida State,ACC,from Buffalo[R2 - 2]
+Jared,6,,2,42,Philadelphia Eagles,Jordan Matthews,WR,Vanderbilt,SEC,from Tennessee[R2 - 3]
+AJ,6,,2,43,New York Giants,Weston Richburg,C,Colorado State,MWC,
+Jared,6,,2,44,Buffalo Bills,Cyrus Kouandjio,OT,Alabama,SEC,from St. Louis[R2 - 4]
+Nobody!,6,,2,45,Seattle Seahawks,Paul Richardson,WR,Colorado,Pac-12,from Detroit
+Jawad,6,,2,46,Pittsburgh Steelers,Stephon Tuitt,DE,Notre Dame,Ind.,
+Ross,6,,2,47,Washington Redskins,Trent Murphy,LB,Stanford,Pac-12,from Dallas[R2 - 5]
+Jawad,6,,2,48,Baltimore Ravens,Timmy Jernigan,DT,Florida State,ACC,
+AJ,6,,2,49,New York Jets,Jace Amaro,TE,Texas Tech,Big 12,
+Nobody!,6,,2,50,San Diego Chargers,Jeremiah Attaochu,OLB,Georgia Tech,ACC,from Miami[R2 - 6]
+Jawad,6,,2,51,Chicago Bears,Ego Ferguson,DT,LSU,SEC,
+Jawad,6,,2,52,Arizona Cardinals,Troy Niklas,TE,Notre Dame,Ind.,
+Tilo,6,,2,53,Green Bay Packers,Davante Adams,WR,Fresno State,MWC,
+Ross,6,,2,54,Tennessee Titans,Bishop Sankey,RB,Washington,Pac-12,from Philadelphia[R2 - 7]
+Jawad,6,,2,55,Cincinnati Bengals,Jeremy Hill,RB,LSU,SEC,
+Jawad,6,,2,56,Denver Broncos,Cody Latimer,WR,Indiana,Big Ten,from Kansas City via San Francisco[R2 - 8]
+Jared,6,,2,57,San Francisco 49ers,Carlos Hyde,RB,Ohio State,Big Ten,from San Diego via Miami[R2 - 9]
+AJ,6,,2,58,New Orleans Saints,Stanley Jean-Baptiste,CB,Nebraska,Big Ten,
+Jared,6,,2,59,Indianapolis Colts,Jack Mewhort,OT,Ohio State,Big Ten,
+AJ,6,,2,60,Carolina Panthers,Kony Ealy,DE,Missouri,SEC,
+Tilo,6,,2,61,Jacksonville Jaguars,Allen Robinson,WR,Penn State,Big Ten,from San Francisco
+Jared,6,,2,62,New England Patriots,Jimmy Garoppolo,QB,EIU,OVC,
+Jawad,6,,2,63,Miami Dolphins,Jarvis Landry,WR,LSU,SEC,from Denver via San Francisco
+AJ,6,,2,64,Seattle Seahawks,Justin Britt,OT,Missouri,SEC,
+,,,Round 3,,,,,,,
+Tilo,5,,3,65,Houston Texans,C. J. Fiedorowicz,TE,Iowa,Big Ten,
+AJ,5,,3,66,Washington Redskins,Morgan Moses,OT,Virginia,ACC,
+Tilo,5,,3,67,Miami Dolphins,Billy Turner,OT,North Dakota State,MVFC,from Oakland[R3 - 1]
+Ross,5,,3,68,Atlanta Falcons,Dezmen Southward,S,Wisconsin,Big Ten,
+Nobody!,5,,3,69,Tampa Bay Buccaneers,Charles Sims,RB,West Virginia,Big 12,
+Jawad,5,,3,70,San Francisco 49ers,Marcus Martin,C,USC,Pac-12,from Jacksonville[R3 - 2]
+Tilo,5,,3,71,Cleveland Browns,Christian Kirksey,LB,Iowa,Big Ten,
+Tilo,5,,3,72,Minnesota Vikings,Scott Crichton,DE,Oregon St.,Pac-12,
+Ross,5,,3,73,Buffalo Bills,Preston Brown,LB,Louisville,The American,
+Nobody!,5,,3,74,New York Giants,Jay Bromley,DT,Syracuse,ACC,
+Ross,5,,3,75,St. Louis Rams,Tre Mason,RB,Auburn,SEC,
+Nobody!,5,,3,76,Detroit Lions,Travis Swanson,C,Arkansas,SEC,
+Ross,5,,3,77,San Francisco 49ers,Chris Borland,LB,Wisconsin,Big Ten,from Tennessee[R3 - 3]
+AJ,5,,3,78,Washington Redskins,Spencer Long,G,Nebraska,Big Ten,from Dallas[R3 - 4]
+Jawad,5,,3,79,Baltimore Ravens,Terrence Brooks,S,Florida State,ACC,
+Nobody!,5,,3,80,New York Jets,Dexter McDougle,CB,Maryland,ACC,
+Nobody!,5,,3,81,Oakland Raiders,Gabe Jackson,G,Mississippi State,SEC,from Miami[R3 - 5]
+Jawad,5,,3,82,Chicago Bears,Will Sutton,DT,Arizona State,Pac-12,
+Jawad,5,,3,83,Houston Texans,Louis Nix,DT,Notre Dame,Ind.,from Pittsburgh via Cleveland and Philadelphia[R3 - 6]
+Jared,5,,3,84,Arizona Cardinals,Kareem Martin,DE,North Carolina,ACC,
+Nobody!,5,,3,85,Green Bay Packers,Khyri Thornton,DT,Southern Miss,C-USA,
+AJ,5,,3,86,Philadelphia Eagles,Josh Huff,WR,Oregon,Pac-12,
+Nobody!,5,,3,87,Kansas City Chiefs,Phillip Gaines,CB,Rice,C-USA,
+Nobody!,5,,3,88,Cincinnati Bengals,Will Clarke,DE,West Virginia,Big 12,
+Jawad,5,,3,89,San Diego Chargers,Chris Watt,G,Notre Dame,Ind.,
+Ross,5,,3,90,Indianapolis Colts,Donte Moncrief,WR,Ole Miss,SEC,
+Nobody!,5,,3,91,Arizona Cardinals,John Brown,WR,Pittsburg State (KS),MIAA,from New Orleans[R3 - 7]
+Jawad,5,,3,92,Carolina Panthers,Trai Turner,G,LSU,SEC,
+Nobody!,5,,3,93,Jacksonville Jaguars,Brandon Linder,G,Miami,ACC,from New England[R3 - 8]
+AJ,5,5,3,94,Cleveland Browns,Terrance West,RB,Towson,CAA,from San Francisco[R3 - 9]
+AJ,5,,3,95,Denver Broncos,Michael Schofield,OT,Michigan,Big Ten,
+Jawad,5,,3,96,Minnesota Vikings,Jerick McKinnon,RB,Georgia Southern,SoCon,from Seattle[R3 - 10]
+Nobody!,5,,3,97,Pittsburgh Steelers,Dri Archer,RB,Kent State,MAC,
+Nobody!,5,,3,98,Green Bay Packers,Richard Rodgers,TE,California,Pac-12,
+AJ,5,,3,99,Baltimore Ravens,Crockett Gillmore,TE,Colorado State,MWC,
+AJ,5,,3,100,San Francisco 49ers,Brandon Thomas,G,Clemson,ACC,
+,,,Round 4,,,,,,,
+Jawad,4,,4,101,Philadelphia Eagles,Jaylen Watkins,CB,Florida,SEC,from Houston[R4 - 1]
+AJ,4,,4,102,Washington Redskins,Bashaud Breeland,CB,Clemson,ACC,
+Jawad,4,,4,103,Atlanta Falcons,Devonta Freeman,RB,Florida State,ACC,
+Nobody!,4,,4,104,New York Jets,Jalen Saunders,WR,Oklahoma,Big 12,from Tampa Bay[R4 - 2]
+Jawad,4,,4,105,New England Patriots,Bryan Stork,C,Florida State,ACC,from Jacksonville[R4 - 3]
+Tilo,4,,4,106,San Francisco 49ers,Bruce Ellington,WR,South Carolina,SEC,from Cleveland[R4 - 4]
+Nobody!,4,,4,107,Oakland Raiders,Justin Ellis,DT,Louisiana Tech,C-USA,
+Jared,4,,4,108,Seattle Seahawks,Cassius Marsh,DE,UCLA,Pac-12,from Minnesota[R4 - 5]
+Nobody!,4,,4,109,Buffalo Bills,Ross Cockrell,CB,Duke,ACC,
+Nobody!,4,,4,110,St. Louis Rams,Maurice Alexander,S,Utah St.,MWC,
+Jared,4,,4,111,Cincinnati Bengals,Russell Bodine,C,North Carolina,ACC,from Detroit[R4 - 6]
+Tilo,4,,4,112,Tennessee Titans,DaQuan Jones,DT,Penn State,Big Ten,
+Nobody!,4,,4,113,New York Giants,Andre Williams,RB,Boston College,ACC,
+Nobody!,4,,4,114,Jacksonville Jaguars,Aaron Colvin,CB,Oklahoma,Big 12,from Baltimore[R4 - 7]
+Jared,4,,4,115,New York Jets,Shaq Evans,WR,UCLA,Pac-12,
+Nobody!,4,,4,116,Oakland Raiders,Keith McGill,CB,Utah,Pac-12,from Miami[R4 - 8]
+Nobody!,4,,4,117,Chicago Bears,Ka'Deem Carey,RB,Arizona,Pac-12,
+AJ,4,,4,118,Pittsburgh Steelers,Martavis Bryant,WR,Clemson,ACC,
+Tilo,4,,4,119,Dallas Cowboys,Anthony Hitchens,LB,Iowa,Big Ten,
+Tilo,4,,4,120,Arizona Cardinals,Logan Thomas,QB,Virginia Tech,ACC,
+Jawad,4,,4,121,Green Bay Packers,Carl Bradford,LB,Arizona State,Pac-12,
+Jawad,4,,4,122,Tennessee Titans,Marqueston Huff,S,Wyoming,MWC,from Philadelphia[R4 - 9]
+Jared,4,,4,123,Seattle Seahawks,Kevin Norwood,WR,Alabama,SEC,
+AJ,4,,4,124,Kansas City Chiefs,De'Anthony Thomas,WR,Oregon,Pac-12,
+Nobody!,4,,4,125,Miami Dolphins,Walt Aikens,CB,Liberty,Big South,from San Diego[R4 - 10]
+Nobody!,4,,4,126,New Orleans Saints,Khairi Fortt,LB,California,Pac-12,
+Jared,4,,4,127,Cleveland Browns,Pierre Desir,CB,Lindenwood,MIAA,from Indianapolis[R4 - 11]
+Jared,4,,4,128,Carolina Panthers,Tre Boston,S,North Carolina,ACC,
+Nobody!,4,,4,129,San Francisco 49ers,Dontae Johnson,CB,North Carolina State,ACC,
+Ross,4,,4,130,New England Patriots,James White,RB,Wisconsin,Big Ten,
+Jared,4,,4,131,Chicago Bears,Brock Vereen,FS,Minnesota,Big Ten,from Denver[R4 - 12]
+Nobody!,4,,4,132,Seattle Seahawks,Kevin Pierre-Louis,OLB,Boston College,ACC,
+Nobody!,4,,4*,133,Detroit Lions,Nevin Lawson,CB,Utah State,MWC,
+AJ,4,,4*,134,Baltimore Ravens,Brent Urban,DT,Virginia,ACC,
+Ross,4,,4*,135,Houston Texans,Tom Savage,QB,Pittsburgh,ACC,
+Ross,4,,4*,136,Detroit Lions,Larry Webster III,DE,Bloomsburg,PSAC,
+AJ,4,,4*,137,New York Jets,Dakota Dozier,G,Furman,SoCon,
+Nobody!,4,,4*,138,Baltimore Ravens,Lorenzo Taliaferro,RB,Coastal Carolina,Big South,
+Jawad,4,,4*,139,Atlanta Falcons,Prince Shembo,OLB,Notre Dame,Ind.,
+Ross,4,,4*,140,New England Patriots,Cameron Fleming,OT,Stanford,Pac-12,
+,,,Round 5,,,,,,,
+AJ,3,,5,141,Philadelphia Eagles,Taylor Hart,DE,Oregon,Pac-12,from Houston[R5 - 1]
+Nobody!,3,,5,142,Washington Redskins,Ryan Grant,WR,Tulane,C-USA,
+Nobody!,3,,5,143,Tampa Bay Buccaneers,Kadeem Edwards,G,Tennessee State,OVC,
+Jawad,3,,5,144,Jacksonville Jaguars,Telvin Smith,OLB,Florida State,ACC,
+Ross,3,,5,145,Minnesota Vikings,David Yankey,G,Stanford,Pac-12,from Cleveland[R5 - 2]
+Ross,3,,5,146,Detroit Lions,Devin Street,WR,Pittsburgh,ACC,from Oakland via Seattle[R5 - 3]
+Jawad,3,,5,147,Atlanta Falcons,Ricardo Allen,CB,Purdue,Big Ten,
+Nobody!,3,,5,148,Carolina Panthers,Bené Benwikere,CB,San Jose State,MWC,from Minnesota[R5 - 4]
+Jawad,3,,5,149,Buffalo Bills,Kevin Pamphile,OT,Purdue,Big Ten,
+Nobody!,3,,5,150,San Francisco 49ers,Aaron Lynch,DE,South Florida,The American,from Detroit via Jacksonville[R5 - 5]
+Nobody!,3,,5,151,Tennessee Titans,Avery Williamson,ILB,Kentucky,SEC,
+Nobody!,3,,5,152,New York Giants,Nat Berhe,S,San Diego State,MWC,
+Jared,3,,5,153,Buffalo Bills,Cyril Richardson,G,Baylor,Big 12,from St. Louis[R5 - 6]
+Nobody!,3,,5,154,New York Jets,Jeremiah George,ILB,Iowa State,Big 12,
+Tilo,3,,5,155,Miami Dolphins,Arthur Lynch,TE,Georgia,SEC,
+Jawad,3,,5,156,Denver Broncos,Lamin Barrow,OLB,LSU,SEC,from Chicago[R5 - 7]
+Nobody!,3,,5,157,Pittsburgh Steelers,Shaquille Richardson,CB,Arizona,Pac-12,
+Ross,3,,5,158,Dallas Cowboys,Caraun Reid,DT,Princeton,Ivy,
+Nobody!,3,,5,159,Jacksonville Jaguars,Chris Smith,DE,Arkansas,SEC,from Baltimore[R5 - 8]
+Jared,3,,5,160,Arizona Cardinals,Ed Stinson,DE,Alabama,SEC,
+Jared,3,,5,161,Green Bay Packers,Corey Linsley,C,Ohio State,Big Ten,
+Ross,3,,5,162,Philadelphia Eagles,Ed Reynolds,S,Stanford,Pac-12,
+Tilo,3,5,5,163,Kansas City Chiefs,Aaron Murray,QB,Georgia,SEC,
+Jared,3,,5,164,Cincinnati Bengals,AJ McCarron,QB,Alabama,SEC,
+Nobody!,3,,5,165,San Diego Chargers,Ryan Carrethers,DT,Arkansas State,Sun Belt,
+Nobody!,3,,5,166,Indianapolis Colts,Jonathan Newsome,DE,Ball State,MAC,
+Jared,3,,5,167,New Orleans Saints,Vinnie Sunseri,S,Alabama,SEC,
+Nobody!,3,,5,168,Atlanta Falcons,Marquis Spruill,LB,Syracuse,ACC,from Carolina[R5 - 9]
+Jawad,3,5,5,169,New Orleans Saints,Ronald Powell,OLB,Florida,SEC,from New England via Philadelphia[R5 - 10]
+Nobody!,3,,5,170,San Francisco 49ers,Keith Reaser,CB,Florida Atlantic,C-USA,
+Jawad,3,,5,171,Miami Dolphins,Jordan Tripp,LB,Montana,Big Sky,from Denver[R5 - 11]
+Nobody!,3,,5,172,Seattle Seahawks,Jimmy Staten,DT,Middle Tennessee State,C-USA,
+Jared,3,,5*,173,Pittsburgh Steelers,Wesley Johnson,C,Vanderbilt,SEC,
+Jawad,3,,5*,174,New York Giants,Devon Kennard,OLB,USC,Pac-12,
+Tilo,3,,5*,175,Baltimore Ravens,John Urschel,G,Penn State,Big Ten,
+Ross,3,5,5*,176,Green Bay Packers,Jared Abbrederis,WR,Wisconsin,Big Ten,
+,,,Round 6,,,,,,,
+Jared,2,,6,177,Houston Texans,Jeoffrey Pagan,DE,Alabama,SEC,
+Jawad,2,,6,178,Tennessee Titans,Zach Mettenberger,QB,LSU,SEC,from Washington[R6 - 1]
+Jawad,2,,6,179,New England Patriots,Jon Halapio,G,Florida,SEC,from Jacksonville[R6 - 2]
+Nobody!,2,,6,180,San Francisco 49ers,Kenneth Acker,CB,SMU,The American,from Cleveland[R6 - 3]
+Jawad,2,,6,181,Houston Texans,Alfred Blue,RB,LSU,SEC,from Oakland[R6 - 4]
+Tilo,2,,6,182,Minnesota Vikings,Antone Exum,CB,Virginia Tech,ACC,from Atlanta[R6 - 5]
+Jared,2,,6,183,Chicago Bears,David Fales,QB,San Jose State,MWC,from Tampa Bay[R6 - 6]
+Nobody!,2,,6,184,Minnesota Vikings,Kendall James,CB,Maine,CAA,
+Jawad,2,,6,185,Tampa Bay Buccaneers,Robert Herron,WR,Wyoming,MWC,from Buffalo[R6 - 7]
+Jared,2,,6,186,Washington Redskins,Lache Seastrunk,RB,Baylor,Big 12,from Tennessee[R6 - 8]
+Jawad,2,,6,187,New York Giants,Bennett Jackson,CB,Notre Dame,Ind.,
+AJ,2,,6,188,St. Louis Rams,E. J. Gaines,CB,Missouri,SEC,
+Jawad,2,,6,189,Detroit Lions,T. J. Jones,WR,Notre Dame,Ind.,
+Nobody!,2,,6,190,Miami Dolphins,Matt Hazel,WR,Coastal Carolina,Big South,
+Nobody!,2,,6,191,Chicago Bears,Pat O'Donnell,P,Miami,ACC,
+Jared,2,,6,192,Pittsburgh Steelers,Jordan Zumwalt,OLB,UCLA,Pac-12,
+Jared,2,,6,193,Kansas City Chiefs,Zach Fulton,G,Tennessee,SEC,from Dallas[R6 - 9]
+Nobody!,2,,6,194,Baltimore Ravens,Keith Wenning,QB,Ball State,MAC,
+Nobody!,2,,6,195,New York Jets,Brandon Dixon,CB,Northwest Missouri State,MIAA,
+Nobody!,2,,6,196,Arizona Cardinals,Walt Powell,WR,Murray State,OVC,
+Jared,2,,6,197,Green Bay Packers,Demetri Goodson,CB,Baylor,Big 12,
+Nobody!,2,,6,198,New England Patriots,Zach Moore,DE,Concordia (St. Paul),NSIC,from Philadelphia[R6 - 10]
+Nobody!,2,,6,199,Seattle Seahawks,Garrett Scott,OT,Marshall,C-USA,from Cincinnati[R6 - 11]
+Nobody!,2,,6,200,Kansas City Chiefs,Laurent Duvernay-Tardif,OT,McGill,RSEQ,
+Jawad,2,,6,201,San Diego Chargers,Marion Grice,RB,Arizona State,Pac-12,
+Tilo,2,,6,202,New Orleans Saints,Tavon Rooks,OT,Kansas State,Big 12,
+Nobody!,2,,6,203,Indianapolis Colts,Andrew Jackson,LB,Western Kentucky,Sun Belt,
+Ross,2,,6,204,Carolina Panthers,Tyler Gaffney,RB,Stanford,Pac-12,
+AJ,2,,6,205,Jacksonville Jaguars,Luke Bowanko,C,Virginia,ACC,from San Francisco[R6 - 12]
+Nobody!,2,,6,206,New England Patriots,Jemea Thomas,S,Georgia Tech,ACC,
+Ross,2,,6,207,Denver Broncos,Matt Paradis,C,Boise State,MWC,
+Nobody!,2,,6,208,Seattle Seahawks,Eric Pinkins,SS,San Diego State,MWC,
+AJ,2,,6*,209,New York Jets,Quincy Enunwa,WR,Nebraska,Big Ten,
+Nobody!,2,,6*,210,New York Jets,IK Enemkpali,DE,Louisiana Tech,C-USA,
+Ross,2,,6*,211,Houston Texans,Jay Prosch,FB,Auburn,SEC,
+Nobody!,2,,6*,212,Cincinnati Bengals,Marquis Flowers,LB,Arizona,Pac-12,
+AJ,2,,6*,213,New York Jets,Tajh Boyd,QB,Clemson,ACC,
+Nobody!,2,,6*,214,St. Louis Rams,Garrett Gilbert,QB,SMU,The American,
+Jared,2,,6*,215,Pittsburgh Steelers,Daniel McCullers,DT,Tennessee,SEC,
+,,,Round 7,,,,,,,
+Jared,1,,7,216,Houston Texans,Andre Hal,CB,Vanderbilt,SEC,
+Jawad,1,,7,217,Washington Redskins,Ted Bolser,TE,Indiana,Big Ten,
+Nobody!,1,,7,218,Baltimore Ravens,Michael Campanaro,WR,Wake Forest,ACC,from Cleveland[R7 - 1]
+Nobody!,1,,7,219,Oakland Raiders,Travis Carrie,CB,Ohio,MAC,
+Jared,1,5,7,220,Minnesota Vikings,Shamar Stephen,DT,Connecticut,The American,from Atlanta[R7 - 2]
+Nobody!,1,,7,221,Buffalo Bills,Randell Johnson,LB,Florida Atlantic,C-USA,from Tampa Bay[R7 - 3]
+AJ,1,,7,222,Jacksonville Jaguars,Storm Johnson,RB,UCF,The American,
+Nobody!,1,,7,223,Minnesota Vikings,Brandon Watts,LB,Georgia Tech,ACC,
+Ross,1,,7,224,Philadelphia Eagles,Beau Allen,DT,Wisconsin,Big Ten,from Buffalo Bills[R7 - 4]
+Jared,1,5,7,225,Minnesota Vikings,Jabari Prince,CB,North Carolina,ACC,from New York Giants via Carolina[R7 - 5]
+Nobody!,1,,7,226,St. Louis Rams,Mitchell Van Dyk,OT,Portland State,Big Sky,
+Nobody!,1,,7,227,Seattle Seahawks,Kiero Small,RB,Arkansas,SEC,from Detroit[R7 - 6]
+Nobody!,1,,7,228,Washington Redskins,Zach Hocker,K,Arkansas,SEC,from Tennessee[R7 - 7]
+Nobody!,1,,7,229,Detroit Lions,Nate Freese,K,Boston College,ACC,from Chicago via Dallas[R7 - 8]
+Nobody!,1,,7,230,Pittsburgh Steelers,Rob Blanchflower,TE,Massachusetts,MAC,
+Ross,1,,7,231,Dallas Cowboys,Ben Gardner,DE,Stanford,Pac-12,
+Nobody!,1,,7,232,Indianapolis Colts,John Ulrick,OT,Georgia State,Sun Belt,from Baltimore[R7 - 9]
+Nobody!,1,,7,233,New York Jets,Trevor Reilly,LB,Utah,Pac-12,
+Nobody!,1,,7,234,Miami Dolphins,Terrence Fede,DE,Marist,PFL,
+Nobody!,1,,7,235,Oakland Raiders,Shelby Harris,DE,Illinois State,MVFC,from Arizona[R7 - 10]
+Nobody!,1,,7,236,Green Bay Packers,Jeff Janis,WR,Saginaw Valley State,GLIAC,
+Nobody!,1,,7,237,Buffalo Bills,Seantrel Henderson,OT,Miami,ACC,from Philadelphia[R7 - 11]
+AJ,1,,7,238,Dallas Cowboys,Will Smith,LB,Texas Tech,Big 12,from Kansas City[R7 - 12]
+Jawad,1,,7,239,Cincinnati Bengals,James Wright,WR,LSU,SEC,
+Jared,1,,7,240,San Diego Chargers,Tevin Reese,WR,Baylor,Big 12,
+Jared,1,,7,241,St. Louis Rams,C. B. Bryant,FS,Ohio State,Big Ten,from Indianapolis[R7 - 13]
+Nobody!,1,,7,242,Denver Broncos,Corey Nelson,LB,Oklahoma,Big 12,from New Orleans via San Francisco[R7 - 14]
+Nobody!,1,,7,243,San Francisco 49ers,Kaleb Ramsey,DT,Boston College,ACC,from Carolina[R7 - 15]
+AJ,1,,7,244,New England Patriots,Jeremy Gallon,WR,Michigan,Big Ten,
+Nobody!,1,,7,245,San Francisco 49ers,Trey Millard,FB,Oklahoma,Big 12,
+Ross,1,,7,246,Chicago Bears,"Charles Leno, Jr.",OT,Boise State,MWC,from Denver[R7 - 16]
+Nobody!,1,,7,247,Oakland Raiders,Jonathan Dowling,SS,Western Kentucky,Sun Belt,from Seattle[R7 - 17]
+Jared,1,,7*,248,Dallas Cowboys,Ahmad Dixon,SS,Baylor,Big 12,
+AJ,1,,7*,249,St. Louis Rams,Michael Sam,DE,Missouri,SEC,
+Nobody!,1,,7*,250,St. Louis Rams,Demetrius Rhaney,C,Tennessee State,OVC,
+Ross,1,,7*,251,Dallas Cowboys,Ken Bishop,DT,Northern Illinois,MAC,
+Jawad,1,,7*,252,Cincinnati Bengals,Lavelle Westbrooks,CB,Georgia Southern,SoCon,
+Jared,1,,7*,253,Atlanta Falcons,Yawin Smallwood,LB,Connecticut,The American,
+AJ,1,,7*,254,Dallas Cowboys,Terrance Mitchell,CB,Oregon,Pac-12,
+Nobody!,1,,7*,255,Atlanta Falcons,Tyler Starr,LB,South Dakota,MVFC,
+Nobody!,1,,7*,256,Houston Texans,Lonnie Ballentine,FS,Memphis,The American,
