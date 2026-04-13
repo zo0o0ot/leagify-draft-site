@@ -41,28 +41,49 @@ const chart = Plot.plot({
 });
 document.getElementById("round-breakdown-{{ $year }}").append(chart);
 
-// Players by round chart
+// Players by round — heatmap
+// Fill in zeros for missing owner/round combos so every cell renders
+const owners = [...new Set(data.map(d => d.owner))];
+const rounds = [1, 2, 3, 4, 5, 6, 7];
+const pickMap = new Map(data.map(d => [`${d.owner}|${d.round}`, d.picks]));
+const heatData = owners.flatMap(owner =>
+  rounds.map(round => ({
+    owner,
+    round,
+    picks: pickMap.get(`${owner}|${round}`) ?? 0,
+  }))
+);
+const maxPicks = Math.max(...heatData.map(d => d.picks));
+
 const playersChart = Plot.plot({
   marginLeft: 70,
+  marginRight: 10,
   style: { background: "transparent", color: "#dfe2eb", fontSize: "14px" },
-  x: { label: "Players Drafted", grid: true },
-  y: { label: null },
+  x: { label: "Round", domain: rounds, tickFormat: d => `R${d}`, padding: 0 },
+  y: { label: null, padding: 0 },
   color: {
-    domain: [1, 2, 3, 4, 5, 6, 7],
-    range: ["#e9c400", "#f28e2b", "#e15759", "#59a14f", "#76b7b2", "#b07aa1", "#4e79a7"],
+    type: "linear",
+    domain: [0, maxPicks],
+    range: ["#1c2026", "#4e79a7"],
+    label: "Players",
     legend: true,
-    label: "Round",
   },
   marks: [
-    Plot.barX(data, Plot.stackX({
-      x: "picks",
+    Plot.cell(heatData, {
+      x: "round",
       y: "owner",
-      fill: "round",
-      sort: { y: null },
-      order: "round",
-      title: d => `Round ${d.round}: ${d.picks} players (${d.points} pts)`,
-    })),
-    Plot.ruleX([0]),
+      fill: "picks",
+      inset: 1,
+      title: d => `${d.owner} — Round ${d.round}: ${d.picks} player${d.picks !== 1 ? 's' : ''}`,
+    }),
+    Plot.text(heatData, {
+      x: "round",
+      y: "owner",
+      text: d => d.picks > 0 ? d.picks.toString() : "",
+      fill: d => d.picks > maxPicks * 0.5 ? "#fff" : "#c4c6cf",
+      fontSize: 13,
+      fontWeight: "600",
+    }),
   ],
 });
 document.getElementById("players-by-round-{{ $year }}").append(playersChart);

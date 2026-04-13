@@ -1,6 +1,16 @@
 {{ $year := .Get "year" }}
 {{ $data := index hugo.Data $year "draft_roster" }}
+{{ $picks := index hugo.Data $year "picks" }}
 {{ if $data }}
+
+{{/* Build school → player count map from picks */}}
+{{ $schoolPlayers := dict }}
+{{ if $picks }}
+  {{ range $picks }}
+    {{ $cur := index $schoolPlayers .school | default 0 }}
+    {{ $schoolPlayers = merge $schoolPlayers (dict .school (add $cur 1)) }}
+  {{ end }}
+{{ end }}
 
 <h2>Auction Draft Roster</h2>
 
@@ -88,16 +98,19 @@ document.getElementById("draft-roster-chart-{{ $year }}").append(chart);
           <th style="text-align:left;padding:3px 6px">Tier</th>
           <th style="text-align:right;padding:3px 6px">Bid</th>
           <th style="text-align:right;padding:3px 6px">Proj</th>
+          <th style="text-align:right;padding:3px 6px">Players</th>
           <th style="text-align:right;padding:3px 6px">Actual</th>
         </tr>
       </thead>
       <tbody>
         {{ range $ownerSchools }}
         <tr style="border-top:1px solid #31353c{{ if eq .actual 0 }};opacity:0.5{{ end }}">
+          {{ $playerCount := index $schoolPlayers .school | default 0 }}
           <td style="padding:3px 6px">{{ .school }}</td>
           <td style="padding:3px 6px;color:#c4c6cf;font-size:0.9em">{{ .tier }}</td>
           <td style="text-align:right;padding:3px 6px">${{ .bid }}</td>
           <td style="text-align:right;padding:3px 6px;color:#c4c6cf">{{ .projected }}</td>
+          <td style="text-align:right;padding:3px 6px;color:#c4c6cf">{{ if gt $playerCount 0 }}{{ $playerCount }}{{ else }}—{{ end }}</td>
           <td style="text-align:right;padding:3px 6px;font-weight:{{ if gt .actual 0 }}600{{ else }}400{{ end }};color:{{ if gt .actual 0 }}#e9c400{{ else }}#555e6e{{ end }}">
             {{ if gt .actual 0 }}{{ .actual }}{{ else }}—{{ end }}
           </td>
