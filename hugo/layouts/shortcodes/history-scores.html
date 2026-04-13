@@ -1,8 +1,10 @@
-{{ $years := slice "2021" "2022" "2023" "2024" "2025" }}
+{{/* Owner scores go back to 2017; school data only from 2021 onward */}}
+{{ $ownerYears := slice "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024" "2025" }}
+{{ $schoolYears := slice "2021" "2022" "2023" "2024" "2025" }}
 
-{{/* Build a combined dataset for all years */}}
+{{/* Build owner scores dataset for all years */}}
 {{ $allScores := slice }}
-{{ range $years }}
+{{ range $ownerYears }}
   {{ $y := . }}
   {{ $yearData := index hugo.Data $y "owner_scores" }}
   {{ if $yearData }}
@@ -12,9 +14,9 @@
   {{ end }}
 {{ end }}
 
-{{/* Build school scores dataset across all years (owned + unclaimed) */}}
+{{/* Build school scores dataset (2021+ only, owned + unclaimed) */}}
 {{ $allSchoolScores := slice }}
-{{ range $years }}
+{{ range $schoolYears }}
   {{ $y := . }}
   {{ $schoolData := index hugo.Data $y "school_stats" }}
   {{ if $schoolData }}
@@ -30,7 +32,7 @@
   {{ end }}
 {{ end }}
 
-{{/* Compute all-time totals */}}
+{{/* Compute all-time totals for the points table */}}
 {{ $totals := dict }}
 {{ range $allScores }}
   {{ $cur := index $totals .owner | default 0 }}
@@ -39,7 +41,7 @@
 
 <h2>Year-by-Year Podium</h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-bottom:2.5rem">
-{{ range $years }}
+{{ range $ownerYears }}
   {{ $y := . }}
   {{ $yearData := index hugo.Data $y "owner_scores" }}
   {{ if $yearData }}
@@ -99,34 +101,50 @@ const OWNER_COLORS = {
 
 const data = JSON.parse({{ $allScores | jsonify }});
 
-// All-time totals bar chart
-const totals = Array.from(
-  data.reduce((m, d) => m.set(d.owner, (m.get(d.owner) ?? 0) + d.points), new Map()),
-  ([owner, points]) => ({ owner, points })
-).sort((a, b) => b.points - a.points);
+// Year colors for all years (consistent with schools chart for 2021+)
+const ALL_YEAR_COLORS = {
+  2017: '#9c755f', 2018: '#bab0ac', 2019: '#b07aa1', 2020: '#edc948',
+  2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2'
+};
+const allYears = [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+
+// All-time totals stacked bar chart (colored by year)
+const ownerTotals = new Map();
+for (const d of data) ownerTotals.set(d.owner, (ownerTotals.get(d.owner) ?? 0) + d.points);
+const ownerOrder = [...ownerTotals.entries()].sort((a, b) => b[1] - a[1]).map(([o]) => o);
 
 const totalsChart = Plot.plot({
   marginLeft: 70,
   marginRight: 60,
   style: { background: "transparent", color: "#dfe2eb", fontSize: "14px" },
   x: { label: "Total Points", grid: true },
-  y: { label: null },
+  y: { label: null, domain: ownerOrder },
+  color: {
+    domain: allYears,
+    range: allYears.map(y => ALL_YEAR_COLORS[y]),
+    legend: true,
+    label: "Year",
+    tickFormat: d => d.toString(),
+  },
   marks: [
-    Plot.barX(totals, {
+    Plot.barX(data, Plot.stackX({
       x: "points",
       y: "owner",
-      sort: { y: "-x" },
-      fill: d => OWNER_COLORS[d.owner] ?? "#888",
-    }),
-    Plot.text(totals, {
-      x: "points",
-      y: "owner",
-      text: d => d.points.toString(),
-      dx: 6,
-      textAnchor: "start",
-      fill: "#dfe2eb",
-      sort: { y: "-x" },
-    }),
+      fill: "year",
+      order: "year",
+      title: d => `${d.year}: ${d.points} pts`,
+    })),
+    Plot.text(
+      ownerOrder.map(owner => ({ owner, total: ownerTotals.get(owner) })),
+      {
+        x: d => d.total,
+        y: "owner",
+        text: d => d.total.toString(),
+        dx: 6,
+        textAnchor: "start",
+        fill: "#dfe2eb",
+      }
+    ),
     Plot.ruleX([0]),
   ],
 });
@@ -160,10 +178,7 @@ const lineChart = Plot.plot({
 });
 document.getElementById("history-line-chart").append(lineChart);
 
-// Top 20 schools stacked by year
-const YEAR_COLORS = {
-  2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2'
-};
+// Top 25 schools stacked by year (2021+ only)
 
 // Normalize school names that changed across years
 const SCHOOL_ALIASES = {
@@ -199,7 +214,7 @@ const schoolOrder = [...schoolTotals.entries()]
   .sort((a, b) => b[1] - a[1])  // descending so highest is at top in Plot
   .map(([school]) => school);
 
-const years = [2021, 2022, 2023, 2024, 2025];
+const schoolYears = [2021, 2022, 2023, 2024, 2025];
 
 const schoolsChart = Plot.plot({
   marginLeft: 120,
@@ -209,8 +224,8 @@ const schoolsChart = Plot.plot({
   x: { label: "Points", grid: true },
   y: { label: null, domain: schoolOrder },
   color: {
-    domain: years,
-    range: years.map(y => YEAR_COLORS[y]),
+    domain: schoolYears,
+    range: schoolYears.map(y => ALL_YEAR_COLORS[y]),
     legend: true,
     label: "Year",
     tickFormat: d => d.toString(),
