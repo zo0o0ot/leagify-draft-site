@@ -2,7 +2,7 @@
 {{ $data := index hugo.Data $year "school_stats" }}
 {{ if $data }}
 <h2>School Performance</h2>
-<p style="color:#c4c6cf;font-size:0.9em">Each dot is a school. Schools above the line outperformed their projected points; below the line underperformed. Hover for details.</p>
+<p style="color:#c4c6cf;font-size:0.9em">Each dot is a school. Schools above the line outperformed their projected points; below the line underperformed. Labels show top 20 scorers and top 10 underperformers. Hover any dot for details.</p>
 <div id="school-stats-{{ $year }}"></div>
 <script type="module">
 import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
@@ -14,6 +14,12 @@ const OWNER_COLORS = {
 
 const data = JSON.parse({{ $data | jsonify }});
 const maxVal = Math.max(...data.map(d => Math.max(d.projected, d.actual))) * 1.05;
+
+// Label top 20 by actual points + top 10 underperformers by difference
+const top20 = new Set([...data].sort((a, b) => b.actual - a.actual).slice(0, 20).map(d => d.school));
+const top10under = new Set([...data].sort((a, b) => a.difference - b.difference).slice(0, 10).map(d => d.school));
+const labeledSchools = new Set([...top20, ...top10under]);
+const labelData = data.filter(d => labeledSchools.has(d.school));
 
 const chart = Plot.plot({
   width: 600,
@@ -35,7 +41,7 @@ const chart = Plot.plot({
       strokeWidth: 1,
       title: d => `${d.school}\n${d.owner}\nBid: $${d.bid}\nProjected: ${d.projected}\nActual: ${d.actual}\nDiff: ${d.difference > 0 ? "+" : ""}${d.difference}`,
     }),
-    Plot.text(data, {
+    Plot.text(labelData, {
       x: "projected",
       y: "actual",
       text: d => d.school,
