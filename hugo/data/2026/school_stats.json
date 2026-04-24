@@ -22,6 +22,17 @@
     "points_per_dollar": 2.083
   },
   {
+    "school": "Utah",
+    "owner": "Netten",
+    "tier": "Big 12",
+    "bid": 20,
+    "projected": 77,
+    "actual": 80,
+    "difference": 3,
+    "performance_ratio": 1.039,
+    "points_per_dollar": 4.0
+  },
+  {
     "school": "Alabama",
     "owner": "Jared",
     "tier": "SEC",
@@ -64,17 +75,6 @@
     "difference": -49,
     "performance_ratio": 0.479,
     "points_per_dollar": 1.8
-  },
-  {
-    "school": "Utah",
-    "owner": "Netten",
-    "tier": "Big 12",
-    "bid": 20,
-    "projected": 77,
-    "actual": 45,
-    "difference": -32,
-    "performance_ratio": 0.584,
-    "points_per_dollar": 2.25
   },
   {
     "school": "Indiana",
