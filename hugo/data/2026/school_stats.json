@@ -229,5 +229,16 @@
     "difference": -4,
     "performance_ratio": 0.882,
     "points_per_dollar": 5.0
+  },
+  {
+    "school": "Tennessee",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 27,
+    "projected": 98,
+    "actual": 20,
+    "difference": -78,
+    "performance_ratio": 0.204,
+    "points_per_dollar": 0.741
   }
 ]

@@ -538,5 +538,20 @@
     "conference": "Big Ten",
     "player_id": "4c49aa10-4b0e-4075-806d-021049493631",
     "owner": "Ross"
+  },
+  {
+    "pick": 37,
+    "round": 2,
+    "pick_in_round": 5,
+    "player": "Colton Hood",
+    "school": "Tennessee",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "00e4b38d-dc89-4537-8591-f064df566e66",
+    "owner": "Netten"
   }
 ]
