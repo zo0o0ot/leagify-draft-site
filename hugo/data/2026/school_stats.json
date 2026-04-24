@@ -218,5 +218,16 @@
     "difference": -90,
     "performance_ratio": 0.25,
     "points_per_dollar": 0.545
+  },
+  {
+    "school": "Ole Miss",
+    "owner": "Tilo",
+    "tier": "SEC",
+    "bid": 6,
+    "projected": 34,
+    "actual": 30,
+    "difference": -4,
+    "performance_ratio": 0.882,
+    "points_per_dollar": 5.0
   }
 ]

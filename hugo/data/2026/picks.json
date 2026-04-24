@@ -478,5 +478,20 @@
     "conference": "FBS - Independent",
     "player_id": "7f818350-d6ce-4a7c-94ee-fa568136c3df",
     "owner": "Jawad"
+  },
+  {
+    "pick": 33,
+    "round": 2,
+    "pick_in_round": 1,
+    "player": "De'Zhaun Stribling",
+    "school": "Ole Miss",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "Mississippi",
+    "conference": "SEC",
+    "player_id": "568a1826-cd77-4d1b-a122-4d6d55b521f5",
+    "owner": "Tilo"
   }
 ]
