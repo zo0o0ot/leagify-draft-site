@@ -598,5 +598,35 @@
     "conference": "SEC",
     "player_id": "a4b39497-60bc-4eea-b863-101080a07d95",
     "owner": "Jawad"
+  },
+  {
+    "pick": 41,
+    "round": 2,
+    "pick_in_round": 9,
+    "player": "Cashius Howell",
+    "school": "Texas A&M",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "c1dd7a73-4f9b-4df9-83d5-77467bbe1dae",
+    "owner": "Jared"
+  },
+  {
+    "pick": 42,
+    "round": 2,
+    "pick_in_round": 10,
+    "player": "Christen Miller",
+    "school": "Georgia",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Georgia",
+    "conference": "SEC",
+    "player_id": "8cf72272-98af-4def-b2ec-d25176b8ea05",
+    "owner": "Ross"
   }
 ]

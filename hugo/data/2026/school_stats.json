@@ -66,6 +66,17 @@
     "points_per_dollar": 1.744
   },
   {
+    "school": "Texas A&M",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 49,
+    "projected": 135,
+    "actual": 75,
+    "difference": -60,
+    "performance_ratio": 0.556,
+    "points_per_dollar": 1.531
+  },
+  {
     "school": "Oregon",
     "owner": "Jared",
     "tier": "Big Ten",
@@ -99,15 +110,15 @@
     "points_per_dollar": 2.0
   },
   {
-    "school": "Texas A&M",
-    "owner": "Jared",
+    "school": "Georgia",
+    "owner": "Ross",
     "tier": "SEC",
-    "bid": 49,
-    "projected": 135,
-    "actual": 55,
-    "difference": -80,
-    "performance_ratio": 0.407,
-    "points_per_dollar": 1.122
+    "bid": 55,
+    "projected": 120,
+    "actual": 50,
+    "difference": -70,
+    "performance_ratio": 0.417,
+    "points_per_dollar": 0.909
   },
   {
     "school": "LSU",
@@ -207,17 +218,6 @@
     "difference": -39,
     "performance_ratio": 0.435,
     "points_per_dollar": 1.071
-  },
-  {
-    "school": "Georgia",
-    "owner": "Ross",
-    "tier": "SEC",
-    "bid": 55,
-    "projected": 120,
-    "actual": 30,
-    "difference": -90,
-    "performance_ratio": 0.25,
-    "points_per_dollar": 0.545
   },
   {
     "school": "Ole Miss",

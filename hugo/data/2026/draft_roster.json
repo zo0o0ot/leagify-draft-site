@@ -89,19 +89,19 @@
   },
   {
     "owner": "Jared",
+    "school": "Texas A&M",
+    "tier": "SEC",
+    "bid": 49,
+    "projected": 135,
+    "actual": 75
+  },
+  {
+    "owner": "Jared",
     "school": "Oregon",
     "tier": "Big Ten",
     "bid": 45,
     "projected": 109,
     "actual": 65
-  },
-  {
-    "owner": "Jared",
-    "school": "Texas A&M",
-    "tier": "SEC",
-    "bid": 49,
-    "projected": 135,
-    "actual": 55
   },
   {
     "owner": "Jared",
@@ -333,7 +333,7 @@
     "tier": "SEC",
     "bid": 55,
     "projected": 120,
-    "actual": 30
+    "actual": 50
   },
   {
     "owner": "Ross",
