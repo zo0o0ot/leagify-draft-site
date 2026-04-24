@@ -358,5 +358,20 @@
     "conference": "SEC",
     "player_id": "7f398df1-9df5-4324-9f74-c3573610dc0c",
     "owner": "Jared"
+  },
+  {
+    "pick": 25,
+    "round": 1,
+    "pick_in_round": 25,
+    "player": "Dillon Thieneman",
+    "school": "Oregon",
+    "position": "SAF",
+    "experience": "",
+    "traded": false,
+    "points": 25,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "49ef7327-44f3-49c1-8f5d-4b3ef2ec23d8",
+    "owner": "Jared"
   }
 ]
