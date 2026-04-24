@@ -463,5 +463,20 @@
     "conference": "SEC",
     "player_id": "3ba2d62d-f6d3-47ff-876f-26ba6276f090",
     "owner": "Netten"
+  },
+  {
+    "pick": 32,
+    "round": 1,
+    "pick_in_round": 32,
+    "player": "Jadarian Price",
+    "school": "Notre Dame",
+    "position": "RB",
+    "experience": "",
+    "traded": false,
+    "points": 25,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "7f818350-d6ce-4a7c-94ee-fa568136c3df",
+    "owner": "Jawad"
   }
 ]

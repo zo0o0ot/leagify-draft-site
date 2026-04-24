@@ -77,6 +77,17 @@
     "points_per_dollar": 0.765
   },
   {
+    "school": "Notre Dame",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 31,
+    "projected": 97,
+    "actual": 60,
+    "difference": -37,
+    "performance_ratio": 0.619,
+    "points_per_dollar": 1.935
+  },
+  {
     "school": "Arizona State",
     "owner": "Tilo",
     "tier": "Big 12",
@@ -119,17 +130,6 @@
     "difference": -75,
     "performance_ratio": 0.318,
     "points_per_dollar": 0.833
-  },
-  {
-    "school": "Notre Dame",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 31,
-    "projected": 97,
-    "actual": 35,
-    "difference": -62,
-    "performance_ratio": 0.361,
-    "points_per_dollar": 1.129
   },
   {
     "school": "UCF",
