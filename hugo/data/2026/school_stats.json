@@ -11,6 +11,17 @@
     "points_per_dollar": 1.368
   },
   {
+    "school": "Alabama",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
+    "actual": 80,
+    "difference": -47,
+    "performance_ratio": 0.63,
+    "points_per_dollar": 1.905
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -55,17 +66,6 @@
     "points_per_dollar": 0.93
   },
   {
-    "school": "Alabama",
-    "owner": "Jared",
-    "tier": "SEC",
-    "bid": 42,
-    "projected": 127,
-    "actual": 40,
-    "difference": -87,
-    "performance_ratio": 0.315,
-    "points_per_dollar": 0.952
-  },
-  {
     "school": "Texas Tech",
     "owner": "Jared",
     "tier": "Big 12",
@@ -97,5 +97,16 @@
     "difference": -51,
     "performance_ratio": 0.407,
     "points_per_dollar": 1.167
+  },
+  {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 30,
+    "difference": -69,
+    "performance_ratio": 0.303,
+    "points_per_dollar": 0.811
   }
 ]

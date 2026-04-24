@@ -5,23 +5,23 @@
     "rank": 1
   },
   {
-    "owner": "Netten",
-    "points": 85,
+    "owner": "Jared",
+    "points": 115,
     "rank": 2
   },
   {
     "owner": "Jawad",
-    "points": 80,
+    "points": 110,
     "rank": 3
+  },
+  {
+    "owner": "Netten",
+    "points": 85,
+    "rank": 4
   },
   {
     "owner": "Tilo",
     "points": 80,
-    "rank": 4
-  },
-  {
-    "owner": "Jared",
-    "points": 75,
     "rank": 5
   }
 ]

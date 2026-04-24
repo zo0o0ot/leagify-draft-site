@@ -178,5 +178,35 @@
     "conference": "SEC",
     "player_id": "4f4b7679-6697-45a3-9918-8cd56ecb4d37",
     "owner": "Jared"
+  },
+  {
+    "pick": 13,
+    "round": 1,
+    "pick_in_round": 13,
+    "player": "Ty Simpson",
+    "school": "Alabama",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 40,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "7ec38271-b2eb-47bb-beb4-1045eb2596ad",
+    "owner": "Jared"
+  },
+  {
+    "pick": 14,
+    "round": 1,
+    "pick_in_round": 14,
+    "player": "Olaivavega Ioane",
+    "school": "Penn State",
+    "position": "OG",
+    "experience": "",
+    "traded": false,
+    "points": 30,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "cb338d97-c66a-4584-b148-7ec909d40ef3",
+    "owner": "Jawad"
   }
 ]
