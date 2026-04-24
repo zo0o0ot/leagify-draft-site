@@ -11,6 +11,17 @@
     "points_per_dollar": 0.66
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 45,
+    "difference": -49,
+    "performance_ratio": 0.479,
+    "points_per_dollar": 1.8
+  },
+  {
     "school": "Indiana",
     "owner": "Netten",
     "tier": "Big Ten",

@@ -1,21 +1,21 @@
 [
   {
+    "owner": "Jawad",
+    "points": 80,
+    "rank": 1
+  },
+  {
     "owner": "Ross",
     "points": 70,
-    "rank": 1
+    "rank": 2
   },
   {
     "owner": "Netten",
     "points": 40,
-    "rank": 2
-  },
-  {
-    "owner": "Jared",
-    "points": 35,
     "rank": 3
   },
   {
-    "owner": "Jawad",
+    "owner": "Jared",
     "points": 35,
     "rank": 4
   }

@@ -73,5 +73,20 @@
     "conference": "Big Ten",
     "player_id": "1af48394-e7bd-4f52-8aa8-4ce46ebdf929",
     "owner": "Ross"
+  },
+  {
+    "pick": 6,
+    "round": 1,
+    "pick_in_round": 6,
+    "player": "Mansoor Delane",
+    "school": "LSU",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 45,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "7c7a6706-9f74-424b-a51b-eadd2d7a291a",
+    "owner": "Jawad"
   }
 ]
