@@ -523,5 +523,20 @@
     "conference": "ACC",
     "player_id": "d2f9395a-4cef-41b1-9b7a-1d92b0c33b35",
     "owner": "Tilo"
+  },
+  {
+    "pick": 36,
+    "round": 2,
+    "pick_in_round": 4,
+    "player": "Kayden McDonald",
+    "school": "Ohio State",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "4c49aa10-4b0e-4075-806d-021049493631",
+    "owner": "Ross"
   }
 ]
