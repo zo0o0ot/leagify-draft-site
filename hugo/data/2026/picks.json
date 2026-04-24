@@ -433,5 +433,35 @@
     "conference": "ACC",
     "player_id": "b48a8468-eb59-4b38-826d-1dc0f4366e24",
     "owner": "Tilo"
+  },
+  {
+    "pick": 30,
+    "round": 1,
+    "pick_in_round": 30,
+    "player": "Omar Cooper Jr.",
+    "school": "Indiana",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "bf655f9d-485d-4306-baf0-d2c5245a9ac4",
+    "owner": "Netten"
+  },
+  {
+    "pick": 31,
+    "round": 1,
+    "pick_in_round": 31,
+    "player": "Keldric Faulk",
+    "school": "Auburn",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "3ba2d62d-f6d3-47ff-876f-26ba6276f090",
+    "owner": "Netten"
   }
 ]

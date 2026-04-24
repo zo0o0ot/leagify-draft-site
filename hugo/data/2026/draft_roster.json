@@ -253,7 +253,7 @@
     "tier": "Big Ten",
     "bid": 43,
     "projected": 134,
-    "actual": 40
+    "actual": 75
   },
   {
     "owner": "Netten",
@@ -261,6 +261,14 @@
     "tier": "ACC",
     "bid": 5,
     "projected": 29,
+    "actual": 35
+  },
+  {
+    "owner": "Netten",
+    "school": "Auburn",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 61,
     "actual": 35
   },
   {
@@ -285,14 +293,6 @@
     "tier": "Big Ten",
     "bid": 26,
     "projected": 57,
-    "actual": 0
-  },
-  {
-    "owner": "Netten",
-    "school": "Auburn",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 61,
     "actual": 0
   },
   {
