@@ -409,6 +409,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Clemson",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 65
+  },
+  {
+    "owner": "Tilo",
     "school": "Arizona State",
     "tier": "Big 12",
     "bid": 30,
@@ -422,14 +430,6 @@
     "bid": 24,
     "projected": 68,
     "actual": 40
-  },
-  {
-    "owner": "Tilo",
-    "school": "Clemson",
-    "tier": "Flex",
-    "bid": 85,
-    "projected": 146,
-    "actual": 30
   },
   {
     "owner": "Tilo",

@@ -418,5 +418,20 @@
     "conference": "Big 12",
     "player_id": "9bfb5b1d-ed3e-4a66-b280-820900c1983e",
     "owner": "Netten"
+  },
+  {
+    "pick": 29,
+    "round": 1,
+    "pick_in_round": 29,
+    "player": "Peter Woods",
+    "school": "Clemson",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "b48a8468-eb59-4b38-826d-1dc0f4366e24",
+    "owner": "Tilo"
   }
 ]
