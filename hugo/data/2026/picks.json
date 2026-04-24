@@ -208,5 +208,20 @@
     "conference": "Big Ten",
     "player_id": "cb338d97-c66a-4584-b148-7ec909d40ef3",
     "owner": "Jawad"
+  },
+  {
+    "pick": 15,
+    "round": 1,
+    "pick_in_round": 15,
+    "player": "Rueben Bain Jr.",
+    "school": "Miami (FL)",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 30,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "fffc3ca9-c3f8-464b-a966-5e5163d2d645",
+    "owner": "Tilo"
   }
 ]
