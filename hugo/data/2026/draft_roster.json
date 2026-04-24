@@ -401,6 +401,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Arizona State",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 35
+  },
+  {
+    "owner": "Tilo",
     "school": "Ole Miss",
     "tier": "SEC",
     "bid": 6,
@@ -437,14 +445,6 @@
     "tier": "ACC",
     "bid": 48,
     "projected": 150,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
-    "school": "Arizona State",
-    "tier": "Big 12",
-    "bid": 30,
-    "projected": 86,
     "actual": 0
   },
   {

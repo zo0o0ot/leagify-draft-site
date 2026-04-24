@@ -103,5 +103,20 @@
     "conference": "Big Ten",
     "player_id": "e4f6deb4-7c58-4e50-8f61-a69054cf205f",
     "owner": "Ross"
+  },
+  {
+    "pick": 8,
+    "round": 1,
+    "pick_in_round": 8,
+    "player": "Jordyn Tyson",
+    "school": "Arizona State",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "962fbbc3-f4c9-4b5b-9f42-405457c95ef9",
+    "owner": "Tilo"
   }
 ]

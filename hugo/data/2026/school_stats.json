@@ -53,5 +53,16 @@
     "difference": -62,
     "performance_ratio": 0.361,
     "points_per_dollar": 1.129
+  },
+  {
+    "school": "Arizona State",
+    "owner": "Tilo",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 35,
+    "difference": -51,
+    "performance_ratio": 0.407,
+    "points_per_dollar": 1.167
   }
 ]
