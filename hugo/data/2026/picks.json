@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "pick": 1,
+    "round": 1,
+    "pick_in_round": 1,
+    "player": "Fernando Mendoza",
+    "school": "Indiana",
+    "position": "QB",
+    "experience": "",
+    "traded": false,
+    "points": 40,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "032815f9-6118-45c4-aff0-a639eca99027",
+    "owner": "Netten"
+  }
+]

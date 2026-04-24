@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "school": "Indiana",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 40,
+    "difference": -94,
+    "performance_ratio": 0.299,
+    "points_per_dollar": 0.93
+  }
+]

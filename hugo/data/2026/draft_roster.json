@@ -241,6 +241,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Indiana",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 40
+  },
+  {
+    "owner": "Netten",
     "school": "Tennessee",
     "tier": "SEC",
     "bid": 27,
@@ -253,14 +261,6 @@
     "tier": "SEC",
     "bid": 28,
     "projected": 69,
-    "actual": 0
-  },
-  {
-    "owner": "Netten",
-    "school": "Indiana",
-    "tier": "Big Ten",
-    "bid": 43,
-    "projected": 134,
     "actual": 0
   },
   {
