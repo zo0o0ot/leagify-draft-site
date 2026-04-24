@@ -154,6 +154,17 @@
     "points_per_dollar": 7.0
   },
   {
+    "school": "San Diego State",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 22,
+    "actual": 35,
+    "difference": 13,
+    "performance_ratio": 1.591,
+    "points_per_dollar": 35.0
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",

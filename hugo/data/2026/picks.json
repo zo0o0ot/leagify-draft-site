@@ -388,5 +388,20 @@
     "conference": "ACC",
     "player_id": "6d679fb8-0e47-47ab-a3ee-2840085db425",
     "owner": "Netten"
+  },
+  {
+    "pick": 27,
+    "round": 1,
+    "pick_in_round": 27,
+    "player": "Chris Johnson",
+    "school": "San Diego State",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "California",
+    "conference": "FBS - Mountain West",
+    "player_id": "d1ad8b24-efb5-4807-b344-d86ea4f7b1e8",
+    "owner": "Jared"
   }
 ]
