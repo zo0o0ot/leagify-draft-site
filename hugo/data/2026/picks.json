@@ -313,5 +313,20 @@
     "conference": "Big 12",
     "player_id": "2fc35463-31e5-4e7a-b979-1ea86095a9db",
     "owner": "Tilo"
+  },
+  {
+    "pick": 22,
+    "round": 1,
+    "pick_in_round": 22,
+    "player": "Akheem Mesidor",
+    "school": "Miami (FL)",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 25,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "edadec80-9ea9-47ac-8ab1-e01c2633a1c4",
+    "owner": "Tilo"
   }
 ]

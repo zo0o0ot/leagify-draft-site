@@ -11,6 +11,17 @@
     "points_per_dollar": 1.368
   },
   {
+    "school": "Miami (FL)",
+    "owner": "Tilo",
+    "tier": "ACC",
+    "bid": 48,
+    "projected": 150,
+    "actual": 100,
+    "difference": -50,
+    "performance_ratio": 0.667,
+    "points_per_dollar": 2.083
+  },
+  {
     "school": "Alabama",
     "owner": "Jared",
     "tier": "SEC",
@@ -20,17 +31,6 @@
     "difference": -47,
     "performance_ratio": 0.63,
     "points_per_dollar": 1.905
-  },
-  {
-    "school": "Miami (FL)",
-    "owner": "Tilo",
-    "tier": "ACC",
-    "bid": 48,
-    "projected": 150,
-    "actual": 75,
-    "difference": -75,
-    "performance_ratio": 0.5,
-    "points_per_dollar": 1.562
   },
   {
     "school": "Arizona State",
