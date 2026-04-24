@@ -132,6 +132,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "Texas A&M",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 49,
+    "projected": 135,
+    "actual": 35,
+    "difference": -100,
+    "performance_ratio": 0.259,
+    "points_per_dollar": 0.714
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",

@@ -343,5 +343,20 @@
     "conference": "Big 12",
     "player_id": "484eaa0d-b5f4-4de6-99d6-bcb83d762d81",
     "owner": "AJ"
+  },
+  {
+    "pick": 24,
+    "round": 1,
+    "pick_in_round": 24,
+    "player": "KC Concepcion",
+    "school": "Texas A&M",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "7f398df1-9df5-4324-9f74-c3573610dc0c",
+    "owner": "Jared"
   }
 ]
