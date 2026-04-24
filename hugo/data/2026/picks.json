@@ -13,5 +13,20 @@
     "conference": "Big Ten",
     "player_id": "032815f9-6118-45c4-aff0-a639eca99027",
     "owner": "Netten"
+  },
+  {
+    "pick": 2,
+    "round": 1,
+    "pick_in_round": 2,
+    "player": "David Bailey",
+    "school": "Texas Tech",
+    "position": "OLB",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "227df909-4357-4a8b-8f7e-e92828062e5f",
+    "owner": "Jared"
   }
 ]

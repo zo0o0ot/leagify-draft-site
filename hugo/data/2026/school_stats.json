@@ -9,5 +9,16 @@
     "difference": -94,
     "performance_ratio": 0.299,
     "points_per_dollar": 0.93
+  },
+  {
+    "school": "Texas Tech",
+    "owner": "Jared",
+    "tier": "Big 12",
+    "bid": 42,
+    "projected": 110,
+    "actual": 35,
+    "difference": -75,
+    "performance_ratio": 0.318,
+    "points_per_dollar": 0.833
   }
 ]
