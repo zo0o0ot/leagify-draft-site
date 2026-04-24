@@ -89,6 +89,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Oregon",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
+    "actual": 40
+  },
+  {
+    "owner": "Jared",
     "school": "Texas Tech",
     "tier": "Big 12",
     "bid": 42,
@@ -101,14 +109,6 @@
     "tier": "SEC",
     "bid": 49,
     "projected": 135,
-    "actual": 0
-  },
-  {
-    "owner": "Jared",
-    "school": "Oregon",
-    "tier": "Big Ten",
-    "bid": 45,
-    "projected": 109,
     "actual": 0
   },
   {

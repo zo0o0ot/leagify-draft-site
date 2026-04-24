@@ -66,6 +66,17 @@
     "points_per_dollar": 0.93
   },
   {
+    "school": "Oregon",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
+    "actual": 40,
+    "difference": -69,
+    "performance_ratio": 0.367,
+    "points_per_dollar": 0.889
+  },
+  {
     "school": "Texas Tech",
     "owner": "Jared",
     "tier": "Big 12",

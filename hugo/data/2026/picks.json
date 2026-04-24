@@ -223,5 +223,20 @@
     "conference": "ACC",
     "player_id": "fffc3ca9-c3f8-464b-a966-5e5163d2d645",
     "owner": "Tilo"
+  },
+  {
+    "pick": 16,
+    "round": 1,
+    "pick_in_round": 16,
+    "player": "Kenyon Sadiq",
+    "school": "Oregon",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 40,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "40c06eb7-5f6d-413b-83fb-28bb3d58de1c",
+    "owner": "Jared"
   }
 ]
