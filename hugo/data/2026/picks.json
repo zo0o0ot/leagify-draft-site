@@ -493,5 +493,20 @@
     "conference": "SEC",
     "player_id": "568a1826-cd77-4d1b-a122-4d6d55b521f5",
     "owner": "Tilo"
+  },
+  {
+    "pick": 34,
+    "round": 2,
+    "pick_in_round": 2,
+    "player": "Chase Bisontis",
+    "school": "Texas A&M",
+    "position": "G",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "4671639f-37a8-49db-a23c-82c5826ab716",
+    "owner": "Jared"
   }
 ]
