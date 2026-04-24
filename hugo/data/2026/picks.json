@@ -43,5 +43,20 @@
     "conference": "FBS - Independent",
     "player_id": "fece0166-4d89-4e3d-a1d7-165c298ece01",
     "owner": "Jawad"
+  },
+  {
+    "pick": 4,
+    "round": 1,
+    "pick_in_round": 4,
+    "player": "Carnell Tate",
+    "school": "Ohio State",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "b88e8984-4e28-4f74-8cd0-28166d0d84c1",
+    "owner": "Ross"
   }
 ]

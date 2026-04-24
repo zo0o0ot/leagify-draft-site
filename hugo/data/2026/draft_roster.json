@@ -321,6 +321,14 @@
   },
   {
     "owner": "Ross",
+    "school": "Ohio State",
+    "tier": "Big Ten",
+    "bid": 106,
+    "projected": 207,
+    "actual": 35
+  },
+  {
+    "owner": "Ross",
     "school": "Georgia",
     "tier": "SEC",
     "bid": 55,
@@ -333,14 +341,6 @@
     "tier": "SEC",
     "bid": 7,
     "projected": 44,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
-    "school": "Ohio State",
-    "tier": "Big Ten",
-    "bid": 106,
-    "projected": 207,
     "actual": 0
   },
   {
