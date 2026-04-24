@@ -1,9 +1,9 @@
 {
   "year": 2026,
-  "status": "between_days",
-  "current_round": 1,
-  "current_day": 1,
+  "status": "in_progress",
+  "current_round": 2,
+  "current_day": 2,
   "draft_complete": false,
-  "last_updated": "2026-04-24T22:31:15.857161+00:00",
+  "last_updated": "2026-04-24T23:09:23.392988+00:00",
   "total_picks_made": 32
 }
