@@ -161,6 +161,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Notre Dame",
+    "tier": "Flex",
+    "bid": 31,
+    "projected": 97,
+    "actual": 35
+  },
+  {
+    "owner": "Jawad",
     "school": "LSU",
     "tier": "SEC",
     "bid": 25,
@@ -205,14 +213,6 @@
     "tier": "Big 12",
     "bid": 3,
     "projected": 29,
-    "actual": 0
-  },
-  {
-    "owner": "Jawad",
-    "school": "Notre Dame",
-    "tier": "Flex",
-    "bid": 31,
-    "projected": 97,
     "actual": 0
   },
   {

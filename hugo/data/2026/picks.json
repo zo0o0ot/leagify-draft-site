@@ -28,5 +28,20 @@
     "conference": "Big 12",
     "player_id": "227df909-4357-4a8b-8f7e-e92828062e5f",
     "owner": "Jared"
+  },
+  {
+    "pick": 3,
+    "round": 1,
+    "pick_in_round": 3,
+    "player": "Jeremiyah Love",
+    "school": "Notre Dame",
+    "position": "RB",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "fece0166-4d89-4e3d-a1d7-165c298ece01",
+    "owner": "Jawad"
   }
 ]
