@@ -257,18 +257,18 @@
   },
   {
     "owner": "Netten",
-    "school": "Tennessee",
-    "tier": "SEC",
-    "bid": 27,
-    "projected": 98,
-    "actual": 0
-  },
-  {
-    "owner": "Netten",
     "school": "Florida",
     "tier": "SEC",
     "bid": 28,
     "projected": 69,
+    "actual": 30
+  },
+  {
+    "owner": "Netten",
+    "school": "Tennessee",
+    "tier": "SEC",
+    "bid": 27,
+    "projected": 98,
     "actual": 0
   },
   {
@@ -333,7 +333,7 @@
     "tier": "SEC",
     "bid": 55,
     "projected": 120,
-    "actual": 0
+    "actual": 30
   },
   {
     "owner": "Ross",
@@ -413,7 +413,23 @@
     "tier": "Big 12",
     "bid": 30,
     "projected": 86,
-    "actual": 35
+    "actual": 60
+  },
+  {
+    "owner": "Tilo",
+    "school": "USC",
+    "tier": "Big Ten",
+    "bid": 24,
+    "projected": 68,
+    "actual": 40
+  },
+  {
+    "owner": "Tilo",
+    "school": "Clemson",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 30
   },
   {
     "owner": "Tilo",
@@ -433,26 +449,10 @@
   },
   {
     "owner": "Tilo",
-    "school": "USC",
-    "tier": "Big Ten",
-    "bid": 24,
-    "projected": 68,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
     "school": "Northwestern",
     "tier": "Big Ten",
     "bid": 2,
     "projected": 20,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
-    "school": "Clemson",
-    "tier": "Flex",
-    "bid": 85,
-    "projected": 146,
     "actual": 0
   },
   {

@@ -1,39 +1,15 @@
 [
   {
-    "school": "Clemson",
-    "owner": "Tilo",
-    "bid": 85,
-    "projected": 146
-  },
-  {
     "school": "Texas A&M",
     "owner": "Jared",
     "bid": 49,
     "projected": 135
   },
   {
-    "school": "Georgia",
-    "owner": "Ross",
-    "bid": 55,
-    "projected": 120
-  },
-  {
     "school": "Tennessee",
     "owner": "Netten",
     "bid": 27,
     "projected": 98
-  },
-  {
-    "school": "Florida",
-    "owner": "Netten",
-    "bid": 28,
-    "projected": 69
-  },
-  {
-    "school": "USC",
-    "owner": "Tilo",
-    "bid": 24,
-    "projected": 68
   },
   {
     "school": "Oklahoma",

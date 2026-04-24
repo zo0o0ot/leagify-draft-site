@@ -33,6 +33,17 @@
     "points_per_dollar": 1.562
   },
   {
+    "school": "Arizona State",
+    "owner": "Tilo",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 60,
+    "difference": -26,
+    "performance_ratio": 0.698,
+    "points_per_dollar": 2.0
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -77,6 +88,17 @@
     "points_per_dollar": 0.889
   },
   {
+    "school": "USC",
+    "owner": "Tilo",
+    "tier": "Big Ten",
+    "bid": 24,
+    "projected": 68,
+    "actual": 40,
+    "difference": -28,
+    "performance_ratio": 0.588,
+    "points_per_dollar": 1.667
+  },
+  {
     "school": "Texas Tech",
     "owner": "Jared",
     "tier": "Big 12",
@@ -99,17 +121,6 @@
     "points_per_dollar": 1.129
   },
   {
-    "school": "Arizona State",
-    "owner": "Tilo",
-    "tier": "Big 12",
-    "bid": 30,
-    "projected": 86,
-    "actual": 35,
-    "difference": -51,
-    "performance_ratio": 0.407,
-    "points_per_dollar": 1.167
-  },
-  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",
@@ -119,5 +130,38 @@
     "difference": -69,
     "performance_ratio": 0.303,
     "points_per_dollar": 0.811
+  },
+  {
+    "school": "Clemson",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 30,
+    "difference": -116,
+    "performance_ratio": 0.205,
+    "points_per_dollar": 0.353
+  },
+  {
+    "school": "Florida",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 30,
+    "difference": -39,
+    "performance_ratio": 0.435,
+    "points_per_dollar": 1.071
+  },
+  {
+    "school": "Georgia",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 55,
+    "projected": 120,
+    "actual": 30,
+    "difference": -90,
+    "performance_ratio": 0.25,
+    "points_per_dollar": 0.545
   }
 ]
