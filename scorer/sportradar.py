@@ -21,8 +21,15 @@ def _cache_path(year: int, endpoint: str) -> str:
 
 def _fetch_and_cache(url: str, path: str, api_key: str) -> dict:
     print(f"  Fetching {url}")
-    response = requests.get(url, params={"api_key": api_key}, timeout=30)
-    response.raise_for_status()
+    for attempt in range(5):
+        response = requests.get(url, params={"api_key": api_key}, timeout=30)
+        if response.status_code == 429:
+            wait = int(response.headers.get("Retry-After", 2 ** attempt * 30))
+            print(f"  Rate limited (429), retrying in {wait}s...")
+            time.sleep(wait)
+            continue
+        response.raise_for_status()
+        break
     data = response.json()
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w") as f:
