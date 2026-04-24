@@ -22,6 +22,17 @@
     "points_per_dollar": 2.083
   },
   {
+    "school": "Clemson",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 95,
+    "difference": -51,
+    "performance_ratio": 0.651,
+    "points_per_dollar": 1.118
+  },
+  {
     "school": "Utah",
     "owner": "Netten",
     "tier": "Big 12",
@@ -64,17 +75,6 @@
     "difference": -44,
     "performance_ratio": 0.596,
     "points_per_dollar": 1.444
-  },
-  {
-    "school": "Clemson",
-    "owner": "Tilo",
-    "tier": "Flex",
-    "bid": 85,
-    "projected": 146,
-    "actual": 65,
-    "difference": -81,
-    "performance_ratio": 0.445,
-    "points_per_dollar": 0.765
   },
   {
     "school": "Notre Dame",

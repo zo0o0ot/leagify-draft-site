@@ -508,5 +508,20 @@
     "conference": "SEC",
     "player_id": "4671639f-37a8-49db-a23c-82c5826ab716",
     "owner": "Jared"
+  },
+  {
+    "pick": 35,
+    "round": 2,
+    "pick_in_round": 3,
+    "player": "T.J. Parker",
+    "school": "Clemson",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "d2f9395a-4cef-41b1-9b7a-1d92b0c33b35",
+    "owner": "Tilo"
   }
 ]
