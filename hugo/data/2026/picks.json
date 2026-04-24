@@ -328,5 +328,20 @@
     "conference": "ACC",
     "player_id": "edadec80-9ea9-47ac-8ab1-e01c2633a1c4",
     "owner": "Tilo"
+  },
+  {
+    "pick": 23,
+    "round": 1,
+    "pick_in_round": 23,
+    "player": "Malachi Lawrence",
+    "school": "UCF",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "Florida",
+    "conference": "Big 12",
+    "player_id": "484eaa0d-b5f4-4de6-99d6-bcb83d762d81",
+    "owner": "AJ"
   }
 ]

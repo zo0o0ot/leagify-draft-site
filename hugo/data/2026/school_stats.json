@@ -121,6 +121,17 @@
     "points_per_dollar": 1.129
   },
   {
+    "school": "UCF",
+    "owner": "AJ",
+    "tier": "Big 12",
+    "bid": 1,
+    "projected": 24,
+    "actual": 35,
+    "difference": 11,
+    "performance_ratio": 1.458,
+    "points_per_dollar": 35.0
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",

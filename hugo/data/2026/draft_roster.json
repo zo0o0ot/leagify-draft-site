@@ -1,6 +1,14 @@
 [
   {
     "owner": "AJ",
+    "school": "UCF",
+    "tier": "Big 12",
+    "bid": 1,
+    "projected": 24,
+    "actual": 35
+  },
+  {
+    "owner": "AJ",
     "school": "Kentucky",
     "tier": "SEC",
     "bid": 4,
@@ -37,14 +45,6 @@
     "tier": "ACC",
     "bid": 1,
     "projected": 20,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "UCF",
-    "tier": "Big 12",
-    "bid": 1,
-    "projected": 24,
     "actual": 0
   },
   {
