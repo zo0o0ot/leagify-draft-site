@@ -81,19 +81,19 @@
   },
   {
     "owner": "Jared",
+    "school": "Alabama",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
+    "actual": 40
+  },
+  {
+    "owner": "Jared",
     "school": "Texas Tech",
     "tier": "Big 12",
     "bid": 42,
     "projected": 110,
     "actual": 35
-  },
-  {
-    "owner": "Jared",
-    "school": "Alabama",
-    "tier": "SEC",
-    "bid": 42,
-    "projected": 127,
-    "actual": 0
   },
   {
     "owner": "Jared",
@@ -325,7 +325,7 @@
     "tier": "Big Ten",
     "bid": 106,
     "projected": 207,
-    "actual": 105
+    "actual": 145
   },
   {
     "owner": "Ross",

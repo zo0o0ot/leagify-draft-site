@@ -5,10 +5,10 @@
     "tier": "Big Ten",
     "bid": 106,
     "projected": 207,
-    "actual": 105,
-    "difference": -102,
-    "performance_ratio": 0.507,
-    "points_per_dollar": 0.991
+    "actual": 145,
+    "difference": -62,
+    "performance_ratio": 0.7,
+    "points_per_dollar": 1.368
   },
   {
     "school": "LSU",
@@ -53,6 +53,17 @@
     "difference": -94,
     "performance_ratio": 0.299,
     "points_per_dollar": 0.93
+  },
+  {
+    "school": "Alabama",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
+    "actual": 40,
+    "difference": -87,
+    "performance_ratio": 0.315,
+    "points_per_dollar": 0.952
   },
   {
     "school": "Texas Tech",

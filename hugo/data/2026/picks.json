@@ -148,5 +148,35 @@
     "conference": "ACC",
     "player_id": "585e872d-0569-4da3-83a4-033f59544526",
     "owner": "Tilo"
+  },
+  {
+    "pick": 11,
+    "round": 1,
+    "pick_in_round": 11,
+    "player": "Caleb Downs",
+    "school": "Ohio State",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 40,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "b9987a44-8064-431c-b81e-203cb0495922",
+    "owner": "Ross"
+  },
+  {
+    "pick": 12,
+    "round": 1,
+    "pick_in_round": 12,
+    "player": "Kadyn Proctor",
+    "school": "Alabama",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 40,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "4f4b7679-6697-45a3-9918-8cd56ecb4d37",
+    "owner": "Jared"
   }
 ]
