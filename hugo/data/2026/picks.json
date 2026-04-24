@@ -88,5 +88,20 @@
     "conference": "SEC",
     "player_id": "7c7a6706-9f74-424b-a51b-eadd2d7a291a",
     "owner": "Jawad"
+  },
+  {
+    "pick": 7,
+    "round": 1,
+    "pick_in_round": 7,
+    "player": "Sonny Styles",
+    "school": "Ohio State",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "e4f6deb4-7c58-4e50-8f61-a69054cf205f",
+    "owner": "Ross"
   }
 ]
