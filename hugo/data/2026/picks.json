@@ -118,5 +118,35 @@
     "conference": "Big 12",
     "player_id": "962fbbc3-f4c9-4b5b-9f42-405457c95ef9",
     "owner": "Tilo"
+  },
+  {
+    "pick": 9,
+    "round": 1,
+    "pick_in_round": 9,
+    "player": "Spencer Fano",
+    "school": "Utah",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 45,
+    "state": "Utah",
+    "conference": "Big 12",
+    "player_id": "fd136d85-f62d-43e0-a78d-36dc869a617f",
+    "owner": "Netten"
+  },
+  {
+    "pick": 10,
+    "round": 1,
+    "pick_in_round": 10,
+    "player": "Francis Mauigoa",
+    "school": "Miami (FL)",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 45,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "585e872d-0569-4da3-83a4-033f59544526",
+    "owner": "Tilo"
   }
 ]

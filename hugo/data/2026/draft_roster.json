@@ -241,6 +241,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Utah",
+    "tier": "Big 12",
+    "bid": 20,
+    "projected": 77,
+    "actual": 45
+  },
+  {
+    "owner": "Netten",
     "school": "Indiana",
     "tier": "Big Ten",
     "bid": 43,
@@ -277,14 +285,6 @@
     "tier": "ACC",
     "bid": 5,
     "projected": 29,
-    "actual": 0
-  },
-  {
-    "owner": "Netten",
-    "school": "Utah",
-    "tier": "Big 12",
-    "bid": 20,
-    "projected": 77,
     "actual": 0
   },
   {
@@ -401,6 +401,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Miami (FL)",
+    "tier": "ACC",
+    "bid": 48,
+    "projected": 150,
+    "actual": 45
+  },
+  {
+    "owner": "Tilo",
     "school": "Arizona State",
     "tier": "Big 12",
     "bid": 30,
@@ -437,14 +445,6 @@
     "tier": "Big Ten",
     "bid": 2,
     "projected": 20,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
-    "school": "Miami (FL)",
-    "tier": "ACC",
-    "bid": 48,
-    "projected": 150,
     "actual": 0
   },
   {

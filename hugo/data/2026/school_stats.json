@@ -22,6 +22,28 @@
     "points_per_dollar": 1.8
   },
   {
+    "school": "Utah",
+    "owner": "Netten",
+    "tier": "Big 12",
+    "bid": 20,
+    "projected": 77,
+    "actual": 45,
+    "difference": -32,
+    "performance_ratio": 0.584,
+    "points_per_dollar": 2.25
+  },
+  {
+    "school": "Miami (FL)",
+    "owner": "Tilo",
+    "tier": "ACC",
+    "bid": 48,
+    "projected": 150,
+    "actual": 45,
+    "difference": -105,
+    "performance_ratio": 0.3,
+    "points_per_dollar": 0.938
+  },
+  {
     "school": "Indiana",
     "owner": "Netten",
     "tier": "Big Ten",

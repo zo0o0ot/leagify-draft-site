@@ -1,11 +1,5 @@
 [
   {
-    "school": "Miami (FL)",
-    "owner": "Tilo",
-    "bid": 48,
-    "projected": 150
-  },
-  {
     "school": "Clemson",
     "owner": "Tilo",
     "bid": 85,
@@ -46,12 +40,6 @@
     "owner": "Netten",
     "bid": 27,
     "projected": 98
-  },
-  {
-    "school": "Utah",
-    "owner": "Netten",
-    "bid": 20,
-    "projected": 77
   },
   {
     "school": "Florida",
