@@ -553,5 +553,20 @@
     "conference": "SEC",
     "player_id": "00e4b38d-dc89-4537-8591-f064df566e66",
     "owner": "Netten"
+  },
+  {
+    "pick": 38,
+    "round": 2,
+    "pick_in_round": 6,
+    "player": "Treydan Stukes",
+    "school": "Arizona",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "ddad54a7-7069-4b0e-bce6-0f7926365747",
+    "owner": "Tilo"
   }
 ]

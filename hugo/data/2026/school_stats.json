@@ -231,6 +231,17 @@
     "points_per_dollar": 5.0
   },
   {
+    "school": "Arizona",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 30,
+    "difference": 2,
+    "performance_ratio": 1.071,
+    "points_per_dollar": 15.0
+  },
+  {
     "school": "Tennessee",
     "owner": "Netten",
     "tier": "SEC",

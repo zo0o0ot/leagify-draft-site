@@ -441,6 +441,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Arizona",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 30
+  },
+  {
+    "owner": "Tilo",
     "school": "Mississippi State",
     "tier": "SEC",
     "bid": 1,
@@ -453,14 +461,6 @@
     "tier": "Big Ten",
     "bid": 2,
     "projected": 20,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
-    "school": "Arizona",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 28,
     "actual": 0
   },
   {
