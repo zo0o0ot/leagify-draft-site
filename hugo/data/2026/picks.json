@@ -628,5 +628,35 @@
     "conference": "SEC",
     "player_id": "8cf72272-98af-4def-b2ec-d25176b8ea05",
     "owner": "Ross"
+  },
+  {
+    "pick": 43,
+    "round": 2,
+    "pick_in_round": 11,
+    "player": "Jacob Rodriguez",
+    "school": "Texas Tech",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "f44fb0ea-f11b-421f-8726-b9bee130c870",
+    "owner": "Jared"
+  },
+  {
+    "pick": 44,
+    "round": 2,
+    "pick_in_round": 12,
+    "player": "Derrick Moore",
+    "school": "Michigan",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "94c55392-c194-41ba-af07-74fb431d9db2",
+    "owner": "Jawad"
   }
 ]
