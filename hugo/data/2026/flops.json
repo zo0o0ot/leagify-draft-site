@@ -1,11 +1,5 @@
 [
   {
-    "school": "Oklahoma",
-    "owner": "Jawad",
-    "bid": 20,
-    "projected": 68
-  },
-  {
     "school": "Texas",
     "owner": "Jawad",
     "bid": 20,
@@ -27,12 +21,6 @@
     "school": "Michigan",
     "owner": "Jawad",
     "bid": 20,
-    "projected": 56
-  },
-  {
-    "school": "Washington",
-    "owner": "Jawad",
-    "bid": 9,
     "projected": 56
   },
   {

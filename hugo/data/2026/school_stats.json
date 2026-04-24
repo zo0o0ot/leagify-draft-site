@@ -251,5 +251,27 @@
     "difference": -78,
     "performance_ratio": 0.204,
     "points_per_dollar": 0.741
+  },
+  {
+    "school": "Washington",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 20,
+    "difference": -36,
+    "performance_ratio": 0.357,
+    "points_per_dollar": 2.222
+  },
+  {
+    "school": "Oklahoma",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 20,
+    "projected": 68,
+    "actual": 20,
+    "difference": -48,
+    "performance_ratio": 0.294,
+    "points_per_dollar": 1.0
   }
 ]

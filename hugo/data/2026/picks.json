@@ -568,5 +568,35 @@
     "conference": "Big 12",
     "player_id": "ddad54a7-7069-4b0e-bce6-0f7926365747",
     "owner": "Tilo"
+  },
+  {
+    "pick": 39,
+    "round": 2,
+    "pick_in_round": 7,
+    "player": "Denzel Boston",
+    "school": "Washington",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "1dd9f3e3-c992-4bae-8c52-202700c9827d",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 40,
+    "round": 2,
+    "pick_in_round": 8,
+    "player": "R Mason Thomas",
+    "school": "Oklahoma",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "a4b39497-60bc-4eea-b863-101080a07d95",
+    "owner": "Jawad"
   }
 ]
