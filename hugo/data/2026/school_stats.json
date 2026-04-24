@@ -143,6 +143,17 @@
     "points_per_dollar": 0.714
   },
   {
+    "school": "Georgia Tech",
+    "owner": "Netten",
+    "tier": "ACC",
+    "bid": 5,
+    "projected": 29,
+    "actual": 35,
+    "difference": 6,
+    "performance_ratio": 1.207,
+    "points_per_dollar": 7.0
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",

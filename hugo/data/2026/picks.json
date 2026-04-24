@@ -373,5 +373,20 @@
     "conference": "Big Ten",
     "player_id": "49ef7327-44f3-49c1-8f5d-4b3ef2ec23d8",
     "owner": "Jared"
+  },
+  {
+    "pick": 26,
+    "round": 1,
+    "pick_in_round": 26,
+    "player": "Keylan Rutledge",
+    "school": "Georgia Tech",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 35,
+    "state": "Georgia",
+    "conference": "ACC",
+    "player_id": "6d679fb8-0e47-47ab-a3ee-2840085db425",
+    "owner": "Netten"
   }
 ]
