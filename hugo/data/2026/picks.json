@@ -58,5 +58,20 @@
     "conference": "Big Ten",
     "player_id": "b88e8984-4e28-4f74-8cd0-28166d0d84c1",
     "owner": "Ross"
+  },
+  {
+    "pick": 5,
+    "round": 1,
+    "pick_in_round": 5,
+    "player": "Arvell Reese",
+    "school": "Ohio State",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 35,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "1af48394-e7bd-4f52-8aa8-4ce46ebdf929",
+    "owner": "Ross"
   }
 ]

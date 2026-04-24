@@ -1,5 +1,16 @@
 [
   {
+    "school": "Ohio State",
+    "owner": "Ross",
+    "tier": "Big Ten",
+    "bid": 106,
+    "projected": 207,
+    "actual": 70,
+    "difference": -137,
+    "performance_ratio": 0.338,
+    "points_per_dollar": 0.66
+  },
+  {
     "school": "Indiana",
     "owner": "Netten",
     "tier": "Big Ten",
@@ -31,16 +42,5 @@
     "difference": -62,
     "performance_ratio": 0.361,
     "points_per_dollar": 1.129
-  },
-  {
-    "school": "Ohio State",
-    "owner": "Ross",
-    "tier": "Big Ten",
-    "bid": 106,
-    "projected": 207,
-    "actual": 35,
-    "difference": -172,
-    "performance_ratio": 0.169,
-    "points_per_dollar": 0.33
   }
 ]
