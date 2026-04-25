@@ -1318,5 +1318,20 @@
     "conference": "SEC",
     "player_id": "9a38ef27-e5f7-466a-b7ae-843c738dd896",
     "owner": "Jawad"
+  },
+  {
+    "pick": 90,
+    "round": 3,
+    "pick_in_round": 26,
+    "player": "Kaelon Black",
+    "school": "Indiana",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "9564ce21-6adc-48f3-813f-317e886a8b5c",
+    "owner": "Netten"
   }
 ]

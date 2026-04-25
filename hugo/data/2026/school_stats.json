@@ -44,6 +44,17 @@
     "points_per_dollar": 1.471
   },
   {
+    "school": "Indiana",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 120,
+    "difference": -14,
+    "performance_ratio": 0.896,
+    "points_per_dollar": 2.791
+  },
+  {
     "school": "Texas Tech",
     "owner": "Jared",
     "tier": "Big 12",
@@ -75,17 +86,6 @@
     "difference": -15,
     "performance_ratio": 0.875,
     "points_per_dollar": 1.909
-  },
-  {
-    "school": "Indiana",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 43,
-    "projected": 134,
-    "actual": 100,
-    "difference": -34,
-    "performance_ratio": 0.746,
-    "points_per_dollar": 2.326
   },
   {
     "school": "Notre Dame",
