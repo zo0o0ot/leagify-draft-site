@@ -3568,5 +3568,35 @@
     "conference": "Big Ten",
     "player_id": "9156d5f8-3504-4ba9-a6d6-5a1e911ac074",
     "owner": "Netten"
+  },
+  {
+    "pick": 239,
+    "round": 7,
+    "pick_in_round": 23,
+    "player": "Tommy Doman",
+    "school": "Florida",
+    "position": "P",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "730b6572-c9ac-4e54-b907-d521b7487152",
+    "owner": "Netten"
+  },
+  {
+    "pick": 240,
+    "round": 7,
+    "pick_in_round": 24,
+    "player": "Parker Hughes",
+    "school": "Middle Tennessee",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "",
+    "conference": "",
+    "player_id": "6294c7c9-ae08-42db-9534-c1c15906ea5e",
+    "owner": ""
   }
 ]
