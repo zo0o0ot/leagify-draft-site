@@ -3358,5 +3358,20 @@
     "conference": "SEC",
     "player_id": "9e935e66-102c-45c0-bfc8-a065a435a751",
     "owner": "Jawad"
+  },
+  {
+    "pick": 225,
+    "round": 7,
+    "pick_in_round": 9,
+    "player": "Jaren Kanak",
+    "school": "Oklahoma",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "1d80f727-6ba8-4d4f-9f24-9972aae9abcc",
+    "owner": "Jawad"
   }
 ]

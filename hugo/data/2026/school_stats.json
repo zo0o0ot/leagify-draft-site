@@ -143,6 +143,17 @@
     "points_per_dollar": 5.45
   },
   {
+    "school": "Oklahoma",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 20,
+    "projected": 68,
+    "actual": 104,
+    "difference": 36,
+    "performance_ratio": 1.529,
+    "points_per_dollar": 5.2
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -174,17 +185,6 @@
     "difference": 34,
     "performance_ratio": 1.607,
     "points_per_dollar": 4.5
-  },
-  {
-    "school": "Oklahoma",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 20,
-    "projected": 68,
-    "actual": 89,
-    "difference": 21,
-    "performance_ratio": 1.309,
-    "points_per_dollar": 4.45
   },
   {
     "school": "Auburn",
