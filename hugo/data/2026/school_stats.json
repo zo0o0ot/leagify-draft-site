@@ -319,6 +319,17 @@
     "points_per_dollar": 10.5
   },
   {
+    "school": "Illinois",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 12,
+    "projected": 40,
+    "actual": 41,
+    "difference": 1,
+    "performance_ratio": 1.025,
+    "points_per_dollar": 3.417
+  },
+  {
     "school": "Duke",
     "owner": "Netten",
     "tier": "Flex",
@@ -385,17 +396,6 @@
     "points_per_dollar": 5.0
   },
   {
-    "school": "Illinois",
-    "owner": "Jared",
-    "tier": "Big Ten",
-    "bid": 12,
-    "projected": 40,
-    "actual": 25,
-    "difference": -15,
-    "performance_ratio": 0.625,
-    "points_per_dollar": 2.083
-  },
-  {
     "school": "Toledo",
     "owner": "Netten",
     "tier": "Flex",
@@ -416,6 +416,17 @@
     "difference": -6,
     "performance_ratio": 0.793,
     "points_per_dollar": 7.667
+  },
+  {
+    "school": "Baylor",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 22,
+    "actual": 22,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 22.0
   },
   {
     "school": "Stanford",
@@ -603,16 +614,5 @@
     "difference": -5,
     "performance_ratio": 0.583,
     "points_per_dollar": 7.0
-  },
-  {
-    "school": "Baylor",
-    "owner": "Jared",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 22,
-    "actual": 6,
-    "difference": -16,
-    "performance_ratio": 0.273,
-    "points_per_dollar": 6.0
   }
 ]

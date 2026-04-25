@@ -2848,5 +2848,35 @@
     "conference": "SEC",
     "player_id": "9c85bbe3-be38-41b3-9d8e-72047648f05a",
     "owner": "Jawad"
+  },
+  {
+    "pick": 191,
+    "round": 6,
+    "pick_in_round": 10,
+    "player": "Josh Cameron",
+    "school": "Baylor",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "1e437a6d-48bf-4c3b-b9bc-befd5a9b3a76",
+    "owner": "Jared"
+  },
+  {
+    "pick": 192,
+    "round": 6,
+    "pick_in_round": 11,
+    "player": "J.C. Davis",
+    "school": "Illinois",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Illinois",
+    "conference": "Big Ten",
+    "player_id": "2efad32c-035b-4ccd-bd31-5e415300fe0d",
+    "owner": "Jared"
   }
 ]

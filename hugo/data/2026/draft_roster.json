@@ -113,6 +113,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Illinois",
+    "tier": "Big Ten",
+    "bid": 12,
+    "projected": 40,
+    "actual": 41
+  },
+  {
+    "owner": "Jared",
     "school": "San Diego State",
     "tier": "Flex",
     "bid": 1,
@@ -121,11 +129,11 @@
   },
   {
     "owner": "Jared",
-    "school": "Illinois",
-    "tier": "Big Ten",
-    "bid": 12,
-    "projected": 40,
-    "actual": 25
+    "school": "Baylor",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 22,
+    "actual": 22
   },
   {
     "owner": "Jared",
@@ -150,14 +158,6 @@
     "bid": 2,
     "projected": 29,
     "actual": 15
-  },
-  {
-    "owner": "Jared",
-    "school": "Baylor",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 22,
-    "actual": 6
   },
   {
     "owner": "Jawad",
