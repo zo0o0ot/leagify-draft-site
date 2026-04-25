@@ -2083,5 +2083,20 @@
     "conference": "Big Ten",
     "player_id": "fafe88f1-ccbb-4138-9e98-e3cd909078c6",
     "owner": "Jawad"
+  },
+  {
+    "pick": 140,
+    "round": 4,
+    "pick_in_round": 40,
+    "player": "Colbie Young",
+    "school": "Georgia",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Georgia",
+    "conference": "SEC",
+    "player_id": "363f6487-38ee-42ed-92f6-ebb9db81daf3",
+    "owner": "Ross"
   }
 ]
