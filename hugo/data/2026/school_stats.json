@@ -132,6 +132,17 @@
     "points_per_dollar": 2.679
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 65,
+    "difference": -29,
+    "performance_ratio": 0.691,
+    "points_per_dollar": 2.6
+  },
+  {
     "school": "Arizona State",
     "owner": "Tilo",
     "tier": "Big 12",
@@ -152,17 +163,6 @@
     "difference": 0,
     "performance_ratio": 1.0,
     "points_per_dollar": 3.529
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 55,
-    "difference": -39,
-    "performance_ratio": 0.585,
-    "points_per_dollar": 2.2
   },
   {
     "school": "Penn State",

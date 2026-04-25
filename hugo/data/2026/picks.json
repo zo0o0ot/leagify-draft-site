@@ -1303,5 +1303,20 @@
     "conference": "Big Ten",
     "player_id": "a900c1c6-df32-4d5c-b8a1-8361318b8255",
     "owner": "Jared"
+  },
+  {
+    "pick": 89,
+    "round": 3,
+    "pick_in_round": 25,
+    "player": "Zavion Thomas",
+    "school": "LSU",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "9a38ef27-e5f7-466a-b7ae-843c738dd896",
+    "owner": "Jawad"
   }
 ]
