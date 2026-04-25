@@ -1678,5 +1678,20 @@
     "conference": "Big Ten",
     "player_id": "0a294df3-e863-4196-9cfa-8c9f51020b2d",
     "owner": "Jawad"
+  },
+  {
+    "pick": 113,
+    "round": 4,
+    "pick_in_round": 13,
+    "player": "Jalen Farmer",
+    "school": "Kentucky",
+    "position": "G",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Kentucky",
+    "conference": "SEC",
+    "player_id": "218a5e9c-d810-40ce-857a-3d7125ad0fca",
+    "owner": "AJ"
   }
 ]

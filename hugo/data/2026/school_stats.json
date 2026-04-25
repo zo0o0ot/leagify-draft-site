@@ -471,5 +471,16 @@
     "difference": -10,
     "performance_ratio": 0.444,
     "points_per_dollar": 8.0
+  },
+  {
+    "school": "Kentucky",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 4,
+    "projected": 36,
+    "actual": 8,
+    "difference": -28,
+    "performance_ratio": 0.222,
+    "points_per_dollar": 2.0
   }
 ]
