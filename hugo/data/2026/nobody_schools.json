@@ -28,6 +28,10 @@
     "points": 15
   },
   {
+    "school": "Miami (OH)",
+    "points": 15
+  },
+  {
     "school": "Southeastern Louisiana",
     "points": 8
   },
@@ -37,6 +41,10 @@
   },
   {
     "school": "Rutgers",
+    "points": 5
+  },
+  {
+    "school": "Navy",
     "points": 5
   }
 ]

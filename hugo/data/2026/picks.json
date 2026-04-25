@@ -3373,5 +3373,35 @@
     "conference": "SEC",
     "player_id": "1d80f727-6ba8-4d4f-9f24-9972aae9abcc",
     "owner": "Jawad"
+  },
+  {
+    "pick": 226,
+    "round": 7,
+    "pick_in_round": 10,
+    "player": "Landon Robinson",
+    "school": "Navy",
+    "position": "NT",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Maryland",
+    "conference": "FBS - AAC",
+    "player_id": "78c157dc-7c81-4abd-8ca7-b1e2d8ec0022",
+    "owner": ""
+  },
+  {
+    "pick": 227,
+    "round": 7,
+    "pick_in_round": 11,
+    "player": "Jackson Kuwatch",
+    "school": "Miami (OH)",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Ohio",
+    "conference": "FBS - MAC",
+    "player_id": "d512a8c0-8ab6-46f2-b740-f23ce6622a89",
+    "owner": ""
   }
 ]
