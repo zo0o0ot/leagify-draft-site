@@ -1348,5 +1348,35 @@
     "conference": "SEC",
     "player_id": "e44d2f73-31a6-4862-ad74-4d8cfd4c8441",
     "owner": "Jared"
+  },
+  {
+    "pick": 92,
+    "round": 3,
+    "pick_in_round": 28,
+    "player": "Jaishawn Barham",
+    "school": "Michigan",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "bfdccd15-009e-44bf-b856-362d721f97d0",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 93,
+    "round": 3,
+    "pick_in_round": 29,
+    "player": "Keagen Trost",
+    "school": "Missouri",
+    "position": "OL",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "223e7ca3-c74c-4ba9-b972-a1661c4dd396",
+    "owner": "Jawad"
   }
 ]

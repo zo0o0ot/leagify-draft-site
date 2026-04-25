@@ -169,6 +169,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Missouri",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 60,
+    "actual": 70
+  },
+  {
+    "owner": "Jawad",
     "school": "LSU",
     "tier": "SEC",
     "bid": 25,
@@ -177,11 +185,11 @@
   },
   {
     "owner": "Jawad",
-    "school": "Missouri",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 60,
-    "actual": 60
+    "school": "Michigan",
+    "tier": "Big Ten",
+    "bid": 20,
+    "projected": 56,
+    "actual": 65
   },
   {
     "owner": "Jawad",
@@ -190,14 +198,6 @@
     "bid": 37,
     "projected": 99,
     "actual": 50
-  },
-  {
-    "owner": "Jawad",
-    "school": "Michigan",
-    "tier": "Big Ten",
-    "bid": 20,
-    "projected": 56,
-    "actual": 45
   },
   {
     "owner": "Jawad",
