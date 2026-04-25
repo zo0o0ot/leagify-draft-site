@@ -2593,5 +2593,20 @@
     "conference": "SEC",
     "player_id": "f35f5e5e-23fd-417a-9a63-983d5b4a7a1d",
     "owner": "Jared"
+  },
+  {
+    "pick": 174,
+    "round": 5,
+    "pick_in_round": 34,
+    "player": "Adam Randall",
+    "school": "Clemson",
+    "position": "RB",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "9a4f849a-bebf-4048-becb-678ebf11d3de",
+    "owner": "Tilo"
   }
 ]
