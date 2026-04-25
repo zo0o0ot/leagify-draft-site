@@ -306,5 +306,16 @@
     "difference": -48,
     "performance_ratio": 0.294,
     "points_per_dollar": 1.0
+  },
+  {
+    "school": "South Carolina",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 7,
+    "projected": 44,
+    "actual": 15,
+    "difference": -29,
+    "performance_ratio": 0.341,
+    "points_per_dollar": 2.143
   }
 ]

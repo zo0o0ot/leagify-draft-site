@@ -763,5 +763,20 @@
     "conference": "Big 12",
     "player_id": "f959eab2-3971-4ccd-8ecf-6048dbe3572c",
     "owner": "Ross"
+  },
+  {
+    "pick": 52,
+    "round": 2,
+    "pick_in_round": 20,
+    "player": "Brandon Cisse",
+    "school": "South Carolina",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "South Carolina",
+    "conference": "SEC",
+    "player_id": "5b4d478a-194f-4657-bc8c-3122a1b6d3de",
+    "owner": "Ross"
   }
 ]
