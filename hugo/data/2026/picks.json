@@ -1528,5 +1528,20 @@
     "conference": "SEC",
     "player_id": "44cf7824-a97c-4bcb-9f9f-60b9870dad0c",
     "owner": "Tilo"
+  },
+  {
+    "pick": 106,
+    "round": 4,
+    "pick_in_round": 6,
+    "player": "Febechi Nwaiwu",
+    "school": "Oklahoma",
+    "position": "OL",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "4e9121f6-fa54-4f0a-801d-374ffee1d625",
+    "owner": "Jawad"
   }
 ]
