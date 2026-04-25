@@ -2518,5 +2518,20 @@
     "conference": "SEC",
     "player_id": "6344d2d2-201a-42dd-92bd-1feea4d758c0",
     "owner": "AJ"
+  },
+  {
+    "pick": 169,
+    "round": 5,
+    "pick_in_round": 29,
+    "player": "Riley Nowakowski",
+    "school": "Indiana",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "04b969a8-9eef-4302-b4ab-a3ab09ecaae7",
+    "owner": "Netten"
   }
 ]
