@@ -1153,5 +1153,35 @@
     "conference": "SEC",
     "player_id": "63ff44df-bdb0-4db4-8294-8d13d495c18b",
     "owner": "Jawad"
+  },
+  {
+    "pick": 78,
+    "round": 3,
+    "pick_in_round": 14,
+    "player": "A.J. Haulcy",
+    "school": "LSU",
+    "position": "SAF",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "5882c6e3-2444-4a06-958c-0aa115372262",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 79,
+    "round": 3,
+    "pick_in_round": 15,
+    "player": "Zachariah Branch",
+    "school": "Georgia",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Georgia",
+    "conference": "SEC",
+    "player_id": "6cbc6f13-8929-4bb7-a926-5163fda5a15d",
+    "owner": "Ross"
   }
 ]

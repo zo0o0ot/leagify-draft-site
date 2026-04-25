@@ -82,10 +82,10 @@
     "tier": "SEC",
     "bid": 55,
     "projected": 120,
-    "actual": 85,
-    "difference": -35,
-    "performance_ratio": 0.708,
-    "points_per_dollar": 1.545
+    "actual": 95,
+    "difference": -25,
+    "performance_ratio": 0.792,
+    "points_per_dollar": 1.727
   },
   {
     "school": "Notre Dame",
@@ -143,6 +143,17 @@
     "points_per_dollar": 3.529
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 55,
+    "difference": -39,
+    "performance_ratio": 0.585,
+    "points_per_dollar": 2.2
+  },
+  {
     "school": "Florida",
     "owner": "Netten",
     "tier": "SEC",
@@ -163,17 +174,6 @@
     "difference": -49,
     "performance_ratio": 0.505,
     "points_per_dollar": 1.351
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 45,
-    "difference": -49,
-    "performance_ratio": 0.479,
-    "points_per_dollar": 1.8
   },
   {
     "school": "Auburn",
