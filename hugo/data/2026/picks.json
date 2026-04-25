@@ -1138,5 +1138,20 @@
     "conference": "Big Ten",
     "player_id": "0fff6e3e-6fa1-4eb8-89d3-26bd2338fd09",
     "owner": "Jawad"
+  },
+  {
+    "pick": 77,
+    "round": 3,
+    "pick_in_round": 13,
+    "player": "Chris McClellan",
+    "school": "Missouri",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "63ff44df-bdb0-4db4-8294-8d13d495c18b",
+    "owner": "Jawad"
   }
 ]
