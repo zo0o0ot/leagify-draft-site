@@ -1723,5 +1723,20 @@
     "conference": "Big Ten",
     "player_id": "63d13b7c-93fb-4e53-aecf-1e9949356cd5",
     "owner": "Netten"
+  },
+  {
+    "pick": 116,
+    "round": 4,
+    "pick_in_round": 16,
+    "player": "Keionte Scott",
+    "school": "Miami (FL)",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "e2607f5b-d6da-4705-9dc0-ec29f24bc047",
+    "owner": "Tilo"
   }
 ]

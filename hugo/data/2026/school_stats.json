@@ -16,10 +16,10 @@
     "tier": "ACC",
     "bid": 48,
     "projected": 150,
-    "actual": 150,
-    "difference": 0,
-    "performance_ratio": 1.0,
-    "points_per_dollar": 3.125
+    "actual": 158,
+    "difference": 8,
+    "performance_ratio": 1.053,
+    "points_per_dollar": 3.292
   },
   {
     "school": "Texas A&M",
