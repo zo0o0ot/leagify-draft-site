@@ -245,7 +245,15 @@
     "tier": "Big Ten",
     "bid": 43,
     "projected": 134,
-    "actual": 120
+    "actual": 128
+  },
+  {
+    "owner": "Netten",
+    "school": "Florida",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 93
   },
   {
     "owner": "Netten",
@@ -254,14 +262,6 @@
     "bid": 20,
     "projected": 77,
     "actual": 80
-  },
-  {
-    "owner": "Netten",
-    "school": "Florida",
-    "tier": "SEC",
-    "bid": 28,
-    "projected": 69,
-    "actual": 75
   },
   {
     "owner": "Netten",

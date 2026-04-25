@@ -1693,5 +1693,35 @@
     "conference": "SEC",
     "player_id": "218a5e9c-d810-40ce-857a-3d7125ad0fca",
     "owner": "AJ"
+  },
+  {
+    "pick": 114,
+    "round": 4,
+    "pick_in_round": 14,
+    "player": "Devin Moore",
+    "school": "Florida",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "3506ff17-1ef2-45b8-b6c9-c9ce9560fe9c",
+    "owner": "Netten"
+  },
+  {
+    "pick": 115,
+    "round": 4,
+    "pick_in_round": 15,
+    "player": "Elijah Sarratt",
+    "school": "Indiana",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "63d13b7c-93fb-4e53-aecf-1e9949356cd5",
+    "owner": "Netten"
   }
 ]

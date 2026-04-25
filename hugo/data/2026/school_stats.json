@@ -49,10 +49,10 @@
     "tier": "Big Ten",
     "bid": 43,
     "projected": 134,
-    "actual": 120,
-    "difference": -14,
-    "performance_ratio": 0.896,
-    "points_per_dollar": 2.791
+    "actual": 128,
+    "difference": -6,
+    "performance_ratio": 0.955,
+    "points_per_dollar": 2.977
   },
   {
     "school": "Texas Tech",
@@ -88,6 +88,17 @@
     "points_per_dollar": 1.909
   },
   {
+    "school": "Florida",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 93,
+    "difference": 24,
+    "performance_ratio": 1.348,
+    "points_per_dollar": 3.321
+  },
+  {
     "school": "Notre Dame",
     "owner": "Jawad",
     "tier": "Flex",
@@ -119,17 +130,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Florida",
-    "owner": "Netten",
-    "tier": "SEC",
-    "bid": 28,
-    "projected": 69,
-    "actual": 75,
-    "difference": 6,
-    "performance_ratio": 1.087,
-    "points_per_dollar": 2.679
   },
   {
     "school": "Missouri",
