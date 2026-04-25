@@ -2173,5 +2173,20 @@
     "conference": "SEC",
     "player_id": "0c699874-bd0f-4212-8ded-e9fe2b1d2d1e",
     "owner": "Ross"
+  },
+  {
+    "pick": 146,
+    "round": 5,
+    "pick_in_round": 6,
+    "player": "Parker Brailsford",
+    "school": "Alabama",
+    "position": "C",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "730e2abd-1299-4726-8071-e0a15866b6ef",
+    "owner": "Jared"
   }
 ]
