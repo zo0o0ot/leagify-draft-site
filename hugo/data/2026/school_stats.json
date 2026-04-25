@@ -517,6 +517,17 @@
     "points_per_dollar": 17.0
   },
   {
+    "school": "Kansas",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 11,
+    "actual": 17,
+    "difference": 6,
+    "performance_ratio": 1.545,
+    "points_per_dollar": 17.0
+  },
+  {
     "school": "Vanderbilt",
     "owner": "Jared",
     "tier": "Flex",

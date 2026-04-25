@@ -465,18 +465,18 @@
   },
   {
     "owner": "Tilo",
+    "school": "Kansas",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 11,
+    "actual": 17
+  },
+  {
+    "owner": "Tilo",
     "school": "Northwestern",
     "tier": "Big Ten",
     "bid": 2,
     "projected": 20,
     "actual": 10
-  },
-  {
-    "owner": "Tilo",
-    "school": "Kansas",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 11,
-    "actual": 0
   }
 ]

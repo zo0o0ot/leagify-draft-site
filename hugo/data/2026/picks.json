@@ -2668,5 +2668,20 @@
     "conference": "FCS",
     "player_id": "1a264045-9425-4d7a-81a5-f3d0aac85f42",
     "owner": "Ross"
+  },
+  {
+    "pick": 179,
+    "round": 5,
+    "pick_in_round": 39,
+    "player": "Enrique Cruz Jr.",
+    "school": "Kansas",
+    "position": "OL",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Kansas",
+    "conference": "Big 12",
+    "player_id": "9a6ebbfd-c813-4384-8d4f-7240d123e9fe",
+    "owner": "Tilo"
   }
 ]
