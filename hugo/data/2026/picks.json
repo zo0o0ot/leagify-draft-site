@@ -3403,5 +3403,35 @@
     "conference": "FBS - MAC",
     "player_id": "d512a8c0-8ab6-46f2-b740-f23ce6622a89",
     "owner": ""
+  },
+  {
+    "pick": 228,
+    "round": 7,
+    "pick_in_round": 12,
+    "player": "VJ Payne",
+    "school": "Kansas State",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Kansas",
+    "conference": "Big 12",
+    "player_id": "05799fd8-ddf8-4cf5-bce9-89cb34cfc754",
+    "owner": "Ross"
+  },
+  {
+    "pick": 229,
+    "round": 7,
+    "pick_in_round": 13,
+    "player": "Brandon Cleveland",
+    "school": "North Carolina State",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "f7bfc8b6-da2a-484b-8f36-935c229c623b",
+    "owner": "AJ"
   }
 ]

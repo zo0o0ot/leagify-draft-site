@@ -41,6 +41,14 @@
   },
   {
     "owner": "AJ",
+    "school": "North Carolina State",
+    "tier": "ACC",
+    "bid": 1,
+    "projected": 20,
+    "actual": 32
+  },
+  {
+    "owner": "AJ",
     "school": "Wake Forest",
     "tier": "Flex",
     "bid": 1,
@@ -53,14 +61,6 @@
     "tier": "Big Ten",
     "bid": 1,
     "projected": 16,
-    "actual": 17
-  },
-  {
-    "owner": "AJ",
-    "school": "North Carolina State",
-    "tier": "ACC",
-    "bid": 1,
-    "projected": 20,
     "actual": 17
   },
   {
@@ -353,19 +353,19 @@
   },
   {
     "owner": "Ross",
+    "school": "Kansas State",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 18,
+    "actual": 32
+  },
+  {
+    "owner": "Ross",
     "school": "UConn",
     "tier": "Flex",
     "bid": 1,
     "projected": 11,
     "actual": 18
-  },
-  {
-    "owner": "Ross",
-    "school": "Kansas State",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 18,
-    "actual": 17
   },
   {
     "owner": "Ross",

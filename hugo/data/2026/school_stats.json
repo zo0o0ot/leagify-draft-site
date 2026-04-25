@@ -429,6 +429,28 @@
     "points_per_dollar": 33.0
   },
   {
+    "school": "Kansas State",
+    "owner": "Ross",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 18,
+    "actual": 32,
+    "difference": 14,
+    "performance_ratio": 1.778,
+    "points_per_dollar": 32.0
+  },
+  {
+    "school": "North Carolina State",
+    "owner": "AJ",
+    "tier": "ACC",
+    "bid": 1,
+    "projected": 20,
+    "actual": 32,
+    "difference": 12,
+    "performance_ratio": 1.6,
+    "points_per_dollar": 32.0
+  },
+  {
     "school": "Michigan State",
     "owner": "AJ",
     "tier": "Big Ten",
@@ -526,28 +548,6 @@
     "difference": 1,
     "performance_ratio": 1.059,
     "points_per_dollar": 18.0
-  },
-  {
-    "school": "Kansas State",
-    "owner": "Ross",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 18,
-    "actual": 17,
-    "difference": -1,
-    "performance_ratio": 0.944,
-    "points_per_dollar": 17.0
-  },
-  {
-    "school": "North Carolina State",
-    "owner": "AJ",
-    "tier": "ACC",
-    "bid": 1,
-    "projected": 20,
-    "actual": 17,
-    "difference": -3,
-    "performance_ratio": 0.85,
-    "points_per_dollar": 17.0
   },
   {
     "school": "Nebraska",
