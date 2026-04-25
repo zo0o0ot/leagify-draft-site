@@ -257,6 +257,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Florida",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 55
+  },
+  {
+    "owner": "Netten",
     "school": "Georgia Tech",
     "tier": "ACC",
     "bid": 5,
@@ -270,14 +278,6 @@
     "bid": 17,
     "projected": 61,
     "actual": 35
-  },
-  {
-    "owner": "Netten",
-    "school": "Florida",
-    "tier": "SEC",
-    "bid": 28,
-    "projected": 69,
-    "actual": 30
   },
   {
     "owner": "Netten",

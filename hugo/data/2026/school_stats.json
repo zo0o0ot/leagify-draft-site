@@ -132,6 +132,17 @@
     "points_per_dollar": 2.0
   },
   {
+    "school": "Florida",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 55,
+    "difference": -14,
+    "performance_ratio": 0.797,
+    "points_per_dollar": 1.964
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -229,17 +240,6 @@
     "difference": -69,
     "performance_ratio": 0.303,
     "points_per_dollar": 0.811
-  },
-  {
-    "school": "Florida",
-    "owner": "Netten",
-    "tier": "SEC",
-    "bid": 28,
-    "projected": 69,
-    "actual": 30,
-    "difference": -39,
-    "performance_ratio": 0.435,
-    "points_per_dollar": 1.071
   },
   {
     "school": "Ole Miss",

@@ -928,5 +928,20 @@
     "conference": "Big Ten",
     "player_id": "ae18e221-8824-44b6-a9c7-66dc98aacb93",
     "owner": "Ross"
+  },
+  {
+    "pick": 63,
+    "round": 2,
+    "pick_in_round": 31,
+    "player": "Jake Slaughter",
+    "school": "Florida",
+    "position": "C",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "0e911057-8678-4db4-b93a-ed2b1b923991",
+    "owner": "Netten"
   }
 ]
