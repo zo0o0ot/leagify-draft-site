@@ -1393,5 +1393,35 @@
     "conference": "ACC",
     "player_id": "15e16c3d-2383-4478-8459-44ca6b43240d",
     "owner": "Jawad"
+  },
+  {
+    "pick": 95,
+    "round": 3,
+    "pick_in_round": 31,
+    "player": "Eli Raridon",
+    "school": "Notre Dame",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "6f201a98-e1c8-45dd-a616-ff34f53e5ff9",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 96,
+    "round": 3,
+    "pick_in_round": 32,
+    "player": "Gennings Dunker",
+    "school": "Iowa",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "2c2cd398-2d23-4d7a-8b7a-6578aa41b992",
+    "owner": "Netten"
   }
 ]

@@ -93,10 +93,10 @@
     "tier": "Flex",
     "bid": 31,
     "projected": 97,
-    "actual": 80,
-    "difference": -17,
-    "performance_ratio": 0.825,
-    "points_per_dollar": 2.581
+    "actual": 90,
+    "difference": -7,
+    "performance_ratio": 0.928,
+    "points_per_dollar": 2.903
   },
   {
     "school": "Utah",
@@ -242,6 +242,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 35,
+    "difference": -22,
+    "performance_ratio": 0.614,
+    "points_per_dollar": 1.346
+  },
+  {
     "school": "Ole Miss",
     "owner": "Tilo",
     "tier": "SEC",
@@ -383,17 +394,6 @@
     "difference": -14,
     "performance_ratio": 0.517,
     "points_per_dollar": 7.5
-  },
-  {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 15,
-    "difference": -42,
-    "performance_ratio": 0.263,
-    "points_per_dollar": 0.577
   },
   {
     "school": "TCU",

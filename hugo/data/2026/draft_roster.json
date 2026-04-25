@@ -165,7 +165,7 @@
     "tier": "Flex",
     "bid": 31,
     "projected": 97,
-    "actual": 80
+    "actual": 90
   },
   {
     "owner": "Jawad",
@@ -273,6 +273,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Iowa",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 35
+  },
+  {
+    "owner": "Netten",
     "school": "Georgia Tech",
     "tier": "ACC",
     "bid": 5,
@@ -294,14 +302,6 @@
     "bid": 4,
     "projected": 34,
     "actual": 25
-  },
-  {
-    "owner": "Netten",
-    "school": "Iowa",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 15
   },
   {
     "owner": "Netten",
