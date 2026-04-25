@@ -18,6 +18,12 @@
     "points": 170
   },
   {
+    "owner": "Jared",
+    "round": 3,
+    "picks": 1,
+    "points": 20
+  },
+  {
     "owner": "Jawad",
     "round": 1,
     "picks": 4,
@@ -40,6 +46,12 @@
     "round": 2,
     "picks": 5,
     "points": 110
+  },
+  {
+    "owner": "Netten",
+    "round": 3,
+    "picks": 1,
+    "points": 10
   },
   {
     "owner": "Ross",

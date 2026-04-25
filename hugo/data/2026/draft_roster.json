@@ -93,7 +93,7 @@
     "tier": "SEC",
     "bid": 49,
     "projected": 135,
-    "actual": 90
+    "actual": 110
   },
   {
     "owner": "Jared",
@@ -265,18 +265,18 @@
   },
   {
     "owner": "Netten",
-    "school": "Georgia Tech",
-    "tier": "ACC",
-    "bid": 5,
-    "projected": 29,
-    "actual": 35
-  },
-  {
-    "owner": "Netten",
     "school": "Auburn",
     "tier": "Flex",
     "bid": 17,
     "projected": 61,
+    "actual": 45
+  },
+  {
+    "owner": "Netten",
+    "school": "Georgia Tech",
+    "tier": "ACC",
+    "bid": 5,
+    "projected": 29,
     "actual": 35
   },
   {

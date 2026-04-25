@@ -973,5 +973,35 @@
     "conference": "ACC",
     "player_id": "bfe3a453-1b75-4c8f-b0c0-70b44bdebdab",
     "owner": "Tilo"
+  },
+  {
+    "pick": 66,
+    "round": 3,
+    "pick_in_round": 2,
+    "player": "Tyler Onyedim",
+    "school": "Texas A&M",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "4d5d65fb-4fbc-4bd1-acc4-40caa11fbe2c",
+    "owner": "Jared"
+  },
+  {
+    "pick": 67,
+    "round": 3,
+    "pick_in_round": 3,
+    "player": "Keyron Crawford",
+    "school": "Auburn",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "ff6e4772-10dc-4cce-9ea6-411c03408f2b",
+    "owner": "Netten"
   }
 ]
