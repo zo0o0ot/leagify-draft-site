@@ -221,7 +221,7 @@
     "tier": "SEC",
     "bid": 20,
     "projected": 63,
-    "actual": 25
+    "actual": 43
   },
   {
     "owner": "Jawad",
@@ -345,6 +345,14 @@
   },
   {
     "owner": "Ross",
+    "school": "UConn",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 11,
+    "actual": 18
+  },
+  {
+    "owner": "Ross",
     "school": "South Carolina",
     "tier": "SEC",
     "bid": 7,
@@ -373,14 +381,6 @@
     "tier": "Big Ten",
     "bid": 1,
     "projected": 16,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
-    "school": "UConn",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 11,
     "actual": 0
   },
   {

@@ -1843,5 +1843,35 @@
     "conference": "ACC",
     "player_id": "b73da121-56f0-4283-9092-3da9326e8fb4",
     "owner": "Tilo"
+  },
+  {
+    "pick": 124,
+    "round": 4,
+    "pick_in_round": 24,
+    "player": "Malik Muhammad",
+    "school": "Texas",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "b495ad6b-4e75-4016-8535-29ba1903bc6d",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 125,
+    "round": 4,
+    "pick_in_round": 25,
+    "player": "Skyler Bell",
+    "school": "UConn",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "",
+    "conference": "",
+    "player_id": "7d8c3c92-abd9-4d7f-ac3a-1820d8cc1cec",
+    "owner": "Ross"
   }
 ]

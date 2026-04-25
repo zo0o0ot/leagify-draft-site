@@ -253,6 +253,17 @@
     "points_per_dollar": 1.654
   },
   {
+    "school": "Texas",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 43,
+    "difference": -20,
+    "performance_ratio": 0.683,
+    "points_per_dollar": 2.15
+  },
+  {
     "school": "Arkansas",
     "owner": "AJ",
     "tier": "SEC",
@@ -352,17 +363,6 @@
     "points_per_dollar": 6.25
   },
   {
-    "school": "Texas",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 25,
-    "difference": -38,
-    "performance_ratio": 0.397,
-    "points_per_dollar": 1.25
-  },
-  {
     "school": "Stanford",
     "owner": "AJ",
     "tier": "Flex",
@@ -416,6 +416,17 @@
     "difference": -11,
     "performance_ratio": 0.621,
     "points_per_dollar": 4.5
+  },
+  {
+    "school": "UConn",
+    "owner": "Ross",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 11,
+    "actual": 18,
+    "difference": 7,
+    "performance_ratio": 1.636,
+    "points_per_dollar": 18.0
   },
   {
     "school": "South Carolina",
