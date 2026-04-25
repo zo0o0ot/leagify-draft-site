@@ -1933,5 +1933,35 @@
     "conference": "SEC",
     "player_id": "ba16a9e2-2085-4683-b63a-1ffc5f77b232",
     "owner": "Jared"
+  },
+  {
+    "pick": 130,
+    "round": 4,
+    "pick_in_round": 30,
+    "player": "Trey Moore",
+    "school": "Texas",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "fe747cf1-8918-496f-b09a-3701fc2db58f",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 131,
+    "round": 4,
+    "pick_in_round": 31,
+    "player": "Genesis Smith",
+    "school": "Arizona",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "1651e933-d519-4498-9ab4-b52287006a21",
+    "owner": "Tilo"
   }
 ]

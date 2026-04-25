@@ -1,22 +1,22 @@
 [
   {
-    "owner": "Jared",
-    "points": 564,
+    "owner": "Jawad",
+    "points": 580,
     "rank": 1
   },
   {
-    "owner": "Jawad",
-    "points": 562,
+    "owner": "Jared",
+    "points": 564,
     "rank": 2
+  },
+  {
+    "owner": "Tilo",
+    "points": 535,
+    "rank": 3
   },
   {
     "owner": "Netten",
     "points": 533,
-    "rank": 3
-  },
-  {
-    "owner": "Tilo",
-    "points": 517,
     "rank": 4
   },
   {

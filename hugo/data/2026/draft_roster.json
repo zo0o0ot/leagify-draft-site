@@ -201,6 +201,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Texas",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 61
+  },
+  {
+    "owner": "Jawad",
     "school": "Washington",
     "tier": "Flex",
     "bid": 9,
@@ -214,14 +222,6 @@
     "bid": 20,
     "projected": 68,
     "actual": 56
-  },
-  {
-    "owner": "Jawad",
-    "school": "Texas",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 43
   },
   {
     "owner": "Jawad",
@@ -433,18 +433,18 @@
   },
   {
     "owner": "Tilo",
-    "school": "Ole Miss",
-    "tier": "SEC",
-    "bid": 6,
-    "projected": 34,
-    "actual": 30
-  },
-  {
-    "owner": "Tilo",
     "school": "Arizona",
     "tier": "Flex",
     "bid": 2,
     "projected": 28,
+    "actual": 48
+  },
+  {
+    "owner": "Tilo",
+    "school": "Ole Miss",
+    "tier": "SEC",
+    "bid": 6,
+    "projected": 34,
     "actual": 30
   },
   {

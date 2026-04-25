@@ -187,6 +187,17 @@
     "points_per_dollar": 3.706
   },
   {
+    "school": "Texas",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 61,
+    "difference": -2,
+    "performance_ratio": 0.968,
+    "points_per_dollar": 3.05
+  },
+  {
     "school": "Arizona State",
     "owner": "Tilo",
     "tier": "Big 12",
@@ -242,6 +253,17 @@
     "points_per_dollar": 1.778
   },
   {
+    "school": "Arizona",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 48,
+    "difference": 20,
+    "performance_ratio": 1.714,
+    "points_per_dollar": 24.0
+  },
+  {
     "school": "Iowa",
     "owner": "Netten",
     "tier": "Big Ten",
@@ -251,17 +273,6 @@
     "difference": -14,
     "performance_ratio": 0.754,
     "points_per_dollar": 1.654
-  },
-  {
-    "school": "Texas",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 43,
-    "difference": -20,
-    "performance_ratio": 0.683,
-    "points_per_dollar": 2.15
   },
   {
     "school": "Arkansas",
@@ -317,17 +328,6 @@
     "difference": -4,
     "performance_ratio": 0.882,
     "points_per_dollar": 5.0
-  },
-  {
-    "school": "Arizona",
-    "owner": "Tilo",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 28,
-    "actual": 30,
-    "difference": 2,
-    "performance_ratio": 1.071,
-    "points_per_dollar": 15.0
   },
   {
     "school": "Cincinnati",
