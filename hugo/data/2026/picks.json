@@ -823,5 +823,20 @@
     "conference": "Big Ten",
     "player_id": "17f58c6c-d050-49b3-b7ab-3eda865f4fca",
     "owner": "Jared"
+  },
+  {
+    "pick": 56,
+    "round": 2,
+    "pick_in_round": 24,
+    "player": "Nate Boerkircher",
+    "school": "Texas A&M",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "d3f6fcf3-e7c4-4122-8933-e6ee6bffc5fb",
+    "owner": "Jared"
   }
 ]
