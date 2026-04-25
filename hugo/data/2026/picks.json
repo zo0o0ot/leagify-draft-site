@@ -2383,5 +2383,20 @@
     "conference": "Big Ten",
     "player_id": "cfcd85ba-0548-43b0-b866-460ed0e789e7",
     "owner": "Jawad"
+  },
+  {
+    "pick": 160,
+    "round": 5,
+    "pick_in_round": 20,
+    "player": "Billy Schrauth",
+    "school": "Notre Dame",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "58cb3bc2-67c6-462c-982a-7515d07cbc2c",
+    "owner": "Jawad"
   }
 ]

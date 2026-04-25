@@ -161,18 +161,18 @@
   },
   {
     "owner": "Jawad",
-    "school": "Michigan",
-    "tier": "Big Ten",
-    "bid": 20,
-    "projected": 56,
-    "actual": 90
-  },
-  {
-    "owner": "Jawad",
     "school": "Notre Dame",
     "tier": "Flex",
     "bid": 31,
     "projected": 97,
+    "actual": 107
+  },
+  {
+    "owner": "Jawad",
+    "school": "Michigan",
+    "tier": "Big Ten",
+    "bid": 20,
+    "projected": 56,
     "actual": 90
   },
   {
