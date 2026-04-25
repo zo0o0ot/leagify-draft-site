@@ -440,6 +440,17 @@
     "points_per_dollar": 18.0
   },
   {
+    "school": "SMU",
+    "owner": "Jared",
+    "tier": "ACC",
+    "bid": 3,
+    "projected": 20,
+    "actual": 18,
+    "difference": -2,
+    "performance_ratio": 0.9,
+    "points_per_dollar": 6.0
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",

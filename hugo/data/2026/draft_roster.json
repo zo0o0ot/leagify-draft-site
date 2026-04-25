@@ -129,6 +129,14 @@
   },
   {
     "owner": "Jared",
+    "school": "SMU",
+    "tier": "ACC",
+    "bid": 3,
+    "projected": 20,
+    "actual": 18
+  },
+  {
+    "owner": "Jared",
     "school": "Boston College",
     "tier": "Flex",
     "bid": 1,
@@ -142,14 +150,6 @@
     "bid": 2,
     "projected": 29,
     "actual": 15
-  },
-  {
-    "owner": "Jared",
-    "school": "SMU",
-    "tier": "ACC",
-    "bid": 3,
-    "projected": 20,
-    "actual": 0
   },
   {
     "owner": "Jared",

@@ -1978,5 +1978,20 @@
     "conference": "SEC",
     "player_id": "1dbd7534-7804-42e6-a53a-3dcf950a5f48",
     "owner": "Netten"
+  },
+  {
+    "pick": 133,
+    "round": 4,
+    "pick_in_round": 33,
+    "player": "Matthew Hibner",
+    "school": "SMU",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Texas",
+    "conference": "ACC",
+    "player_id": "e818f22b-9af2-4200-b1ba-295c12565bb7",
+    "owner": "Jared"
   }
 ]
