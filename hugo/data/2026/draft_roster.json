@@ -449,18 +449,18 @@
   },
   {
     "owner": "Tilo",
-    "school": "Mississippi State",
-    "tier": "SEC",
-    "bid": 1,
-    "projected": 12,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
     "school": "Northwestern",
     "tier": "Big Ten",
     "bid": 2,
     "projected": 20,
+    "actual": 10
+  },
+  {
+    "owner": "Tilo",
+    "school": "Mississippi State",
+    "tier": "SEC",
+    "bid": 1,
+    "projected": 12,
     "actual": 0
   },
   {

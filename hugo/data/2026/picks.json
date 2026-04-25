@@ -1423,5 +1423,20 @@
     "conference": "Big Ten",
     "player_id": "2c2cd398-2d23-4d7a-8b7a-6578aa41b992",
     "owner": "Netten"
+  },
+  {
+    "pick": 97,
+    "round": 3,
+    "pick_in_round": 33,
+    "player": "Caleb Tiernan",
+    "school": "Northwestern",
+    "position": "OT",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Illinois",
+    "conference": "Big Ten",
+    "player_id": "336fe8db-dd81-4509-b60f-418b564ed0c3",
+    "owner": "Tilo"
   }
 ]
