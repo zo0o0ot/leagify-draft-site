@@ -838,5 +838,20 @@
     "conference": "SEC",
     "player_id": "d3f6fcf3-e7c4-4122-8933-e6ee6bffc5fb",
     "owner": "Jared"
+  },
+  {
+    "pick": 57,
+    "round": 2,
+    "pick_in_round": 25,
+    "player": "Logan Jones",
+    "school": "Iowa",
+    "position": "C",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "ab740279-861a-4ef9-945d-60fcc7f9eeb5",
+    "owner": "Netten"
   }
 ]

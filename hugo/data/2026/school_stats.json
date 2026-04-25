@@ -339,5 +339,16 @@
     "difference": -14,
     "performance_ratio": 0.517,
     "points_per_dollar": 7.5
+  },
+  {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 15,
+    "difference": -42,
+    "performance_ratio": 0.263,
+    "points_per_dollar": 0.577
   }
 ]
