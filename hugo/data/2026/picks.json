@@ -3478,5 +3478,35 @@
     "conference": "SEC",
     "player_id": "cf9c41e4-7042-4d9a-9aa7-a329fa4f077a",
     "owner": "Jared"
+  },
+  {
+    "pick": 233,
+    "round": 7,
+    "pick_in_round": 17,
+    "player": "Zach Durfee",
+    "school": "Washington",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "bec4f4df-2204-4001-b473-1b8d0b5fd8f3",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 234,
+    "round": 7,
+    "pick_in_round": 18,
+    "player": "Behren Morton",
+    "school": "Texas Tech",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "c88ad684-30c9-4a4e-814a-fc1e143f7f82",
+    "owner": "Jared"
   }
 ]

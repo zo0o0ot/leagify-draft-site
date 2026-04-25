@@ -97,18 +97,18 @@
   },
   {
     "owner": "Jared",
-    "school": "Oregon",
-    "tier": "Big Ten",
-    "bid": 45,
-    "projected": 109,
-    "actual": 133
-  },
-  {
-    "owner": "Jared",
     "school": "Texas Tech",
     "tier": "Big 12",
     "bid": 42,
     "projected": 110,
+    "actual": 148
+  },
+  {
+    "owner": "Jared",
+    "school": "Oregon",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
     "actual": 133
   },
   {
@@ -209,19 +209,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Washington",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 95
+  },
+  {
+    "owner": "Jawad",
     "school": "Michigan",
     "tier": "Big Ten",
     "bid": 20,
     "projected": 56,
     "actual": 90
-  },
-  {
-    "owner": "Jawad",
-    "school": "Washington",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 80
   },
   {
     "owner": "Jawad",

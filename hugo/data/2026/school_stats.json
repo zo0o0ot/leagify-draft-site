@@ -66,6 +66,17 @@
     "points_per_dollar": 3.744
   },
   {
+    "school": "Texas Tech",
+    "owner": "Jared",
+    "tier": "Big 12",
+    "bid": 42,
+    "projected": 110,
+    "actual": 148,
+    "difference": 38,
+    "performance_ratio": 1.345,
+    "points_per_dollar": 3.524
+  },
+  {
     "school": "Georgia",
     "owner": "Ross",
     "tier": "SEC",
@@ -75,17 +86,6 @@
     "difference": 19,
     "performance_ratio": 1.158,
     "points_per_dollar": 2.527
-  },
-  {
-    "school": "Texas Tech",
-    "owner": "Jared",
-    "tier": "Big 12",
-    "bid": 42,
-    "projected": 110,
-    "actual": 133,
-    "difference": 23,
-    "performance_ratio": 1.209,
-    "points_per_dollar": 3.167
   },
   {
     "school": "Oregon",
@@ -176,6 +176,17 @@
     "points_per_dollar": 6.0
   },
   {
+    "school": "Washington",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 95,
+    "difference": 39,
+    "performance_ratio": 1.696,
+    "points_per_dollar": 10.556
+  },
+  {
     "school": "Michigan",
     "owner": "Jawad",
     "tier": "Big Ten",
@@ -229,17 +240,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Washington",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 80,
-    "difference": 24,
-    "performance_ratio": 1.429,
-    "points_per_dollar": 8.889
   },
   {
     "school": "Arkansas",
