@@ -238,12 +238,12 @@ def compute_nobody_schools(picks: list[dict], owned_picks: list[dict]) -> list[d
 # Draft status
 # ---------------------------------------------------------------------------
 
-def compute_draft_status(year: int, draft_data: dict, picks: list[dict]) -> dict:
+def compute_draft_status(year: int, draft_data: dict, picks: list[dict], force_complete: bool = False) -> dict:
     draft_info = draft_data.get("draft", {})
     overall_status = draft_info.get("status", "")
     rounds = draft_data.get("rounds", [])
 
-    if overall_status == "complete":
+    if overall_status == "complete" or force_complete:
         status = "complete"
         current_round = 7
         current_day = 3
@@ -347,7 +347,7 @@ def score_year(year: int, draft_complete: bool, api_key: str) -> dict:
     write_json(data_dir, "nobody_schools.json", compute_nobody_schools(picks, owned_picks))
     write_json(data_dir, "picks.json", assign_owners_all(picks, fantasy))
 
-    return compute_draft_status(year, draft_data, picks)
+    return compute_draft_status(year, draft_data, picks, force_complete=draft_complete)
 
 
 # ---------------------------------------------------------------------------
