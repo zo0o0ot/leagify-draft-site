@@ -3118,5 +3118,20 @@
     "conference": "Big Ten",
     "player_id": "f74cf887-a435-440b-9e86-2e6ec0ae61ba",
     "owner": "Jawad"
+  },
+  {
+    "pick": 209,
+    "round": 6,
+    "pick_in_round": 28,
+    "player": "Matt Gulbin",
+    "school": "Michigan State",
+    "position": "OL",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "b3ca5d2b-89b8-44dd-9fd1-6c975730ff86",
+    "owner": "AJ"
   }
 ]

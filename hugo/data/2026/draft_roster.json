@@ -57,6 +57,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Michigan State",
+    "tier": "Big Ten",
+    "bid": 1,
+    "projected": 10,
+    "actual": 16
+  },
+  {
+    "owner": "AJ",
     "school": "BYU",
     "tier": "Flex",
     "bid": 1,
@@ -70,14 +78,6 @@
     "bid": 1,
     "projected": 12,
     "actual": 7
-  },
-  {
-    "owner": "AJ",
-    "school": "Michigan State",
-    "tier": "Big Ten",
-    "bid": 1,
-    "projected": 10,
-    "actual": 0
   },
   {
     "owner": "Jared",
