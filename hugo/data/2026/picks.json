@@ -1378,5 +1378,20 @@
     "conference": "SEC",
     "player_id": "223e7ca3-c74c-4ba9-b972-a1661c4dd396",
     "owner": "Jawad"
+  },
+  {
+    "pick": 94,
+    "round": 3,
+    "pick_in_round": 30,
+    "player": "Chris Bell",
+    "school": "Louisville",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Kentucky",
+    "conference": "ACC",
+    "player_id": "15e16c3d-2383-4478-8459-44ca6b43240d",
+    "owner": "Jawad"
   }
 ]

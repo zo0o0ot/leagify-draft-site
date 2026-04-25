@@ -352,6 +352,17 @@
     "points_per_dollar": 20.0
   },
   {
+    "school": "Louisville",
+    "owner": "Jawad",
+    "tier": "ACC",
+    "bid": 7,
+    "projected": 28,
+    "actual": 20,
+    "difference": -8,
+    "performance_ratio": 0.714,
+    "points_per_dollar": 2.857
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",
