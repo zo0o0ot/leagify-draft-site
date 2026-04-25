@@ -1543,5 +1543,20 @@
     "conference": "SEC",
     "player_id": "4e9121f6-fa54-4f0a-801d-374ffee1d625",
     "owner": "Jawad"
+  },
+  {
+    "pick": 107,
+    "round": 4,
+    "pick_in_round": 7,
+    "player": "Gracen Halton",
+    "school": "Oklahoma",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "dd55e19a-a5f8-405e-a2c1-bb35fe95eda7",
+    "owner": "Jawad"
   }
 ]
