@@ -3673,5 +3673,35 @@
     "conference": "SEC",
     "player_id": "7af514df-bfcf-4243-9a7b-32d982a73309",
     "owner": "Jared"
+  },
+  {
+    "pick": 246,
+    "round": 7,
+    "pick_in_round": 30,
+    "player": "Miles Scott",
+    "school": "Illinois",
+    "position": "SAF",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Illinois",
+    "conference": "Big Ten",
+    "player_id": "f3fb73dc-55bd-43af-b171-108ec5c82fac",
+    "owner": "Jared"
+  },
+  {
+    "pick": 247,
+    "round": 7,
+    "pick_in_round": 31,
+    "player": "Quintayvious Hutchins",
+    "school": "Boston College",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "0b192776-6af1-4cee-888f-c243a6566dd7",
+    "owner": "Jared"
   }
 ]

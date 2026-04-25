@@ -308,6 +308,17 @@
     "points_per_dollar": 14.25
   },
   {
+    "school": "Boston College",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 55,
+    "difference": 36,
+    "performance_ratio": 2.895,
+    "points_per_dollar": 55.0
+  },
+  {
     "school": "Georgia Tech",
     "owner": "Netten",
     "tier": "ACC",
@@ -317,17 +328,6 @@
     "difference": 22,
     "performance_ratio": 1.759,
     "points_per_dollar": 10.2
-  },
-  {
-    "school": "Boston College",
-    "owner": "Jared",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
-    "actual": 50,
-    "difference": 31,
-    "performance_ratio": 2.632,
-    "points_per_dollar": 50.0
   },
   {
     "school": "South Carolina",
@@ -346,10 +346,10 @@
     "tier": "Big Ten",
     "bid": 12,
     "projected": 40,
-    "actual": 41,
-    "difference": 1,
-    "performance_ratio": 1.025,
-    "points_per_dollar": 3.417
+    "actual": 46,
+    "difference": 6,
+    "performance_ratio": 1.15,
+    "points_per_dollar": 3.833
   },
   {
     "school": "Duke",
