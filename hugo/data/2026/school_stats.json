@@ -132,6 +132,17 @@
     "points_per_dollar": 4.143
   },
   {
+    "school": "Texas",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 109,
+    "difference": 46,
+    "performance_ratio": 1.73,
+    "points_per_dollar": 5.45
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -152,17 +163,6 @@
     "difference": 42,
     "performance_ratio": 1.7,
     "points_per_dollar": 6.0
-  },
-  {
-    "school": "Texas",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 94,
-    "difference": 31,
-    "performance_ratio": 1.492,
-    "points_per_dollar": 4.7
   },
   {
     "school": "Michigan",

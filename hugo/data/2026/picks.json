@@ -3298,5 +3298,20 @@
     "conference": "SEC",
     "player_id": "6d001834-6434-49f6-9a62-16c8d538daac",
     "owner": "Jawad"
+  },
+  {
+    "pick": 221,
+    "round": 7,
+    "pick_in_round": 5,
+    "player": "Jack Endries",
+    "school": "Texas",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "cdadd6e3-ed65-45c5-b87f-0ba317b64e82",
+    "owner": "Jawad"
   }
 ]
