@@ -176,6 +176,17 @@
     "points_per_dollar": 4.5
   },
   {
+    "school": "Oklahoma",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 20,
+    "projected": 68,
+    "actual": 89,
+    "difference": 21,
+    "performance_ratio": 1.309,
+    "points_per_dollar": 4.45
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -229,17 +240,6 @@
     "difference": 24,
     "performance_ratio": 1.429,
     "points_per_dollar": 8.889
-  },
-  {
-    "school": "Oklahoma",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 20,
-    "projected": 68,
-    "actual": 74,
-    "difference": 6,
-    "performance_ratio": 1.088,
-    "points_per_dollar": 3.7
   },
   {
     "school": "Arkansas",

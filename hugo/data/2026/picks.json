@@ -3343,5 +3343,20 @@
     "conference": "Big Ten",
     "player_id": "a8e6cef7-0cb0-4228-b9d4-51a84eddd29c",
     "owner": ""
+  },
+  {
+    "pick": 224,
+    "round": 7,
+    "pick_in_round": 8,
+    "player": "Robert Spears-Jennings",
+    "school": "Oklahoma",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "9e935e66-102c-45c0-bfc8-a065a435a751",
+    "owner": "Jawad"
   }
 ]
