@@ -33,6 +33,17 @@
     "points_per_dollar": 1.471
   },
   {
+    "school": "Texas Tech",
+    "owner": "Jared",
+    "tier": "Big 12",
+    "bid": 42,
+    "projected": 110,
+    "actual": 110,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 2.619
+  },
+  {
     "school": "Alabama",
     "owner": "Jared",
     "tier": "SEC",
@@ -64,17 +75,6 @@
     "difference": -34,
     "performance_ratio": 0.746,
     "points_per_dollar": 2.326
-  },
-  {
-    "school": "Texas Tech",
-    "owner": "Jared",
-    "tier": "Big 12",
-    "bid": 42,
-    "projected": 110,
-    "actual": 100,
-    "difference": -10,
-    "performance_ratio": 0.909,
-    "points_per_dollar": 2.381
   },
   {
     "school": "Georgia",

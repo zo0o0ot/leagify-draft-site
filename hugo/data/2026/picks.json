@@ -1108,5 +1108,20 @@
     "conference": "FBS - Independent",
     "player_id": "4c46231d-e333-44ef-9d9c-97a0f883f52a",
     "owner": "Jawad"
+  },
+  {
+    "pick": 75,
+    "round": 3,
+    "pick_in_round": 11,
+    "player": "Caleb Douglas",
+    "school": "Texas Tech",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "e05b2997-4681-43fd-844d-b4c05686d4d6",
+    "owner": "Jared"
   }
 ]
