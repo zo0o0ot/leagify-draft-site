@@ -394,5 +394,16 @@
     "difference": -14,
     "performance_ratio": 0.517,
     "points_per_dollar": 5.0
+  },
+  {
+    "school": "Iowa State",
+    "owner": "Ross",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 17,
+    "actual": 10,
+    "difference": -7,
+    "performance_ratio": 0.588,
+    "points_per_dollar": 5.0
   }
 ]

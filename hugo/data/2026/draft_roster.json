@@ -353,6 +353,14 @@
   },
   {
     "owner": "Ross",
+    "school": "Iowa State",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 17,
+    "actual": 10
+  },
+  {
+    "owner": "Ross",
     "school": "Wisconsin",
     "tier": "Big Ten",
     "bid": 1,
@@ -381,14 +389,6 @@
     "tier": "Flex",
     "bid": 2,
     "projected": 18,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
-    "school": "Iowa State",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 17,
     "actual": 0
   },
   {

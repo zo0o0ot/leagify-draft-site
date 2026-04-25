@@ -1213,5 +1213,20 @@
     "conference": "SEC",
     "player_id": "c8c64803-2492-4506-966b-43325d8e27ad",
     "owner": "Jared"
+  },
+  {
+    "pick": 82,
+    "round": 3,
+    "pick_in_round": 18,
+    "player": "Domonique Orange",
+    "school": "Iowa State",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Iowa",
+    "conference": "Big 12",
+    "player_id": "104aa49d-5c50-4532-ab5f-a08dac47f438",
+    "owner": "Ross"
   }
 ]
