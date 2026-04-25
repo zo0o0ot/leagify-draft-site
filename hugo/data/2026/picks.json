@@ -1288,5 +1288,20 @@
     "conference": "Big Ten",
     "player_id": "c3b18595-ef8b-4e8c-9c1f-466799330fef",
     "owner": "Ross"
+  },
+  {
+    "pick": 88,
+    "round": 3,
+    "pick_in_round": 24,
+    "player": "Emmanuel Pregnon",
+    "school": "Oregon",
+    "position": "G",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "a900c1c6-df32-4d5c-b8a1-8361318b8255",
+    "owner": "Jared"
   }
 ]

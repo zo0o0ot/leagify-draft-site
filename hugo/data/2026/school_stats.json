@@ -110,6 +110,17 @@
     "points_per_dollar": 4.0
   },
   {
+    "school": "Oregon",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
+    "actual": 75,
+    "difference": -34,
+    "performance_ratio": 0.688,
+    "points_per_dollar": 1.667
+  },
+  {
     "school": "Florida",
     "owner": "Netten",
     "tier": "SEC",
@@ -119,17 +130,6 @@
     "difference": 6,
     "performance_ratio": 1.087,
     "points_per_dollar": 2.679
-  },
-  {
-    "school": "Oregon",
-    "owner": "Jared",
-    "tier": "Big Ten",
-    "bid": 45,
-    "projected": 109,
-    "actual": 65,
-    "difference": -44,
-    "performance_ratio": 0.596,
-    "points_per_dollar": 1.444
   },
   {
     "school": "Arizona State",
