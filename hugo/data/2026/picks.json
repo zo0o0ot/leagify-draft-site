@@ -958,5 +958,20 @@
     "conference": "Big 12",
     "player_id": "75dd7ece-7db9-42f0-b8b7-77baae393a43",
     "owner": "Jawad"
+  },
+  {
+    "pick": 65,
+    "round": 3,
+    "pick_in_round": 1,
+    "player": "Carson Beck",
+    "school": "Miami (FL)",
+    "position": "QB",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "bfe3a453-1b75-4c8f-b0c0-70b44bdebdab",
+    "owner": "Tilo"
   }
 ]
