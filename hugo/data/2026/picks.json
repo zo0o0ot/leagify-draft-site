@@ -3058,5 +3058,20 @@
     "conference": "ACC",
     "player_id": "224f0a13-2b16-441e-bb62-000cbd96ab93",
     "owner": "Jared"
+  },
+  {
+    "pick": 205,
+    "round": 6,
+    "pick_in_round": 24,
+    "player": "Skyler Gill-Howard",
+    "school": "Texas Tech",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "4abce9bd-41b1-4786-b78f-23c0c8974ae1",
+    "owner": "Jared"
   }
 ]

@@ -66,6 +66,17 @@
     "points_per_dollar": 3.744
   },
   {
+    "school": "Texas Tech",
+    "owner": "Jared",
+    "tier": "Big 12",
+    "bid": 42,
+    "projected": 110,
+    "actual": 133,
+    "difference": 23,
+    "performance_ratio": 1.209,
+    "points_per_dollar": 3.167
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",
@@ -86,17 +97,6 @@
     "difference": 3,
     "performance_ratio": 1.025,
     "points_per_dollar": 2.236
-  },
-  {
-    "school": "Texas Tech",
-    "owner": "Jared",
-    "tier": "Big 12",
-    "bid": 42,
-    "projected": 110,
-    "actual": 117,
-    "difference": 7,
-    "performance_ratio": 1.064,
-    "points_per_dollar": 2.786
   },
   {
     "school": "Oregon",
