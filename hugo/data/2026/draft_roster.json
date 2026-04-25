@@ -49,6 +49,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Wake Forest",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 14,
+    "actual": 7
+  },
+  {
+    "owner": "AJ",
     "school": "Michigan State",
     "tier": "Big Ten",
     "bid": 1,
@@ -61,14 +69,6 @@
     "tier": "Flex",
     "bid": 1,
     "projected": 15,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "Wake Forest",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 14,
     "actual": 0
   },
   {
@@ -349,7 +349,7 @@
     "tier": "Big 12",
     "bid": 8,
     "projected": 46,
-    "actual": 25
+    "actual": 42
   },
   {
     "owner": "Ross",

@@ -297,6 +297,17 @@
     "points_per_dollar": 7.0
   },
   {
+    "school": "Cincinnati",
+    "owner": "Ross",
+    "tier": "Big 12",
+    "bid": 8,
+    "projected": 46,
+    "actual": 42,
+    "difference": -4,
+    "performance_ratio": 0.913,
+    "points_per_dollar": 5.25
+  },
+  {
     "school": "Kentucky",
     "owner": "AJ",
     "tier": "SEC",
@@ -361,17 +372,6 @@
     "difference": -4,
     "performance_ratio": 0.882,
     "points_per_dollar": 5.0
-  },
-  {
-    "school": "Cincinnati",
-    "owner": "Ross",
-    "tier": "Big 12",
-    "bid": 8,
-    "projected": 46,
-    "actual": 25,
-    "difference": -21,
-    "performance_ratio": 0.543,
-    "points_per_dollar": 3.125
   },
   {
     "school": "Illinois",
@@ -570,5 +570,16 @@
     "difference": -10,
     "performance_ratio": 0.444,
     "points_per_dollar": 4.0
+  },
+  {
+    "school": "Wake Forest",
+    "owner": "AJ",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 14,
+    "actual": 7,
+    "difference": -7,
+    "performance_ratio": 0.5,
+    "points_per_dollar": 7.0
   }
 ]

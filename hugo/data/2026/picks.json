@@ -2533,5 +2533,35 @@
     "conference": "Big Ten",
     "player_id": "04b969a8-9eef-4302-b4ab-a3ab09ecaae7",
     "owner": "Netten"
+  },
+  {
+    "pick": 170,
+    "round": 5,
+    "pick_in_round": 30,
+    "player": "Joe Royer",
+    "school": "Cincinnati",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Ohio",
+    "conference": "Big 12",
+    "player_id": "16cb9cea-6044-48c8-a178-e8ef2e574b6e",
+    "owner": "Ross"
+  },
+  {
+    "pick": 171,
+    "round": 5,
+    "pick_in_round": 31,
+    "player": "Karon Prunty",
+    "school": "Wake Forest",
+    "position": "DB",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "4b849077-b529-4a59-961d-a7e17e3686b8",
+    "owner": "AJ"
   }
 ]
