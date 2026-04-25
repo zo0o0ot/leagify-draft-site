@@ -1333,5 +1333,20 @@
     "conference": "Big Ten",
     "player_id": "9564ce21-6adc-48f3-813f-317e886a8b5c",
     "owner": "Netten"
+  },
+  {
+    "pick": 91,
+    "round": 3,
+    "pick_in_round": 27,
+    "player": "Trey Zuhn III",
+    "school": "Texas A&M",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "e44d2f73-31a6-4862-ad74-4d8cfd4c8441",
+    "owner": "Jared"
   }
 ]
