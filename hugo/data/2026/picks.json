@@ -2908,5 +2908,20 @@
     "conference": "Big Ten",
     "player_id": "1a3446fe-9ece-49cf-9f31-72bf359de2fa",
     "owner": "Netten"
+  },
+  {
+    "pick": 195,
+    "round": 6,
+    "pick_in_round": 14,
+    "player": "Malik Benson",
+    "school": "Oregon",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "5f0338f2-9392-43f3-abef-7b0f24a5bf24",
+    "owner": "Jared"
   }
 ]

@@ -99,6 +99,17 @@
     "points_per_dollar": 2.786
   },
   {
+    "school": "Oregon",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
+    "actual": 117,
+    "difference": 8,
+    "performance_ratio": 1.073,
+    "points_per_dollar": 2.6
+  },
+  {
     "school": "Notre Dame",
     "owner": "Jawad",
     "tier": "Flex",
@@ -108,17 +119,6 @@
     "difference": 10,
     "performance_ratio": 1.103,
     "points_per_dollar": 3.452
-  },
-  {
-    "school": "Oregon",
-    "owner": "Jared",
-    "tier": "Big Ten",
-    "bid": 45,
-    "projected": 109,
-    "actual": 101,
-    "difference": -8,
-    "performance_ratio": 0.927,
-    "points_per_dollar": 2.244
   },
   {
     "school": "Florida",
