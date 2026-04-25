@@ -2893,5 +2893,20 @@
     "conference": "Big 12",
     "player_id": "db82b9ce-a617-4a27-a0b2-aa1917bf0029",
     "owner": "AJ"
+  },
+  {
+    "pick": 194,
+    "round": 6,
+    "pick_in_round": 13,
+    "player": "Pat Coogan",
+    "school": "Indiana",
+    "position": "C",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "1a3446fe-9ece-49cf-9f31-72bf359de2fa",
+    "owner": "Netten"
   }
 ]
