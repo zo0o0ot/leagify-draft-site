@@ -3028,5 +3028,35 @@
     "conference": "ACC",
     "player_id": "2ad2c130-94cb-4baf-a803-31846d0227bc",
     "owner": "Jared"
+  },
+  {
+    "pick": 203,
+    "round": 6,
+    "pick_in_round": 22,
+    "player": "CJ Williams",
+    "school": "Stanford",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "California",
+    "conference": "ACC",
+    "player_id": "bce6f7f3-77b5-4b85-95d7-36ba7118695d",
+    "owner": "AJ"
+  },
+  {
+    "pick": 204,
+    "round": 6,
+    "pick_in_round": 23,
+    "player": "Lewis Bond",
+    "school": "Boston College",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "224f0a13-2b16-441e-bb62-000cbd96ab93",
+    "owner": "Jared"
   }
 ]

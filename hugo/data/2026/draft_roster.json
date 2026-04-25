@@ -17,6 +17,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Stanford",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 12,
+    "actual": 36
+  },
+  {
+    "owner": "AJ",
     "school": "UCF",
     "tier": "Big 12",
     "bid": 1,
@@ -30,14 +38,6 @@
     "bid": 1,
     "projected": 14,
     "actual": 23
-  },
-  {
-    "owner": "AJ",
-    "school": "Stanford",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 12,
-    "actual": 20
   },
   {
     "owner": "AJ",
@@ -113,6 +113,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Boston College",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 50
+  },
+  {
+    "owner": "Jared",
     "school": "Illinois",
     "tier": "Big Ten",
     "bid": 12,
@@ -126,14 +134,6 @@
     "bid": 1,
     "projected": 22,
     "actual": 35
-  },
-  {
-    "owner": "Jared",
-    "school": "Boston College",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
-    "actual": 34
   },
   {
     "owner": "Jared",

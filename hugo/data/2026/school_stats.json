@@ -286,6 +286,17 @@
     "points_per_dollar": 2.037
   },
   {
+    "school": "Boston College",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 50,
+    "difference": 31,
+    "performance_ratio": 2.632,
+    "points_per_dollar": 50.0
+  },
+  {
     "school": "Cincinnati",
     "owner": "Ross",
     "tier": "Big 12",
@@ -341,6 +352,17 @@
     "points_per_dollar": 10.25
   },
   {
+    "school": "Stanford",
+    "owner": "AJ",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 12,
+    "actual": 36,
+    "difference": 24,
+    "performance_ratio": 3.0,
+    "points_per_dollar": 36.0
+  },
+  {
     "school": "UCF",
     "owner": "AJ",
     "tier": "Big 12",
@@ -383,17 +405,6 @@
     "difference": 23,
     "performance_ratio": 2.917,
     "points_per_dollar": 35.0
-  },
-  {
-    "school": "Boston College",
-    "owner": "Jared",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
-    "actual": 34,
-    "difference": 15,
-    "performance_ratio": 1.789,
-    "points_per_dollar": 34.0
   },
   {
     "school": "Kansas",
@@ -460,17 +471,6 @@
     "difference": 0,
     "performance_ratio": 1.0,
     "points_per_dollar": 22.0
-  },
-  {
-    "school": "Stanford",
-    "owner": "AJ",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 12,
-    "actual": 20,
-    "difference": 8,
-    "performance_ratio": 1.667,
-    "points_per_dollar": 20.0
   },
   {
     "school": "Louisville",
