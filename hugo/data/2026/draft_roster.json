@@ -129,6 +129,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Boston College",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 34
+  },
+  {
+    "owner": "Jared",
     "school": "Baylor",
     "tier": "Flex",
     "bid": 1,
@@ -141,14 +149,6 @@
     "tier": "ACC",
     "bid": 3,
     "projected": 20,
-    "actual": 18
-  },
-  {
-    "owner": "Jared",
-    "school": "Boston College",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
     "actual": 18
   },
   {

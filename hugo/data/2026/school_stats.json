@@ -385,6 +385,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "Boston College",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 34,
+    "difference": 15,
+    "performance_ratio": 1.789,
+    "points_per_dollar": 34.0
+  },
+  {
     "school": "Kansas",
     "owner": "Tilo",
     "tier": "Flex",
@@ -471,17 +482,6 @@
     "difference": -8,
     "performance_ratio": 0.714,
     "points_per_dollar": 2.857
-  },
-  {
-    "school": "Boston College",
-    "owner": "Jared",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
-    "actual": 18,
-    "difference": -1,
-    "performance_ratio": 0.947,
-    "points_per_dollar": 18.0
   },
   {
     "school": "UConn",

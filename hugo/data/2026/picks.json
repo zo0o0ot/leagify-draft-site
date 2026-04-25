@@ -3013,5 +3013,20 @@
     "conference": "SEC",
     "player_id": "cd1343c4-8e41-40d3-85fa-7281768abab0",
     "owner": "Jared"
+  },
+  {
+    "pick": 202,
+    "round": 6,
+    "pick_in_round": 21,
+    "player": "Logan Taylor",
+    "school": "Boston College",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "2ad2c130-94cb-4baf-a803-31846d0227bc",
+    "owner": "Jared"
   }
 ]
