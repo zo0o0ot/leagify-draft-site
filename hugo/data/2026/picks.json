@@ -2443,5 +2443,20 @@
     "conference": "FCS",
     "player_id": "40721cce-b480-4c73-997f-2babab1819c7",
     "owner": ""
+  },
+  {
+    "pick": 164,
+    "round": 5,
+    "pick_in_round": 24,
+    "player": "Tanner Koziol",
+    "school": "Houston",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "e1c53fe3-98ab-4086-824c-a41812a65228",
+    "owner": ""
   }
 ]
