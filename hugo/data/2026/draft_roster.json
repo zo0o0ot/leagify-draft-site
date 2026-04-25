@@ -81,18 +81,18 @@
   },
   {
     "owner": "Jared",
-    "school": "Alabama",
-    "tier": "SEC",
-    "bid": 42,
-    "projected": 127,
-    "actual": 110
-  },
-  {
-    "owner": "Jared",
     "school": "Texas A&M",
     "tier": "SEC",
     "bid": 49,
     "projected": 135,
+    "actual": 130
+  },
+  {
+    "owner": "Jared",
+    "school": "Alabama",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
     "actual": 110
   },
   {

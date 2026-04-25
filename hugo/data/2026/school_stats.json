@@ -22,6 +22,17 @@
     "points_per_dollar": 2.708
   },
   {
+    "school": "Texas A&M",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 49,
+    "projected": 135,
+    "actual": 130,
+    "difference": -5,
+    "performance_ratio": 0.963,
+    "points_per_dollar": 2.653
+  },
+  {
     "school": "Clemson",
     "owner": "Tilo",
     "tier": "Flex",
@@ -53,17 +64,6 @@
     "difference": -17,
     "performance_ratio": 0.866,
     "points_per_dollar": 2.619
-  },
-  {
-    "school": "Texas A&M",
-    "owner": "Jared",
-    "tier": "SEC",
-    "bid": 49,
-    "projected": 135,
-    "actual": 110,
-    "difference": -25,
-    "performance_ratio": 0.815,
-    "points_per_dollar": 2.245
   },
   {
     "school": "Indiana",

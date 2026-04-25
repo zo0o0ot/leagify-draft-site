@@ -1198,5 +1198,20 @@
     "conference": "Big Ten",
     "player_id": "713809f2-e02e-4a9b-bd31-dafbdc499ec6",
     "owner": "Tilo"
+  },
+  {
+    "pick": 81,
+    "round": 3,
+    "pick_in_round": 17,
+    "player": "Albert Regis",
+    "school": "Texas A&M",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "c8c64803-2492-4506-966b-43325d8e27ad",
+    "owner": "Jared"
   }
 ]
