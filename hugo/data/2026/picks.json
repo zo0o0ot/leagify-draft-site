@@ -3763,5 +3763,20 @@
     "conference": "",
     "player_id": "62d5b702-1a1b-4d9b-8073-bf1557bb7be3",
     "owner": ""
+  },
+  {
+    "pick": 252,
+    "round": 7,
+    "pick_in_round": 36,
+    "player": "Keyshawn James-Newby",
+    "school": "New Mexico",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "New Mexico",
+    "conference": "FBS - Mountain West",
+    "player_id": "af8b923c-872b-4f19-9e30-7bafad84be39",
+    "owner": ""
   }
 ]
