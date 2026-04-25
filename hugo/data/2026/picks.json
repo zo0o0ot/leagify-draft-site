@@ -2203,5 +2203,35 @@
     "conference": "SEC",
     "player_id": "3c61e1c0-ef94-4f11-b4ba-59d811d6c484",
     "owner": "Netten"
+  },
+  {
+    "pick": 148,
+    "round": 5,
+    "pick_in_round": 8,
+    "player": "Beau Stephens",
+    "school": "Iowa",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "c2e72471-7b07-4f27-9b9a-dd00a714b9b2",
+    "owner": "Netten"
+  },
+  {
+    "pick": 149,
+    "round": 5,
+    "pick_in_round": 9,
+    "player": "Justin Jefferson",
+    "school": "Alabama",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "592ca30c-0a53-4f38-9f0a-046df72fc060",
+    "owner": "Jared"
   }
 ]

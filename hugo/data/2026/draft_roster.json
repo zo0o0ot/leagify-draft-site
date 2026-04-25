@@ -93,7 +93,7 @@
     "tier": "SEC",
     "bid": 42,
     "projected": 127,
-    "actual": 135
+    "actual": 152
   },
   {
     "owner": "Jared",
@@ -273,19 +273,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Iowa",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 60
+  },
+  {
+    "owner": "Netten",
     "school": "Tennessee",
     "tier": "SEC",
     "bid": 27,
     "projected": 98,
     "actual": 55
-  },
-  {
-    "owner": "Netten",
-    "school": "Iowa",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 43
   },
   {
     "owner": "Netten",

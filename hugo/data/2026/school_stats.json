@@ -49,10 +49,10 @@
     "tier": "SEC",
     "bid": 42,
     "projected": 127,
-    "actual": 135,
-    "difference": 8,
-    "performance_ratio": 1.063,
-    "points_per_dollar": 3.214
+    "actual": 152,
+    "difference": 25,
+    "performance_ratio": 1.197,
+    "points_per_dollar": 3.619
   },
   {
     "school": "Indiana",
@@ -242,6 +242,17 @@
     "points_per_dollar": 2.0
   },
   {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 60,
+    "difference": 3,
+    "performance_ratio": 1.053,
+    "points_per_dollar": 2.308
+  },
+  {
     "school": "Tennessee",
     "owner": "Netten",
     "tier": "SEC",
@@ -273,17 +284,6 @@
     "difference": 20,
     "performance_ratio": 1.714,
     "points_per_dollar": 24.0
-  },
-  {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 43,
-    "difference": -14,
-    "performance_ratio": 0.754,
-    "points_per_dollar": 1.654
   },
   {
     "school": "UCF",
