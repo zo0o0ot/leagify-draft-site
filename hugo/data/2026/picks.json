@@ -1183,5 +1183,20 @@
     "conference": "SEC",
     "player_id": "6cbc6f13-8929-4bb7-a926-5163fda5a15d",
     "owner": "Ross"
+  },
+  {
+    "pick": 80,
+    "round": 3,
+    "pick_in_round": 16,
+    "player": "Ja'Kobi Lane",
+    "school": "USC",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "California",
+    "conference": "Big Ten",
+    "player_id": "713809f2-e02e-4a9b-bd31-dafbdc499ec6",
+    "owner": "Tilo"
   }
 ]

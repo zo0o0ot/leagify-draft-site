@@ -176,6 +176,17 @@
     "points_per_dollar": 1.351
   },
   {
+    "school": "USC",
+    "owner": "Tilo",
+    "tier": "Big Ten",
+    "bid": 24,
+    "projected": 68,
+    "actual": 50,
+    "difference": -18,
+    "performance_ratio": 0.735,
+    "points_per_dollar": 2.083
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -196,17 +207,6 @@
     "difference": -11,
     "performance_ratio": 0.804,
     "points_per_dollar": 2.25
-  },
-  {
-    "school": "USC",
-    "owner": "Tilo",
-    "tier": "Big Ten",
-    "bid": 24,
-    "projected": 68,
-    "actual": 40,
-    "difference": -28,
-    "performance_ratio": 0.588,
-    "points_per_dollar": 1.667
   },
   {
     "school": "UCF",
