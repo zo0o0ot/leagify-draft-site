@@ -1093,5 +1093,20 @@
     "conference": "SEC",
     "player_id": "828b2e65-aa74-4f86-aad4-b8c98e803a22",
     "owner": "Ross"
+  },
+  {
+    "pick": 74,
+    "round": 3,
+    "pick_in_round": 10,
+    "player": "Malachi Fields",
+    "school": "Notre Dame",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "4c46231d-e333-44ef-9d9c-97a0f883f52a",
+    "owner": "Jawad"
   }
 ]

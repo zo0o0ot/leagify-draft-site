@@ -88,6 +88,17 @@
     "points_per_dollar": 1.545
   },
   {
+    "school": "Notre Dame",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 31,
+    "projected": 97,
+    "actual": 80,
+    "difference": -17,
+    "performance_ratio": 0.825,
+    "points_per_dollar": 2.581
+  },
+  {
     "school": "Utah",
     "owner": "Netten",
     "tier": "Big 12",
@@ -108,17 +119,6 @@
     "difference": -44,
     "performance_ratio": 0.596,
     "points_per_dollar": 1.444
-  },
-  {
-    "school": "Notre Dame",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 31,
-    "projected": 97,
-    "actual": 60,
-    "difference": -37,
-    "performance_ratio": 0.619,
-    "points_per_dollar": 1.935
   },
   {
     "school": "Arizona State",
