@@ -209,19 +209,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Washington",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 64
+  },
+  {
+    "owner": "Jawad",
     "school": "Texas",
     "tier": "SEC",
     "bid": 20,
     "projected": 63,
     "actual": 61
-  },
-  {
-    "owner": "Jawad",
-    "school": "Washington",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 56
   },
   {
     "owner": "Jawad",
@@ -457,6 +457,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Pittsburgh",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 17,
+    "actual": 18
+  },
+  {
+    "owner": "Tilo",
     "school": "Northwestern",
     "tier": "Big Ten",
     "bid": 2,
@@ -469,14 +477,6 @@
     "tier": "Flex",
     "bid": 1,
     "projected": 11,
-    "actual": 0
-  },
-  {
-    "owner": "Tilo",
-    "school": "Pittsburgh",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 17,
     "actual": 0
   }
 ]

@@ -198,6 +198,17 @@
     "points_per_dollar": 2.6
   },
   {
+    "school": "Washington",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 64,
+    "difference": 8,
+    "performance_ratio": 1.143,
+    "points_per_dollar": 7.111
+  },
+  {
     "school": "Texas",
     "owner": "Jawad",
     "tier": "SEC",
@@ -218,17 +229,6 @@
     "difference": -26,
     "performance_ratio": 0.698,
     "points_per_dollar": 2.0
-  },
-  {
-    "school": "Washington",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 56,
-    "difference": 0,
-    "performance_ratio": 1.0,
-    "points_per_dollar": 6.222
   },
   {
     "school": "USC",
@@ -449,6 +449,17 @@
     "difference": -2,
     "performance_ratio": 0.9,
     "points_per_dollar": 6.0
+  },
+  {
+    "school": "Pittsburgh",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 17,
+    "actual": 18,
+    "difference": 1,
+    "performance_ratio": 1.059,
+    "points_per_dollar": 18.0
   },
   {
     "school": "South Carolina",

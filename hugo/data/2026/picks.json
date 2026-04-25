@@ -2053,5 +2053,35 @@
     "conference": "SEC",
     "player_id": "ef061771-18cd-4818-af94-28c93ad379d6",
     "owner": "Jared"
+  },
+  {
+    "pick": 138,
+    "round": 4,
+    "pick_in_round": 38,
+    "player": "Kyle Louis",
+    "school": "Pittsburgh",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Pennsylvania",
+    "conference": "ACC",
+    "player_id": "b9165975-96c6-4e4a-8627-0749bc691168",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 139,
+    "round": 4,
+    "pick_in_round": 39,
+    "player": "Ephesians Prysock",
+    "school": "Washington",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "fafe88f1-ccbb-4138-9e98-e3cd909078c6",
+    "owner": "Jawad"
   }
 ]
