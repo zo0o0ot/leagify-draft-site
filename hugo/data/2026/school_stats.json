@@ -11,6 +11,17 @@
     "points_per_dollar": 2.217
   },
   {
+    "school": "Miami (FL)",
+    "owner": "Tilo",
+    "tier": "ACC",
+    "bid": 48,
+    "projected": 150,
+    "actual": 150,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 3.125
+  },
+  {
     "school": "Texas A&M",
     "owner": "Jared",
     "tier": "SEC",
@@ -20,17 +31,6 @@
     "difference": 15,
     "performance_ratio": 1.111,
     "points_per_dollar": 3.061
-  },
-  {
-    "school": "Miami (FL)",
-    "owner": "Tilo",
-    "tier": "ACC",
-    "bid": 48,
-    "projected": 150,
-    "actual": 130,
-    "difference": -20,
-    "performance_ratio": 0.867,
-    "points_per_dollar": 2.708
   },
   {
     "school": "Clemson",
@@ -372,6 +372,17 @@
     "difference": -8,
     "performance_ratio": 0.714,
     "points_per_dollar": 2.857
+  },
+  {
+    "school": "Arkansas",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 5,
+    "projected": 40,
+    "actual": 20,
+    "difference": -20,
+    "performance_ratio": 0.5,
+    "points_per_dollar": 4.0
   },
   {
     "school": "South Carolina",

@@ -1438,5 +1438,35 @@
     "conference": "Big Ten",
     "player_id": "336fe8db-dd81-4509-b60f-418b564ed0c3",
     "owner": "Tilo"
+  },
+  {
+    "pick": 98,
+    "round": 3,
+    "pick_in_round": 34,
+    "player": "Jakobe Thomas",
+    "school": "Miami (FL)",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "d87b0beb-aa42-4e79-aa86-00276abf6ffb",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 99,
+    "round": 3,
+    "pick_in_round": 35,
+    "player": "Julian Neal",
+    "school": "Arkansas",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Arkansas",
+    "conference": "SEC",
+    "player_id": "24f44a54-8da3-407d-9ae6-fb803f7b1632",
+    "owner": "AJ"
   }
 ]

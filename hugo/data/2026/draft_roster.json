@@ -9,6 +9,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Arkansas",
+    "tier": "SEC",
+    "bid": 5,
+    "projected": 40,
+    "actual": 20
+  },
+  {
+    "owner": "AJ",
     "school": "Stanford",
     "tier": "Flex",
     "bid": 1,
@@ -21,14 +29,6 @@
     "tier": "SEC",
     "bid": 4,
     "projected": 36,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "Arkansas",
-    "tier": "SEC",
-    "bid": 5,
-    "projected": 40,
     "actual": 0
   },
   {
@@ -405,7 +405,7 @@
     "tier": "ACC",
     "bid": 48,
     "projected": 150,
-    "actual": 130
+    "actual": 150
   },
   {
     "owner": "Tilo",

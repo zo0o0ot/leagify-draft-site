@@ -5,18 +5,18 @@
     "rank": 1
   },
   {
+    "owner": "Tilo",
+    "points": 455,
+    "rank": 2
+  },
+  {
     "owner": "Jawad",
     "points": 450,
-    "rank": 2
+    "rank": 3
   },
   {
     "owner": "Netten",
     "points": 445,
-    "rank": 3
-  },
-  {
-    "owner": "Tilo",
-    "points": 435,
     "rank": 4
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "owner": "AJ",
-    "points": 55,
+    "points": 75,
     "rank": 6
   }
 ]

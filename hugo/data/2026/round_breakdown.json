@@ -8,8 +8,8 @@
   {
     "owner": "AJ",
     "round": 3,
-    "picks": 1,
-    "points": 20
+    "picks": 2,
+    "points": 40
   },
   {
     "owner": "Jared",
@@ -98,7 +98,7 @@
   {
     "owner": "Tilo",
     "round": 3,
-    "picks": 5,
-    "points": 60
+    "picks": 6,
+    "points": 80
   }
 ]
