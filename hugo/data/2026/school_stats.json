@@ -143,6 +143,17 @@
     "points_per_dollar": 4.5
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 87,
+    "difference": -7,
+    "performance_ratio": 0.926,
+    "points_per_dollar": 3.48
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -174,17 +185,6 @@
     "difference": -2,
     "performance_ratio": 0.977,
     "points_per_dollar": 2.8
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 81,
-    "difference": -13,
-    "performance_ratio": 0.862,
-    "points_per_dollar": 3.24
   },
   {
     "school": "Utah",
@@ -319,6 +319,17 @@
     "points_per_dollar": 10.5
   },
   {
+    "school": "Duke",
+    "owner": "Netten",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 29,
+    "actual": 41,
+    "difference": 12,
+    "performance_ratio": 1.414,
+    "points_per_dollar": 10.25
+  },
+  {
     "school": "UCF",
     "owner": "AJ",
     "tier": "Big 12",
@@ -361,17 +372,6 @@
     "difference": 23,
     "performance_ratio": 2.917,
     "points_per_dollar": 35.0
-  },
-  {
-    "school": "Duke",
-    "owner": "Netten",
-    "tier": "Flex",
-    "bid": 4,
-    "projected": 29,
-    "actual": 35,
-    "difference": 6,
-    "performance_ratio": 1.207,
-    "points_per_dollar": 8.75
   },
   {
     "school": "Ole Miss",

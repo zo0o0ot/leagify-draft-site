@@ -2818,5 +2818,35 @@
     "conference": "ACC",
     "player_id": "5f84f907-3c2d-45b7-b4c1-69212d35f289",
     "owner": "Tilo"
+  },
+  {
+    "pick": 189,
+    "round": 6,
+    "pick_in_round": 8,
+    "player": "Brian Parker II",
+    "school": "Duke",
+    "position": "OT",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "4df45179-621c-4bca-926d-7f4bd399010a",
+    "owner": "Netten"
+  },
+  {
+    "pick": 190,
+    "round": 6,
+    "pick_in_round": 9,
+    "player": "Barion Brown",
+    "school": "LSU",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "9c85bbe3-be38-41b3-9d8e-72047648f05a",
+    "owner": "Jawad"
   }
 ]

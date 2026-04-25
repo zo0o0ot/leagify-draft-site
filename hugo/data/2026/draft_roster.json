@@ -185,19 +185,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "LSU",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 87
+  },
+  {
+    "owner": "Jawad",
     "school": "Missouri",
     "tier": "Flex",
     "bid": 17,
     "projected": 60,
     "actual": 87
-  },
-  {
-    "owner": "Jawad",
-    "school": "LSU",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 81
   },
   {
     "owner": "Jawad",
@@ -289,17 +289,17 @@
   },
   {
     "owner": "Netten",
-    "school": "Georgia Tech",
-    "tier": "ACC",
-    "bid": 5,
-    "projected": 29,
-    "actual": 35
-  },
-  {
-    "owner": "Netten",
     "school": "Duke",
     "tier": "Flex",
     "bid": 4,
+    "projected": 29,
+    "actual": 41
+  },
+  {
+    "owner": "Netten",
+    "school": "Georgia Tech",
+    "tier": "ACC",
+    "bid": 5,
     "projected": 29,
     "actual": 35
   },
