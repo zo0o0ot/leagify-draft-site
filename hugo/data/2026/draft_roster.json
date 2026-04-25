@@ -13,7 +13,7 @@
     "tier": "SEC",
     "bid": 4,
     "projected": 36,
-    "actual": 42
+    "actual": 57
   },
   {
     "owner": "AJ",
@@ -257,19 +257,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Iowa",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 96
+  },
+  {
+    "owner": "Netten",
     "school": "Auburn",
     "tier": "Flex",
     "bid": 17,
     "projected": 61,
     "actual": 87
-  },
-  {
-    "owner": "Netten",
-    "school": "Iowa",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 81
   },
   {
     "owner": "Netten",

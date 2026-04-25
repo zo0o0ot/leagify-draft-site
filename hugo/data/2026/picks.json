@@ -3538,5 +3538,35 @@
     "conference": "FBS - MAC",
     "player_id": "c9e3c11a-7da8-4b70-b7b1-b7a4874c967f",
     "owner": "Netten"
+  },
+  {
+    "pick": 237,
+    "round": 7,
+    "pick_in_round": 21,
+    "player": "Seth McGowan",
+    "school": "Kentucky",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Kentucky",
+    "conference": "SEC",
+    "player_id": "ced78b60-d1f2-4bde-823e-8976ac74eccc",
+    "owner": "AJ"
+  },
+  {
+    "pick": 238,
+    "round": 7,
+    "pick_in_round": 22,
+    "player": "Max Llewellyn",
+    "school": "Iowa",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "9156d5f8-3504-4ba9-a6d6-5a1e911ac074",
+    "owner": "Netten"
   }
 ]

@@ -176,6 +176,17 @@
     "points_per_dollar": 6.0
   },
   {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 96,
+    "difference": 39,
+    "performance_ratio": 1.684,
+    "points_per_dollar": 3.692
+  },
+  {
     "school": "Washington",
     "owner": "Jawad",
     "tier": "Flex",
@@ -218,17 +229,6 @@
     "difference": -2,
     "performance_ratio": 0.977,
     "points_per_dollar": 2.8
-  },
-  {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 81,
-    "difference": 24,
-    "performance_ratio": 1.421,
-    "points_per_dollar": 3.115
   },
   {
     "school": "Utah",
@@ -297,6 +297,17 @@
     "points_per_dollar": 8.0
   },
   {
+    "school": "Kentucky",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 4,
+    "projected": 36,
+    "actual": 57,
+    "difference": 21,
+    "performance_ratio": 1.583,
+    "points_per_dollar": 14.25
+  },
+  {
     "school": "Georgia Tech",
     "owner": "Netten",
     "tier": "ACC",
@@ -328,17 +339,6 @@
     "difference": 5,
     "performance_ratio": 1.114,
     "points_per_dollar": 7.0
-  },
-  {
-    "school": "Kentucky",
-    "owner": "AJ",
-    "tier": "SEC",
-    "bid": 4,
-    "projected": 36,
-    "actual": 42,
-    "difference": 6,
-    "performance_ratio": 1.167,
-    "points_per_dollar": 10.5
   },
   {
     "school": "Illinois",
