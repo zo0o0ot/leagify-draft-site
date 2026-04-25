@@ -3448,5 +3448,35 @@
     "conference": "FBS - AAC",
     "player_id": "fd60dde7-cad5-4dd4-b088-5d9ae94cb5ef",
     "owner": ""
+  },
+  {
+    "pick": 231,
+    "round": 7,
+    "pick_in_round": 15,
+    "player": "Ethan Onianwa",
+    "school": "Ohio State",
+    "position": "G",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "0bff70f2-6e79-4439-a6bd-ba7fc621e496",
+    "owner": "Ross"
+  },
+  {
+    "pick": 232,
+    "round": 7,
+    "pick_in_round": 16,
+    "player": "Tim Keenan III",
+    "school": "Alabama",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "cf9c41e4-7042-4d9a-9aa7-a329fa4f077a",
+    "owner": "Jared"
   }
 ]

@@ -72,6 +72,12 @@
     "points": 140
   },
   {
+    "owner": "Jared",
+    "round": 7,
+    "picks": 1,
+    "points": 15
+  },
+  {
     "owner": "Jawad",
     "round": 1,
     "picks": 4,
@@ -194,8 +200,8 @@
   {
     "owner": "Ross",
     "round": 7,
-    "picks": 1,
-    "points": 15
+    "picks": 2,
+    "points": 20
   },
   {
     "owner": "Tilo",
