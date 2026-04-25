@@ -385,6 +385,17 @@
     "points_per_dollar": 4.0
   },
   {
+    "school": "Boston College",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 18,
+    "difference": -1,
+    "performance_ratio": 0.947,
+    "points_per_dollar": 18.0
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",

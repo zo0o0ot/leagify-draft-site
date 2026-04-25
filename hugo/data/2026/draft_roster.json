@@ -129,6 +129,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Boston College",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 19,
+    "actual": 18
+  },
+  {
+    "owner": "Jared",
     "school": "Vanderbilt",
     "tier": "Flex",
     "bid": 2,
@@ -149,14 +157,6 @@
     "tier": "Flex",
     "bid": 1,
     "projected": 22,
-    "actual": 0
-  },
-  {
-    "owner": "Jared",
-    "school": "Boston College",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 19,
     "actual": 0
   },
   {

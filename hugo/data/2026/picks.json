@@ -1483,5 +1483,20 @@
     "conference": "SEC",
     "player_id": "99cc357b-a5b9-4e4d-9044-33186af6c165",
     "owner": "Netten"
+  },
+  {
+    "pick": 102,
+    "round": 4,
+    "pick_in_round": 2,
+    "player": "Jude Bowry",
+    "school": "Boston College",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "26729df1-2ab7-4705-8555-834d858fa2a2",
+    "owner": "Jared"
   }
 ]
