@@ -143,6 +143,17 @@
     "points_per_dollar": 1.8
   },
   {
+    "school": "Michigan",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 20,
+    "projected": 56,
+    "actual": 45,
+    "difference": -11,
+    "performance_ratio": 0.804,
+    "points_per_dollar": 2.25
+  },
+  {
     "school": "USC",
     "owner": "Tilo",
     "tier": "Big Ten",
@@ -251,17 +262,6 @@
     "difference": 2,
     "performance_ratio": 1.071,
     "points_per_dollar": 15.0
-  },
-  {
-    "school": "Michigan",
-    "owner": "Jawad",
-    "tier": "Big Ten",
-    "bid": 20,
-    "projected": 56,
-    "actual": 30,
-    "difference": -26,
-    "performance_ratio": 0.536,
-    "points_per_dollar": 1.5
   },
   {
     "school": "Cincinnati",

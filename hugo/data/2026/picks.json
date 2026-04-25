@@ -868,5 +868,20 @@
     "conference": "FBS - MAC",
     "player_id": "8d63122e-a22e-4240-867d-7288da95e6c0",
     "owner": "Netten"
+  },
+  {
+    "pick": 59,
+    "round": 2,
+    "pick_in_round": 27,
+    "player": "Marlin Klein",
+    "school": "Michigan",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "6f21a32d-c7f6-456a-b6aa-01472d6d97b6",
+    "owner": "Jawad"
   }
 ]
