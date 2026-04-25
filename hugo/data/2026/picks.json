@@ -3223,5 +3223,20 @@
     "conference": "SEC",
     "player_id": "3a790fc0-6cf2-4dce-bdc9-d955c8e2dcc5",
     "owner": "Jawad"
+  },
+  {
+    "pick": 216,
+    "round": 6,
+    "pick_in_round": 35,
+    "player": "Trey Smack",
+    "school": "Florida",
+    "position": "K",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "4fbbc799-d322-47ca-acf2-845cd82cfb51",
+    "owner": "Netten"
   }
 ]
