@@ -5,10 +5,10 @@
     "tier": "Big Ten",
     "bid": 106,
     "projected": 207,
-    "actual": 175,
-    "difference": -32,
-    "performance_ratio": 0.845,
-    "points_per_dollar": 1.651
+    "actual": 190,
+    "difference": -17,
+    "performance_ratio": 0.918,
+    "points_per_dollar": 1.792
   },
   {
     "school": "Clemson",
@@ -295,6 +295,17 @@
     "difference": -9,
     "performance_ratio": 0.735,
     "points_per_dollar": 6.25
+  },
+  {
+    "school": "Texas",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 25,
+    "difference": -38,
+    "performance_ratio": 0.397,
+    "points_per_dollar": 1.25
   },
   {
     "school": "Tennessee",

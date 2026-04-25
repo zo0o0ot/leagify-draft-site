@@ -883,5 +883,35 @@
     "conference": "Big Ten",
     "player_id": "6f21a32d-c7f6-456a-b6aa-01472d6d97b6",
     "owner": "Jawad"
+  },
+  {
+    "pick": 60,
+    "round": 2,
+    "pick_in_round": 28,
+    "player": "Anthony Hill Jr.",
+    "school": "Texas",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "5ac470c0-0fa2-41fe-bbd9-400bf32dedff",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 61,
+    "round": 2,
+    "pick_in_round": 29,
+    "player": "Max Klare",
+    "school": "Ohio State",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "9f270d4d-f0f0-4d7a-a59d-71d25b2c7c92",
+    "owner": "Ross"
   }
 ]

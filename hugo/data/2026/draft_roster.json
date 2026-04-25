@@ -201,6 +201,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Texas",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 25
+  },
+  {
+    "owner": "Jawad",
     "school": "Washington",
     "tier": "Flex",
     "bid": 9,
@@ -214,14 +222,6 @@
     "bid": 20,
     "projected": 68,
     "actual": 20
-  },
-  {
-    "owner": "Jawad",
-    "school": "Texas",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 0
   },
   {
     "owner": "Jawad",
@@ -325,7 +325,7 @@
     "tier": "Big Ten",
     "bid": 106,
     "projected": 207,
-    "actual": 175
+    "actual": 190
   },
   {
     "owner": "Ross",
