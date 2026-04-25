@@ -3823,5 +3823,20 @@
     "conference": "Big 12",
     "player_id": "53ff9f8f-5ab5-4d13-b234-fda3e5a356e9",
     "owner": "Tilo"
+  },
+  {
+    "pick": 256,
+    "round": 7,
+    "pick_in_round": 40,
+    "player": "Dallen Bentley",
+    "school": "Utah",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Utah",
+    "conference": "Big 12",
+    "player_id": "ec0c22c7-9327-4813-95b3-4b7ab2f9a06d",
+    "owner": "Netten"
   }
 ]

@@ -220,6 +220,17 @@
     "points_per_dollar": 5.118
   },
   {
+    "school": "Utah",
+    "owner": "Netten",
+    "tier": "Big 12",
+    "bid": 20,
+    "projected": 77,
+    "actual": 85,
+    "difference": 8,
+    "performance_ratio": 1.104,
+    "points_per_dollar": 4.25
+  },
+  {
     "school": "Arizona State",
     "owner": "Tilo",
     "tier": "Big 12",
@@ -229,17 +240,6 @@
     "difference": -2,
     "performance_ratio": 0.977,
     "points_per_dollar": 2.8
-  },
-  {
-    "school": "Utah",
-    "owner": "Netten",
-    "tier": "Big 12",
-    "bid": 20,
-    "projected": 77,
-    "actual": 80,
-    "difference": 3,
-    "performance_ratio": 1.039,
-    "points_per_dollar": 4.0
   },
   {
     "school": "Arizona",
