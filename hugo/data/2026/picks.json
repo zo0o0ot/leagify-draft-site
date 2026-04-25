@@ -3613,5 +3613,35 @@
     "conference": "SEC",
     "player_id": "fc9dd0f1-089e-41fd-b314-ed60d94b0825",
     "owner": "Jared"
+  },
+  {
+    "pick": 242,
+    "round": 7,
+    "pick_in_round": 26,
+    "player": "Deven Eastern",
+    "school": "Minnesota",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Minnesota",
+    "conference": "Big Ten",
+    "player_id": "554dfb24-71c3-46c4-8b67-dcb1af06b513",
+    "owner": ""
+  },
+  {
+    "pick": 243,
+    "round": 7,
+    "pick_in_round": 27,
+    "player": "Aiden Fisher",
+    "school": "Indiana",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "42d063d7-5e69-45c8-a053-1a1b79e55b99",
+    "owner": "Netten"
   }
 ]

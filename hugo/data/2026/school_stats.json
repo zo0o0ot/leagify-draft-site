@@ -44,6 +44,17 @@
     "points_per_dollar": 4.286
   },
   {
+    "school": "Indiana",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 176,
+    "difference": 42,
+    "performance_ratio": 1.313,
+    "points_per_dollar": 4.093
+  },
+  {
     "school": "Clemson",
     "owner": "Tilo",
     "tier": "Flex",
@@ -53,17 +64,6 @@
     "difference": 29,
     "performance_ratio": 1.199,
     "points_per_dollar": 2.059
-  },
-  {
-    "school": "Indiana",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 43,
-    "projected": 134,
-    "actual": 161,
-    "difference": 27,
-    "performance_ratio": 1.201,
-    "points_per_dollar": 3.744
   },
   {
     "school": "Texas Tech",
