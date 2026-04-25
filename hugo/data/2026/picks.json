@@ -1245,6 +1245,21 @@
     "owner": "Netten"
   },
   {
+    "pick": 84,
+    "round": 3,
+    "pick_in_round": 20,
+    "player": "Ted Hurst",
+    "school": "Georgia State",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Georgia",
+    "conference": "FBS - Sun Belt",
+    "player_id": "526b24aa-3bd4-4026-afeb-57789ef3dece",
+    "owner": ""
+  },
+  {
     "pick": 85,
     "round": 3,
     "pick_in_round": 21,
@@ -1470,6 +1485,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 100,
+    "round": 3,
+    "pick_in_round": 36,
+    "player": "Jalen Huskey",
+    "school": "Maryland",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Maryland",
+    "conference": "Big Ten",
+    "player_id": "bf22e91b-6cd6-43c3-aaf1-d24ba88c1d7a",
+    "owner": ""
+  },
+  {
     "pick": 101,
     "round": 4,
     "pick_in_round": 1,
@@ -1513,6 +1543,21 @@
     "conference": "ACC",
     "player_id": "dfb73ae6-bb00-4560-9c3a-48081a8a4ab6",
     "owner": "Ross"
+  },
+  {
+    "pick": 104,
+    "round": 4,
+    "pick_in_round": 4,
+    "player": "Kaleb Proctor",
+    "school": "Southeastern Louisiana",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Louisiana",
+    "conference": "FCS",
+    "player_id": "77f40725-46ec-457e-a94e-83db386739b0",
+    "owner": ""
   },
   {
     "pick": 105,

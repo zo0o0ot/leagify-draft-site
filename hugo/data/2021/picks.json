@@ -315,6 +315,36 @@
     "owner": "Jawad"
   },
   {
+    "pick": 22,
+    "round": 1,
+    "pick_in_round": 22,
+    "player": "Caleb Farley",
+    "school": "Virginia Tech",
+    "position": "DB",
+    "experience": "SO",
+    "traded": false,
+    "points": 25,
+    "state": "Virginia",
+    "conference": "ACC",
+    "player_id": "48f19b1d-6da3-4fd3-82c7-39da63e09a96",
+    "owner": ""
+  },
+  {
+    "pick": 23,
+    "round": 1,
+    "pick_in_round": 23,
+    "player": "Christian Darrisaw",
+    "school": "Virginia Tech",
+    "position": "OL",
+    "experience": "JR",
+    "traded": true,
+    "points": 35,
+    "state": "Virginia",
+    "conference": "ACC",
+    "player_id": "4d2ed09d-9479-4f60-b242-99c37004d4a0",
+    "owner": ""
+  },
+  {
     "pick": 24,
     "round": 1,
     "pick_in_round": 24,
@@ -373,6 +403,21 @@
     "conference": "Big Ten",
     "player_id": "dcff64b5-9ecb-499f-93ec-6bb776d6c6ea",
     "owner": "AJ"
+  },
+  {
+    "pick": 28,
+    "round": 1,
+    "pick_in_round": 28,
+    "player": "Payton Turner",
+    "school": "Houston",
+    "position": "DE",
+    "experience": "SR",
+    "traded": false,
+    "points": 25,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "ad9727d8-1458-472a-85f1-4a7675af3cd9",
+    "owner": ""
   },
   {
     "pick": 29,
@@ -750,6 +795,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 54,
+    "round": 2,
+    "pick_in_round": 22,
+    "player": "Dayo Odeyingbo",
+    "school": "Vanderbilt",
+    "position": "DL",
+    "experience": "SR",
+    "traded": false,
+    "points": 15,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "ae473047-0091-411f-a966-6f4acd067039",
+    "owner": ""
+  },
+  {
     "pick": 55,
     "round": 2,
     "pick_in_round": 23,
@@ -763,6 +823,21 @@
     "conference": "Big Ten",
     "player_id": "1f506fde-8f99-4d2d-ae8a-6d4107e718de",
     "owner": "Jawad"
+  },
+  {
+    "pick": 56,
+    "round": 2,
+    "pick_in_round": 24,
+    "player": "D'Wayne Eskridge",
+    "school": "Western Michigan",
+    "position": "WR",
+    "experience": "SR",
+    "traded": false,
+    "points": 15,
+    "state": "Michigan",
+    "conference": "FBS - MAC",
+    "player_id": "dab36b9e-6f98-4c4f-8da6-549795db07e6",
+    "owner": ""
   },
   {
     "pick": 57,
@@ -1005,6 +1080,21 @@
     "owner": "Tilo"
   },
   {
+    "pick": 73,
+    "round": 3,
+    "pick_in_round": 9,
+    "player": "Milton Williams",
+    "school": "Louisiana Tech",
+    "position": "DL",
+    "experience": "JR",
+    "traded": true,
+    "points": 20,
+    "state": "Louisiana",
+    "conference": "FBS - CUSA",
+    "player_id": "e4030cdd-7bf7-40fd-b3cb-ddb2151e15cf",
+    "owner": ""
+  },
+  {
     "pick": 74,
     "round": 3,
     "pick_in_round": 10,
@@ -1018,6 +1108,21 @@
     "conference": "Big Ten",
     "player_id": "8ce53eb1-632e-4464-9fb3-aa1fd4ba54d3",
     "owner": "AJ"
+  },
+  {
+    "pick": 75,
+    "round": 3,
+    "pick_in_round": 11,
+    "player": "Osa Odighizuwa",
+    "school": "UCLA",
+    "position": "DL",
+    "experience": "SR",
+    "traded": false,
+    "points": 10,
+    "state": "California",
+    "conference": "Big Ten",
+    "player_id": "d3e5d492-2358-48ec-8605-9eef95cdd7c1",
+    "owner": ""
   },
   {
     "pick": 76,
@@ -1063,6 +1168,51 @@
     "conference": "ACC",
     "player_id": "0a4ab3d1-8463-46dd-b284-bb7e7acb66be",
     "owner": "Ross"
+  },
+  {
+    "pick": 79,
+    "round": 3,
+    "pick_in_round": 15,
+    "player": "Malcolm Koonce",
+    "school": "Buffalo",
+    "position": "DE",
+    "experience": "SR",
+    "traded": true,
+    "points": 20,
+    "state": "New York",
+    "conference": "FBS - MAC",
+    "player_id": "8bd4b896-d032-4141-8c77-50b14e37a5f5",
+    "owner": ""
+  },
+  {
+    "pick": 80,
+    "round": 3,
+    "pick_in_round": 16,
+    "player": "Divine Deablo",
+    "school": "Virginia Tech",
+    "position": "DB",
+    "experience": "SR",
+    "traded": false,
+    "points": 10,
+    "state": "Virginia",
+    "conference": "ACC",
+    "player_id": "53c93fff-20f4-4688-8459-b2e7e537c16b",
+    "owner": ""
+  },
+  {
+    "pick": 81,
+    "round": 3,
+    "pick_in_round": 17,
+    "player": "Hunter Long",
+    "school": "Boston College",
+    "position": "TE",
+    "experience": "JR",
+    "traded": false,
+    "points": 10,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "291afbce-9f9e-4490-b936-5e72185fb765",
+    "owner": ""
   },
   {
     "pick": 82,
@@ -1230,6 +1380,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 93,
+    "round": 3,
+    "pick_in_round": 29,
+    "player": "Spencer Brown",
+    "school": "Northern Iowa",
+    "position": "OL",
+    "experience": "SR",
+    "traded": false,
+    "points": 10,
+    "state": "Iowa",
+    "conference": "FCS",
+    "player_id": "26679425-dc48-44dd-83e3-350ca4ff927c",
+    "owner": ""
+  },
+  {
     "pick": 94,
     "round": 3,
     "pick_in_round": 30,
@@ -1288,6 +1453,21 @@
     "conference": "SEC",
     "player_id": "b61efcc7-621a-4df4-b729-bd2faafc398c",
     "owner": "Jared"
+  },
+  {
+    "pick": 98,
+    "round": 3,
+    "pick_in_round": 34,
+    "player": "Quinn Meinerz",
+    "school": "Wisconsin-Whitewater",
+    "position": "C",
+    "experience": "JR",
+    "traded": true,
+    "points": 20,
+    "state": "",
+    "conference": "",
+    "player_id": "f12bef19-bde3-4c78-a619-8d7dd3ab90d5",
+    "owner": ""
   },
   {
     "pick": 99,
@@ -1365,6 +1545,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 104,
+    "round": 3,
+    "pick_in_round": 40,
+    "player": "Brandon Stephens",
+    "school": "SMU",
+    "position": "CB",
+    "experience": "SR",
+    "traded": false,
+    "points": 10,
+    "state": "Texas",
+    "conference": "ACC",
+    "player_id": "b45dd369-7717-4ebc-8e24-78bbe027914a",
+    "owner": ""
+  },
+  {
     "pick": 105,
     "round": 3,
     "pick_in_round": 41,
@@ -1410,6 +1605,21 @@
     "owner": "Ross"
   },
   {
+    "pick": 108,
+    "round": 4,
+    "pick_in_round": 3,
+    "player": "Darren Hall",
+    "school": "San Diego State",
+    "position": "CB",
+    "experience": "JR",
+    "traded": false,
+    "points": 8,
+    "state": "California",
+    "conference": "FBS - Mountain West",
+    "player_id": "1e16c731-79ff-424b-aad7-2c6d4774df72",
+    "owner": ""
+  },
+  {
     "pick": 109,
     "round": 4,
     "pick_in_round": 4,
@@ -1438,6 +1648,21 @@
     "conference": "Big 12",
     "player_id": "5dde46ec-2bec-4a52-8b15-c7554ad4310c",
     "owner": "Tilo"
+  },
+  {
+    "pick": 111,
+    "round": 4,
+    "pick_in_round": 6,
+    "player": "Cameron Sample",
+    "school": "Tulane",
+    "position": "DE",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "Louisiana",
+    "conference": "FBS - AAC",
+    "player_id": "eb13e1b6-f3a3-43a3-ae61-a5ee349f61bd",
+    "owner": ""
   },
   {
     "pick": 112,
@@ -1500,6 +1725,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 116,
+    "round": 4,
+    "pick_in_round": 11,
+    "player": "Elerson G. Smith",
+    "school": "Northern Iowa",
+    "position": "DL",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "Iowa",
+    "conference": "FCS",
+    "player_id": "0a83bdf9-2884-4410-a40e-e020f15b5426",
+    "owner": ""
+  },
+  {
     "pick": 117,
     "round": 4,
     "pick_in_round": 12,
@@ -1530,6 +1770,21 @@
     "owner": "Ross"
   },
   {
+    "pick": 119,
+    "round": 4,
+    "pick_in_round": 14,
+    "player": "Kene Nwangwu",
+    "school": "Iowa State",
+    "position": "RB",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "Iowa",
+    "conference": "Big 12",
+    "player_id": "7999c6c6-0bae-444b-841b-d02f42ffbe98",
+    "owner": ""
+  },
+  {
     "pick": 120,
     "round": 4,
     "pick_in_round": 15,
@@ -1543,6 +1798,21 @@
     "conference": "SEC",
     "player_id": "4b51f8ad-723d-4af7-ba3e-de4766b26a78",
     "owner": "AJ"
+  },
+  {
+    "pick": 121,
+    "round": 4,
+    "pick_in_round": 16,
+    "player": "Jordan Smith",
+    "school": "UAB",
+    "position": "OLB",
+    "experience": "JR",
+    "traded": true,
+    "points": 18,
+    "state": "Alabama",
+    "conference": "FBS - AAC",
+    "player_id": "31217678-077b-40da-a255-a39c70d83efb",
+    "owner": ""
   },
   {
     "pick": 122,
@@ -1575,6 +1845,36 @@
     "owner": "Jared"
   },
   {
+    "pick": 124,
+    "round": 4,
+    "pick_in_round": 19,
+    "player": "John Bates",
+    "school": "Boise State",
+    "position": "TE",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "Idaho",
+    "conference": "FBS - Mountain West",
+    "player_id": "eee6f6a6-dd12-4f8b-9d50-1951497ca329",
+    "owner": ""
+  },
+  {
+    "pick": 125,
+    "round": 4,
+    "pick_in_round": 20,
+    "player": "Camryn Bynum",
+    "school": "California",
+    "position": "CB",
+    "experience": "SR",
+    "traded": true,
+    "points": 18,
+    "state": "California",
+    "conference": "ACC",
+    "player_id": "fa6efac7-4893-4e9f-91a6-456b7c2325d3",
+    "owner": ""
+  },
+  {
     "pick": 126,
     "round": 4,
     "pick_in_round": 21,
@@ -1590,6 +1890,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 127,
+    "round": 4,
+    "pick_in_round": 22,
+    "player": "Kylen Granson",
+    "school": "SMU",
+    "position": "TE",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "Texas",
+    "conference": "ACC",
+    "player_id": "d7336186-b1a4-45bb-9e83-9d2b54d60a75",
+    "owner": ""
+  },
+  {
     "pick": 128,
     "round": 4,
     "pick_in_round": 23,
@@ -1603,6 +1918,36 @@
     "conference": "SEC",
     "player_id": "3ad84e6c-0480-4426-831c-77af087cb9fe",
     "owner": "AJ"
+  },
+  {
+    "pick": 129,
+    "round": 4,
+    "pick_in_round": 24,
+    "player": "Jaelon Darden",
+    "school": "North Texas",
+    "position": "WR",
+    "experience": "SR",
+    "traded": true,
+    "points": 18,
+    "state": "Texas",
+    "conference": "FBS - AAC",
+    "player_id": "bcdb3b39-c96a-4585-9cda-67db327afd85",
+    "owner": ""
+  },
+  {
+    "pick": 130,
+    "round": 4,
+    "pick_in_round": 25,
+    "player": "Robert Rochell",
+    "school": "Central Arkansas",
+    "position": "DB",
+    "experience": "SR",
+    "traded": true,
+    "points": 18,
+    "state": "Arkansas",
+    "conference": "FCS",
+    "player_id": "699ea417-82d1-4e3e-9664-000733246c17",
+    "owner": ""
   },
   {
     "pick": 131,
@@ -1708,6 +2053,36 @@
     "conference": "SEC",
     "player_id": "4ff2469b-aeb2-4e77-b2fd-b53b60231882",
     "owner": "AJ"
+  },
+  {
+    "pick": 138,
+    "round": 4,
+    "pick_in_round": 33,
+    "player": "Josh Ball",
+    "school": "Marshall",
+    "position": "OL",
+    "experience": "SR",
+    "traded": false,
+    "points": 8,
+    "state": "West Virginia",
+    "conference": "FBS - CUSA",
+    "player_id": "6eb269b0-fb57-461a-be81-0fe38fe13e6c",
+    "owner": ""
+  },
+  {
+    "pick": 139,
+    "round": 4,
+    "pick_in_round": 34,
+    "player": "D'Ante Smith",
+    "school": "East Carolina",
+    "position": "OT",
+    "experience": "SR",
+    "traded": true,
+    "points": 18,
+    "state": "North Carolina",
+    "conference": "FBS - AAC",
+    "player_id": "7dea576a-99bb-4a92-8030-ee2396deae39",
+    "owner": ""
   },
   {
     "pick": 140,
@@ -1935,6 +2310,21 @@
     "owner": "Ross"
   },
   {
+    "pick": 155,
+    "round": 5,
+    "pick_in_round": 11,
+    "player": "Jaylon Moore",
+    "school": "Western Michigan",
+    "position": "OT",
+    "experience": "SR",
+    "traded": false,
+    "points": 7,
+    "state": "Michigan",
+    "conference": "FBS - MAC",
+    "player_id": "cec9df24-f6f9-4da9-bfb3-b6309f4f1c20",
+    "owner": ""
+  },
+  {
     "pick": 156,
     "round": 5,
     "pick_in_round": 12,
@@ -1980,6 +2370,21 @@
     "owner": "Tilo"
   },
   {
+    "pick": 159,
+    "round": 5,
+    "pick_in_round": 15,
+    "player": "Brenden Jaimes",
+    "school": "Nebraska",
+    "position": "OL",
+    "experience": "SR",
+    "traded": false,
+    "points": 7,
+    "state": "Nebraska",
+    "conference": "Big Ten",
+    "player_id": "50badc89-38ec-4a17-a63a-46c2df2fe11c",
+    "owner": ""
+  },
+  {
     "pick": 160,
     "round": 5,
     "pick_in_round": 16,
@@ -1993,6 +2398,21 @@
     "conference": "Big Ten",
     "player_id": "4914c2eb-586f-4328-abdd-2497e143a52c",
     "owner": "Tilo"
+  },
+  {
+    "pick": 161,
+    "round": 5,
+    "pick_in_round": 17,
+    "player": "Tommy Doyle",
+    "school": "Miami (OH)",
+    "position": "OL",
+    "experience": "SR",
+    "traded": true,
+    "points": 17,
+    "state": "Ohio",
+    "conference": "FBS - MAC",
+    "player_id": "0dd89b3c-5981-4403-a30a-6e017784e243",
+    "owner": ""
   },
   {
     "pick": 162,
@@ -2083,6 +2503,21 @@
     "conference": "Big Ten",
     "player_id": "f0bc8683-69d9-4c08-aeee-d05ee618fe99",
     "owner": "Ross"
+  },
+  {
+    "pick": 168,
+    "round": 5,
+    "pick_in_round": 24,
+    "player": "Zach Davidson",
+    "school": "Central Missouri",
+    "position": "TE",
+    "experience": "SR",
+    "traded": true,
+    "points": 17,
+    "state": "Missouri",
+    "conference": "D2",
+    "player_id": "4d902f27-5df2-48cc-8bf0-6e59faa2d5c4",
+    "owner": ""
   },
   {
     "pick": 169,
@@ -2220,6 +2655,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 178,
+    "round": 5,
+    "pick_in_round": 34,
+    "player": "Shemar Jean-Charles",
+    "school": "Appalachian State",
+    "position": "DB",
+    "experience": "SR",
+    "traded": false,
+    "points": 7,
+    "state": "North Carolina",
+    "conference": "FBS - Sun Belt",
+    "player_id": "b537dd12-02e2-40ad-b359-eff69203e831",
+    "owner": ""
+  },
+  {
     "pick": 179,
     "round": 5,
     "pick_in_round": 35,
@@ -2280,6 +2730,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 183,
+    "round": 5,
+    "pick_in_round": 39,
+    "player": "Avery Williams",
+    "school": "Boise State",
+    "position": "CB",
+    "experience": "SR",
+    "traded": false,
+    "points": 7,
+    "state": "Idaho",
+    "conference": "FBS - Mountain West",
+    "player_id": "9fcb8160-d753-4df4-bc3f-0a6619fb3a50",
+    "owner": ""
+  },
+  {
     "pick": 184,
     "round": 5,
     "pick_in_round": 40,
@@ -2323,6 +2788,21 @@
     "conference": "ACC",
     "player_id": "4d4424ce-7708-490b-9298-3d45e0e9bc1c",
     "owner": "Ross"
+  },
+  {
+    "pick": 187,
+    "round": 6,
+    "pick_in_round": 3,
+    "player": "Frank Darby",
+    "school": "Arizona State",
+    "position": "WR",
+    "experience": "GR",
+    "traded": false,
+    "points": 6,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "e3408a3a-cd71-4816-b456-3626a213f40c",
+    "owner": ""
   },
   {
     "pick": 188,
@@ -2370,6 +2850,21 @@
     "owner": "Jared"
   },
   {
+    "pick": 191,
+    "round": 6,
+    "pick_in_round": 7,
+    "player": "Tarron Jackson",
+    "school": "Coastal Carolina",
+    "position": "DE",
+    "experience": "SR",
+    "traded": true,
+    "points": 16,
+    "state": "South Carolina",
+    "conference": "FCS",
+    "player_id": "ed48c244-d791-44ac-b3dc-daf4891a23e7",
+    "owner": ""
+  },
+  {
     "pick": 192,
     "round": 6,
     "pick_in_round": 8,
@@ -2398,6 +2893,66 @@
     "conference": "SEC",
     "player_id": "0152ec97-74b5-4ee1-8b99-4d94fd11e94a",
     "owner": "Ross"
+  },
+  {
+    "pick": 194,
+    "round": 6,
+    "pick_in_round": 10,
+    "player": "Elijah Mitchell",
+    "school": "Louisiana-Lafayette",
+    "position": "RB",
+    "experience": "SR",
+    "traded": false,
+    "points": 6,
+    "state": "Louisiana",
+    "conference": "FBS - Sun Belt",
+    "player_id": "cd6c997f-c03c-4c24-85ee-3deecae3d096",
+    "owner": ""
+  },
+  {
+    "pick": 195,
+    "round": 6,
+    "pick_in_round": 11,
+    "player": "Roy Lopez",
+    "school": "Arizona",
+    "position": "DL",
+    "experience": "GR",
+    "traded": true,
+    "points": 16,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "b3e26941-2a74-4b73-bd08-b1ade7eaa94c",
+    "owner": ""
+  },
+  {
+    "pick": 196,
+    "round": 6,
+    "pick_in_round": 12,
+    "player": "Gary Brightwell",
+    "school": "Arizona",
+    "position": "RB",
+    "experience": "SR",
+    "traded": false,
+    "points": 6,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "e270f09a-0adb-4dce-9a19-140330ed294c",
+    "owner": ""
+  },
+  {
+    "pick": 197,
+    "round": 6,
+    "pick_in_round": 13,
+    "player": "William Sherman",
+    "school": "Colorado",
+    "position": "OL",
+    "experience": "JR",
+    "traded": false,
+    "points": 6,
+    "state": "Colorado",
+    "conference": "Big 12",
+    "player_id": "90232eea-4455-4aaf-aa3d-e361454aa911",
+    "owner": ""
   },
   {
     "pick": 198,
@@ -2475,6 +3030,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 203,
+    "round": 6,
+    "pick_in_round": 19,
+    "player": "Marquez Stevenson",
+    "school": "Houston",
+    "position": "WR",
+    "experience": "SR",
+    "traded": true,
+    "points": 16,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "45032870-c805-433b-9cd7-8e8042762c35",
+    "owner": ""
+  },
+  {
     "pick": 204,
     "round": 6,
     "pick_in_round": 20,
@@ -2520,6 +3090,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 207,
+    "round": 6,
+    "pick_in_round": 23,
+    "player": "Jonathan Marshall",
+    "school": "Arkansas",
+    "position": "DL",
+    "experience": "SR",
+    "traded": true,
+    "points": 16,
+    "state": "Arkansas",
+    "conference": "SEC",
+    "player_id": "442d6fa9-8101-4a47-a5f0-85e52a4984b0",
+    "owner": ""
+  },
+  {
     "pick": 208,
     "round": 6,
     "pick_in_round": 24,
@@ -2535,6 +3120,21 @@
     "owner": "Tilo"
   },
   {
+    "pick": 209,
+    "round": 6,
+    "pick_in_round": 25,
+    "player": "Jalen Camp",
+    "school": "Georgia Tech",
+    "position": "WR",
+    "experience": "SR",
+    "traded": true,
+    "points": 16,
+    "state": "Georgia",
+    "conference": "ACC",
+    "player_id": "f55e1459-13ad-4389-a21a-a119425d443f",
+    "owner": ""
+  },
+  {
     "pick": 210,
     "round": 6,
     "pick_in_round": 26,
@@ -2548,6 +3148,21 @@
     "conference": "ACC",
     "player_id": "530b0e35-9f2a-4ff2-8941-4e4da17ec7ff",
     "owner": "Ross"
+  },
+  {
+    "pick": 211,
+    "round": 6,
+    "pick_in_round": 27,
+    "player": "Demetric Felton",
+    "school": "UCLA",
+    "position": "RB",
+    "experience": "SR",
+    "traded": false,
+    "points": 6,
+    "state": "California",
+    "conference": "Big Ten",
+    "player_id": "3fb4b354-3454-4381-bcf7-7c5e509a0a57",
+    "owner": ""
   },
   {
     "pick": 212,
@@ -2625,6 +3240,21 @@
     "owner": "AJ"
   },
   {
+    "pick": 217,
+    "round": 6,
+    "pick_in_round": 33,
+    "player": "Khalil Herbert",
+    "school": "Virginia Tech",
+    "position": "RB",
+    "experience": "GR",
+    "traded": true,
+    "points": 16,
+    "state": "Virginia",
+    "conference": "ACC",
+    "player_id": "3fde3b7e-e469-4e9d-91ec-d258accc34d6",
+    "owner": ""
+  },
+  {
     "pick": 218,
     "round": 6,
     "pick_in_round": 34,
@@ -2653,6 +3283,21 @@
     "conference": "SEC",
     "player_id": "4c8e7b7b-fbbc-4a9c-a772-bd5269f08d77",
     "owner": "AJ"
+  },
+  {
+    "pick": 220,
+    "round": 6,
+    "pick_in_round": 36,
+    "player": "Isaiah McDuffie",
+    "school": "Boston College",
+    "position": "LB",
+    "experience": "JR",
+    "traded": false,
+    "points": 6,
+    "state": "Massachusetts",
+    "conference": "ACC",
+    "player_id": "55e3c756-1cfc-45af-b97b-558389898f80",
+    "owner": ""
   },
   {
     "pick": 221,
@@ -2775,6 +3420,21 @@
     "owner": "Tilo"
   },
   {
+    "pick": 229,
+    "round": 7,
+    "pick_in_round": 1,
+    "player": "Mike Strachan",
+    "school": "Charleston (WV)",
+    "position": "WR",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "",
+    "conference": "",
+    "player_id": "98c55388-cba8-4e5c-ad61-d1c30a4fa6fc",
+    "owner": ""
+  },
+  {
     "pick": 230,
     "round": 7,
     "pick_in_round": 2,
@@ -2790,6 +3450,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 231,
+    "round": 7,
+    "pick_in_round": 3,
+    "player": "Larnel Coleman",
+    "school": "Massachusetts",
+    "position": "OT",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "Massachusetts",
+    "conference": "FBS - MAC",
+    "player_id": "0006610f-3fa7-4f76-bdb1-d7afe4a0097f",
+    "owner": ""
+  },
+  {
     "pick": 232,
     "round": 7,
     "pick_in_round": 4,
@@ -2803,6 +3478,36 @@
     "conference": "SEC",
     "player_id": "e3f29e93-7175-40a9-96ff-37984a42bed0",
     "owner": "AJ"
+  },
+  {
+    "pick": 233,
+    "round": 7,
+    "pick_in_round": 5,
+    "player": "Jake Funk",
+    "school": "Maryland",
+    "position": "RB",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "Maryland",
+    "conference": "Big Ten",
+    "player_id": "369ce8ec-3f7a-4c06-a060-5115ac28ec46",
+    "owner": ""
+  },
+  {
+    "pick": 234,
+    "round": 7,
+    "pick_in_round": 6,
+    "player": "Patrick Johnson",
+    "school": "Tulane",
+    "position": "DE",
+    "experience": "SR",
+    "traded": false,
+    "points": 5,
+    "state": "Louisiana",
+    "conference": "FBS - AAC",
+    "player_id": "c9101fbf-0e35-4c38-aefa-5c5367bd807a",
+    "owner": ""
   },
   {
     "pick": 235,
@@ -2850,6 +3555,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 238,
+    "round": 7,
+    "pick_in_round": 10,
+    "player": "Matt Farniok",
+    "school": "Nebraska",
+    "position": "G",
+    "experience": "SR",
+    "traded": false,
+    "points": 5,
+    "state": "Nebraska",
+    "conference": "Big Ten",
+    "player_id": "d877ffe1-6a7c-4bb4-865e-b2a7f89d980f",
+    "owner": ""
+  },
+  {
     "pick": 239,
     "round": 7,
     "pick_in_round": 11,
@@ -2863,6 +3583,21 @@
     "conference": "Big Ten",
     "player_id": "e7c2c407-ec99-4c53-b97e-ac9888ef8648",
     "owner": "Tilo"
+  },
+  {
+    "pick": 240,
+    "round": 7,
+    "pick_in_round": 12,
+    "player": "William Bradley-King",
+    "school": "Baylor",
+    "position": "OLB",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "151cdfd7-920c-4ade-a8be-b405e1825587",
+    "owner": ""
   },
   {
     "pick": 241,
@@ -3030,6 +3765,21 @@
     "owner": "Jawad"
   },
   {
+    "pick": 252,
+    "round": 7,
+    "pick_in_round": 24,
+    "player": "Chris Garrett",
+    "school": "Concordia-St. Paul",
+    "position": "DE",
+    "experience": "SR",
+    "traded": false,
+    "points": 5,
+    "state": "",
+    "conference": "",
+    "player_id": "946e4c0c-e87e-46bf-b1ff-7a2c22712c41",
+    "owner": ""
+  },
+  {
     "pick": 253,
     "round": 7,
     "pick_in_round": 25,
@@ -3043,6 +3793,36 @@
     "conference": "SEC",
     "player_id": "3246ecf8-e147-45c5-977a-6108f069afe4",
     "owner": "Tilo"
+  },
+  {
+    "pick": 254,
+    "round": 7,
+    "pick_in_round": 26,
+    "player": "Pressley Harvin III",
+    "school": "Georgia Tech",
+    "position": "P",
+    "experience": "SR",
+    "traded": true,
+    "points": 15,
+    "state": "Georgia",
+    "conference": "ACC",
+    "player_id": "bf945982-5ab2-4f54-833c-45789b4f5292",
+    "owner": ""
+  },
+  {
+    "pick": 255,
+    "round": 7,
+    "pick_in_round": 27,
+    "player": "Kawaan Baker",
+    "school": "South Alabama",
+    "position": "WR",
+    "experience": "SR",
+    "traded": false,
+    "points": 5,
+    "state": "Alabama",
+    "conference": "FBS - Sun Belt",
+    "player_id": "3d71abd8-e502-4a50-ac89-89266bbc9ff1",
+    "owner": ""
   },
   {
     "pick": 256,
@@ -3088,5 +3868,20 @@
     "conference": "",
     "player_id": "aac4a85c-d049-4140-b15d-f8386266c06e",
     "owner": "Jawad"
+  },
+  {
+    "pick": 259,
+    "round": 7,
+    "pick_in_round": 31,
+    "player": "Grant Stuard",
+    "school": "Houston",
+    "position": "LB",
+    "experience": "SR",
+    "traded": false,
+    "points": 5,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "d152f273-d87d-4501-87cb-d41505ef085f",
+    "owner": ""
   }
 ]
