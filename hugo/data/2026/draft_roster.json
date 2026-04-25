@@ -265,6 +265,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Tennessee",
+    "tier": "SEC",
+    "bid": 27,
+    "projected": 98,
+    "actual": 48
+  },
+  {
+    "owner": "Netten",
     "school": "Auburn",
     "tier": "Flex",
     "bid": 17,
@@ -286,14 +294,6 @@
     "bid": 5,
     "projected": 29,
     "actual": 35
-  },
-  {
-    "owner": "Netten",
-    "school": "Tennessee",
-    "tier": "SEC",
-    "bid": 27,
-    "projected": 98,
-    "actual": 30
   },
   {
     "owner": "Netten",

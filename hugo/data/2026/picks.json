@@ -1468,5 +1468,20 @@
     "conference": "SEC",
     "player_id": "24f44a54-8da3-407d-9ae6-fb803f7b1632",
     "owner": "AJ"
+  },
+  {
+    "pick": 101,
+    "round": 4,
+    "pick_in_round": 1,
+    "player": "Jermod McCoy",
+    "school": "Tennessee",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "99cc357b-a5b9-4e4d-9044-33186af6c165",
+    "owner": "Netten"
   }
 ]
