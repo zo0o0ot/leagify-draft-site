@@ -2638,5 +2638,20 @@
     "conference": "Big 12",
     "player_id": "62143af3-af14-46aa-b5fe-9688d18b2a2a",
     "owner": "Ross"
+  },
+  {
+    "pick": 177,
+    "round": 5,
+    "pick_in_round": 37,
+    "player": "Kevin Coleman Jr.",
+    "school": "Missouri",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "4840d750-aa92-4c5d-909e-e94ec18455d6",
+    "owner": "Jawad"
   }
 ]
