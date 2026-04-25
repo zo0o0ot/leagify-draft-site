@@ -2263,5 +2263,35 @@
     "conference": "Big Ten",
     "player_id": "b7d693e0-e130-430a-b1b3-d1e8ba481431",
     "owner": "Jawad"
+  },
+  {
+    "pick": 152,
+    "round": 5,
+    "pick_in_round": 12,
+    "player": "Justin Joly",
+    "school": "North Carolina State",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "44284255-bacb-4db5-b5bb-eb8812d6729d",
+    "owner": "AJ"
+  },
+  {
+    "pick": 153,
+    "round": 5,
+    "pick_in_round": 13,
+    "player": "Jager Burton",
+    "school": "Kentucky",
+    "position": "C",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Kentucky",
+    "conference": "SEC",
+    "player_id": "a1cc0014-a8a9-4757-8d1f-3546e4f13466",
+    "owner": "AJ"
   }
 ]

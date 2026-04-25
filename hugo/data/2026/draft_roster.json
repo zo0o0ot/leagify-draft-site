@@ -17,6 +17,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Kentucky",
+    "tier": "SEC",
+    "bid": 4,
+    "projected": 36,
+    "actual": 25
+  },
+  {
+    "owner": "AJ",
     "school": "Stanford",
     "tier": "Flex",
     "bid": 1,
@@ -25,11 +33,11 @@
   },
   {
     "owner": "AJ",
-    "school": "Kentucky",
-    "tier": "SEC",
-    "bid": 4,
-    "projected": 36,
-    "actual": 8
+    "school": "North Carolina State",
+    "tier": "ACC",
+    "bid": 1,
+    "projected": 20,
+    "actual": 17
   },
   {
     "owner": "AJ",
@@ -45,14 +53,6 @@
     "tier": "Big Ten",
     "bid": 1,
     "projected": 10,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "North Carolina State",
-    "tier": "ACC",
-    "bid": 1,
-    "projected": 20,
     "actual": 0
   },
   {
