@@ -425,19 +425,19 @@
   },
   {
     "owner": "Tilo",
+    "school": "Arizona",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 80
+  },
+  {
+    "owner": "Tilo",
     "school": "USC",
     "tier": "Big Ten",
     "bid": 24,
     "projected": 68,
     "actual": 67
-  },
-  {
-    "owner": "Tilo",
-    "school": "Arizona",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 28,
-    "actual": 65
   },
   {
     "owner": "Tilo",

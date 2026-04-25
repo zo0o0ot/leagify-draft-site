@@ -242,6 +242,17 @@
     "points_per_dollar": 4.0
   },
   {
+    "school": "Arizona",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 80,
+    "difference": 52,
+    "performance_ratio": 2.857,
+    "points_per_dollar": 40.0
+  },
+  {
     "school": "Arkansas",
     "owner": "AJ",
     "tier": "SEC",
@@ -273,17 +284,6 @@
     "difference": -1,
     "performance_ratio": 0.985,
     "points_per_dollar": 2.792
-  },
-  {
-    "school": "Arizona",
-    "owner": "Tilo",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 28,
-    "actual": 65,
-    "difference": 37,
-    "performance_ratio": 2.321,
-    "points_per_dollar": 32.5
   },
   {
     "school": "Cincinnati",

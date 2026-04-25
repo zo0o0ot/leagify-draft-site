@@ -3808,5 +3808,20 @@
     "conference": "SEC",
     "player_id": "0fa01ae1-2d2b-48c2-8113-43c236f56974",
     "owner": "Jawad"
+  },
+  {
+    "pick": 255,
+    "round": 7,
+    "pick_in_round": 39,
+    "player": "Michael Dansby",
+    "school": "Arizona",
+    "position": "DB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "53ff9f8f-5ab5-4d13-b234-fda3e5a356e9",
+    "owner": "Tilo"
   }
 ]
