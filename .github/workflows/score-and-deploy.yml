@@ -4,13 +4,13 @@ on:
   schedule:
   # Draft windows (all times UTC, draft is CDT = UTC-5):
   # Day 1 (Thu Apr 23): 6PM-11PM CDT = 23:00 UTC Apr 23 – 04:00 UTC Apr 24
-  - cron: '*/5 23 23 4 *'
-  - cron: '*/5 0-4 24 4 *'
+  - cron: '*/3 23 23 4 *'
+  - cron: '*/3 0-4 24 4 *'
   # Day 2 (Fri Apr 24): 5PM-11PM CDT = 22:00 UTC Apr 24 – 04:00 UTC Apr 25
-  - cron: '*/5 22-23 24 4 *'
-  - cron: '*/5 0-4 25 4 *'
+  - cron: '*/3 22-23 24 4 *'
+  - cron: '*/3 0-4 25 4 *'
   # Day 3 (Sat Apr 25): 10AM-6PM CDT = 15:00 UTC Apr 25 – 23:00 UTC Apr 25
-  - cron: '*/5 15-23 25 4 *'
+  - cron: '*/3 15-23 25 4 *'
   # Manual trigger — optionally score a single year
   workflow_dispatch:
     inputs:
