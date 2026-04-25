@@ -3103,5 +3103,20 @@
     "conference": "SEC",
     "player_id": "197ccd94-6155-460f-a86f-e6f6457e2ab6",
     "owner": "Ross"
+  },
+  {
+    "pick": 208,
+    "round": 6,
+    "pick_in_round": 27,
+    "player": "Anterio Thompson",
+    "school": "Washington",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "f74cf887-a435-440b-9e86-2e6ec0ae61ba",
+    "owner": "Jawad"
   }
 ]

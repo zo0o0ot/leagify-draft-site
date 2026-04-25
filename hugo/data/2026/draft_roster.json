@@ -209,19 +209,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Washington",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 80
+  },
+  {
+    "owner": "Jawad",
     "school": "Oklahoma",
     "tier": "Flex",
     "bid": 20,
     "projected": 68,
     "actual": 74
-  },
-  {
-    "owner": "Jawad",
-    "school": "Washington",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 64
   },
   {
     "owner": "Jawad",
