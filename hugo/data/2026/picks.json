@@ -1993,5 +1993,20 @@
     "conference": "ACC",
     "player_id": "e818f22b-9af2-4200-b1ba-295c12565bb7",
     "owner": "Jared"
+  },
+  {
+    "pick": 134,
+    "round": 4,
+    "pick_in_round": 34,
+    "player": "Kendal Daniels",
+    "school": "Oklahoma",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "30070ffe-9ec9-4559-beb4-112c8a94ac33",
+    "owner": "Jawad"
   }
 ]
