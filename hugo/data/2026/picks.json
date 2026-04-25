@@ -1873,5 +1873,20 @@
     "conference": "",
     "player_id": "7d8c3c92-abd9-4d7f-ac3a-1820d8cc1cec",
     "owner": "Ross"
+  },
+  {
+    "pick": 126,
+    "round": 4,
+    "pick_in_round": 26,
+    "player": "Kaleb Elarms-Orr",
+    "school": "TCU",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "f080bf14-7a57-4f74-8346-dc99cb715c29",
+    "owner": "Jawad"
   }
 ]

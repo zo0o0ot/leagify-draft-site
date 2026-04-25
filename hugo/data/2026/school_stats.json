@@ -363,6 +363,17 @@
     "points_per_dollar": 6.25
   },
   {
+    "school": "TCU",
+    "owner": "Jawad",
+    "tier": "Big 12",
+    "bid": 3,
+    "projected": 29,
+    "actual": 23,
+    "difference": -6,
+    "performance_ratio": 0.793,
+    "points_per_dollar": 7.667
+  },
+  {
     "school": "Stanford",
     "owner": "AJ",
     "tier": "Flex",
@@ -449,17 +460,6 @@
     "difference": -14,
     "performance_ratio": 0.517,
     "points_per_dollar": 7.5
-  },
-  {
-    "school": "TCU",
-    "owner": "Jawad",
-    "tier": "Big 12",
-    "bid": 3,
-    "projected": 29,
-    "actual": 15,
-    "difference": -14,
-    "performance_ratio": 0.517,
-    "points_per_dollar": 5.0
   },
   {
     "school": "Iowa State",
