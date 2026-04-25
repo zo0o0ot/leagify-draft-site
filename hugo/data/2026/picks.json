@@ -1003,5 +1003,20 @@
     "conference": "SEC",
     "player_id": "ff6e4772-10dc-4cce-9ea6-411c03408f2b",
     "owner": "Netten"
+  },
+  {
+    "pick": 68,
+    "round": 3,
+    "pick_in_round": 4,
+    "player": "Markel Bell",
+    "school": "Miami (FL)",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "e1fdb3bd-b7e3-4771-80ec-726ce617dcdd",
+    "owner": "Tilo"
   }
 ]
