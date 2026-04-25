@@ -2578,5 +2578,20 @@
     "conference": "Big Ten",
     "player_id": "656c1853-f1a9-4b55-961b-18b20309a933",
     "owner": "Ross"
+  },
+  {
+    "pick": 173,
+    "round": 5,
+    "pick_in_round": 33,
+    "player": "Josh Cuevas",
+    "school": "Alabama",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "f35f5e5e-23fd-417a-9a63-983d5b4a7a1d",
+    "owner": "Jared"
   }
 ]
