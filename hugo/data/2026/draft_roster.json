@@ -49,6 +49,14 @@
   },
   {
     "owner": "AJ",
+    "school": "BYU",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 15,
+    "actual": 31
+  },
+  {
+    "owner": "AJ",
     "school": "Wake Forest",
     "tier": "Flex",
     "bid": 1,
@@ -62,14 +70,6 @@
     "bid": 1,
     "projected": 16,
     "actual": 17
-  },
-  {
-    "owner": "AJ",
-    "school": "BYU",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 15,
-    "actual": 16
   },
   {
     "owner": "AJ",
@@ -177,6 +177,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "LSU",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 118
+  },
+  {
+    "owner": "Jawad",
     "school": "Texas",
     "tier": "SEC",
     "bid": 20,
@@ -190,14 +198,6 @@
     "bid": 20,
     "projected": 68,
     "actual": 104
-  },
-  {
-    "owner": "Jawad",
-    "school": "LSU",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 103
   },
   {
     "owner": "Jawad",

@@ -3703,5 +3703,35 @@
     "conference": "ACC",
     "player_id": "0b192776-6af1-4cee-888f-c243a6566dd7",
     "owner": "Jared"
+  },
+  {
+    "pick": 248,
+    "round": 7,
+    "pick_in_round": 32,
+    "player": "Carsen Ryan",
+    "school": "BYU",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Utah",
+    "conference": "Big 12",
+    "player_id": "b3116e49-2110-45ef-90e0-2f0ce7ea0d43",
+    "owner": "AJ"
+  },
+  {
+    "pick": 249,
+    "round": 7,
+    "pick_in_round": 33,
+    "player": "Garrett Nussmeier",
+    "school": "LSU",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "aadfe3c6-d496-4158-8287-a272a3f2d318",
+    "owner": "Jawad"
   }
 ]

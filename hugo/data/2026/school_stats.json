@@ -132,6 +132,17 @@
     "points_per_dollar": 3.324
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 118,
+    "difference": 24,
+    "performance_ratio": 1.255,
+    "points_per_dollar": 4.72
+  },
+  {
     "school": "Texas",
     "owner": "Jawad",
     "tier": "SEC",
@@ -152,17 +163,6 @@
     "difference": 36,
     "performance_ratio": 1.529,
     "points_per_dollar": 5.2
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 103,
-    "difference": 9,
-    "performance_ratio": 1.096,
-    "points_per_dollar": 4.12
   },
   {
     "school": "Missouri",
@@ -473,6 +473,17 @@
     "points_per_dollar": 32.0
   },
   {
+    "school": "BYU",
+    "owner": "AJ",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 15,
+    "actual": 31,
+    "difference": 16,
+    "performance_ratio": 2.067,
+    "points_per_dollar": 31.0
+  },
+  {
     "school": "TCU",
     "owner": "Jawad",
     "tier": "Big 12",
@@ -559,17 +570,6 @@
     "difference": 1,
     "performance_ratio": 1.062,
     "points_per_dollar": 17.0
-  },
-  {
-    "school": "BYU",
-    "owner": "AJ",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 15,
-    "actual": 16,
-    "difference": 1,
-    "performance_ratio": 1.067,
-    "points_per_dollar": 16.0
   },
   {
     "school": "Vanderbilt",
