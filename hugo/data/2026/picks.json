@@ -808,5 +808,20 @@
     "conference": "SEC",
     "player_id": "f32fcef0-956f-41e5-b6fc-81c5f91d1a9d",
     "owner": "Jared"
+  },
+  {
+    "pick": 55,
+    "round": 2,
+    "pick_in_round": 23,
+    "player": "Gabe Jacas",
+    "school": "Illinois",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Illinois",
+    "conference": "Big Ten",
+    "player_id": "17f58c6c-d050-49b3-b7ab-3eda865f4fca",
+    "owner": "Jared"
   }
 ]

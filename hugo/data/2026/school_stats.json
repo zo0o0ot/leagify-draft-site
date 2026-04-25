@@ -275,6 +275,17 @@
     "points_per_dollar": 3.125
   },
   {
+    "school": "Illinois",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 12,
+    "projected": 40,
+    "actual": 25,
+    "difference": -15,
+    "performance_ratio": 0.625,
+    "points_per_dollar": 2.083
+  },
+  {
     "school": "Tennessee",
     "owner": "Netten",
     "tier": "SEC",
