@@ -187,6 +187,17 @@
     "points_per_dollar": 4.118
   },
   {
+    "school": "Arizona State",
+    "owner": "Tilo",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 67,
+    "difference": -19,
+    "performance_ratio": 0.779,
+    "points_per_dollar": 2.233
+  },
+  {
     "school": "USC",
     "owner": "Tilo",
     "tier": "Big Ten",
@@ -240,17 +251,6 @@
     "difference": -2,
     "performance_ratio": 0.968,
     "points_per_dollar": 3.05
-  },
-  {
-    "school": "Arizona State",
-    "owner": "Tilo",
-    "tier": "Big 12",
-    "bid": 30,
-    "projected": 86,
-    "actual": 60,
-    "difference": -26,
-    "performance_ratio": 0.698,
-    "points_per_dollar": 2.0
   },
   {
     "school": "Iowa",

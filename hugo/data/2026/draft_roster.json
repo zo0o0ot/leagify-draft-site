@@ -425,19 +425,19 @@
   },
   {
     "owner": "Tilo",
+    "school": "Arizona State",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 67
+  },
+  {
+    "owner": "Tilo",
     "school": "Arizona",
     "tier": "Flex",
     "bid": 2,
     "projected": 28,
     "actual": 65
-  },
-  {
-    "owner": "Tilo",
-    "school": "Arizona State",
-    "tier": "Big 12",
-    "bid": 30,
-    "projected": 86,
-    "actual": 60
   },
   {
     "owner": "Tilo",
