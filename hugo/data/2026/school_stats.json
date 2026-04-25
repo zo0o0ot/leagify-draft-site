@@ -77,6 +77,17 @@
     "points_per_dollar": 4.0
   },
   {
+    "school": "Georgia",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 55,
+    "projected": 120,
+    "actual": 75,
+    "difference": -45,
+    "performance_ratio": 0.625,
+    "points_per_dollar": 1.364
+  },
+  {
     "school": "Texas A&M",
     "owner": "Jared",
     "tier": "SEC",
@@ -119,17 +130,6 @@
     "difference": -26,
     "performance_ratio": 0.698,
     "points_per_dollar": 2.0
-  },
-  {
-    "school": "Georgia",
-    "owner": "Ross",
-    "tier": "SEC",
-    "bid": 55,
-    "projected": 120,
-    "actual": 50,
-    "difference": -70,
-    "performance_ratio": 0.417,
-    "points_per_dollar": 0.909
   },
   {
     "school": "LSU",
