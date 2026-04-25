@@ -209,6 +209,17 @@
     "points_per_dollar": 3.7
   },
   {
+    "school": "Arkansas",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 5,
+    "projected": 40,
+    "actual": 71,
+    "difference": 31,
+    "performance_ratio": 1.775,
+    "points_per_dollar": 14.2
+  },
+  {
     "school": "USC",
     "owner": "Tilo",
     "tier": "Big Ten",
@@ -218,6 +229,17 @@
     "difference": -1,
     "performance_ratio": 0.985,
     "points_per_dollar": 2.792
+  },
+  {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 66,
+    "difference": 9,
+    "performance_ratio": 1.158,
+    "points_per_dollar": 2.538
   },
   {
     "school": "LSU",
@@ -253,17 +275,6 @@
     "points_per_dollar": 7.111
   },
   {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 60,
-    "difference": 3,
-    "performance_ratio": 1.053,
-    "points_per_dollar": 2.308
-  },
-  {
     "school": "Tennessee",
     "owner": "Netten",
     "tier": "SEC",
@@ -273,17 +284,6 @@
     "difference": -43,
     "performance_ratio": 0.561,
     "points_per_dollar": 2.037
-  },
-  {
-    "school": "Arkansas",
-    "owner": "AJ",
-    "tier": "SEC",
-    "bid": 5,
-    "projected": 40,
-    "actual": 55,
-    "difference": 15,
-    "performance_ratio": 1.375,
-    "points_per_dollar": 11.0
   },
   {
     "school": "Cincinnati",

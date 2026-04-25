@@ -2713,5 +2713,35 @@
     "conference": "Big Ten",
     "player_id": "4c84a354-48f5-4f82-9d11-055f6468b4ff",
     "owner": "Jawad"
+  },
+  {
+    "pick": 182,
+    "round": 6,
+    "pick_in_round": 1,
+    "player": "Taylen Green",
+    "school": "Arkansas",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Arkansas",
+    "conference": "SEC",
+    "player_id": "5648cb7f-ef2a-4197-80ea-e7ac2b6d71f5",
+    "owner": "AJ"
+  },
+  {
+    "pick": 183,
+    "round": 6,
+    "pick_in_round": 2,
+    "player": "Karson Sharar",
+    "school": "Iowa",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "f0534847-9098-492b-a650-9deaad748394",
+    "owner": "Netten"
   }
 ]
