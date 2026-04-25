@@ -913,5 +913,20 @@
     "conference": "Big Ten",
     "player_id": "9f270d4d-f0f0-4d7a-a59d-71d25b2c7c92",
     "owner": "Ross"
+  },
+  {
+    "pick": 62,
+    "round": 2,
+    "pick_in_round": 30,
+    "player": "Davison Igbinosun",
+    "school": "Ohio State",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "ae18e221-8824-44b6-a9c7-66dc98aacb93",
+    "owner": "Ross"
   }
 ]
