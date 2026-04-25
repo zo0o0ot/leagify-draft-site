@@ -1558,5 +1558,35 @@
     "conference": "SEC",
     "player_id": "dd55e19a-a5f8-405e-a2c1-bb35fe95eda7",
     "owner": "Jawad"
+  },
+  {
+    "pick": 108,
+    "round": 4,
+    "pick_in_round": 8,
+    "player": "Jonah Coleman",
+    "school": "Washington",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "a311dd59-ea0e-4168-99b8-de3dc76be6c3",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 109,
+    "round": 4,
+    "pick_in_round": 9,
+    "player": "Jadon Canady",
+    "school": "Oregon",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "3f05c774-a6f3-4239-ab00-774a0aeb225b",
+    "owner": "Jared"
   }
 ]

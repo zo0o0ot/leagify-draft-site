@@ -99,6 +99,17 @@
     "points_per_dollar": 2.903
   },
   {
+    "school": "Oregon",
+    "owner": "Jared",
+    "tier": "Big Ten",
+    "bid": 45,
+    "projected": 109,
+    "actual": 83,
+    "difference": -26,
+    "performance_ratio": 0.761,
+    "points_per_dollar": 1.844
+  },
+  {
     "school": "Utah",
     "owner": "Netten",
     "tier": "Big 12",
@@ -108,17 +119,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Oregon",
-    "owner": "Jared",
-    "tier": "Big Ten",
-    "bid": 45,
-    "projected": 109,
-    "actual": 75,
-    "difference": -34,
-    "performance_ratio": 0.688,
-    "points_per_dollar": 1.667
   },
   {
     "school": "Florida",
@@ -220,6 +220,17 @@
     "points_per_dollar": 1.778
   },
   {
+    "school": "Washington",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 48,
+    "difference": -8,
+    "performance_ratio": 0.857,
+    "points_per_dollar": 5.333
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -295,17 +306,6 @@
     "difference": 2,
     "performance_ratio": 1.071,
     "points_per_dollar": 15.0
-  },
-  {
-    "school": "Washington",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 30,
-    "difference": -26,
-    "performance_ratio": 0.536,
-    "points_per_dollar": 3.333
   },
   {
     "school": "Cincinnati",
