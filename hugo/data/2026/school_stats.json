@@ -583,6 +583,17 @@
     "points_per_dollar": 7.5
   },
   {
+    "school": "Northwestern",
+    "owner": "Tilo",
+    "tier": "Big Ten",
+    "bid": 2,
+    "projected": 20,
+    "actual": 15,
+    "difference": -5,
+    "performance_ratio": 0.75,
+    "points_per_dollar": 7.5
+  },
+  {
     "school": "North Dakota State",
     "owner": "Ross",
     "tier": "Flex",
@@ -602,17 +613,6 @@
     "actual": 10,
     "difference": -7,
     "performance_ratio": 0.588,
-    "points_per_dollar": 5.0
-  },
-  {
-    "school": "Northwestern",
-    "owner": "Tilo",
-    "tier": "Big Ten",
-    "bid": 2,
-    "projected": 20,
-    "actual": 10,
-    "difference": -10,
-    "performance_ratio": 0.5,
     "points_per_dollar": 5.0
   },
   {

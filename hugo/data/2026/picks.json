@@ -3778,5 +3778,20 @@
     "conference": "FBS - Mountain West",
     "player_id": "af8b923c-872b-4f19-9e30-7bafad84be39",
     "owner": ""
+  },
+  {
+    "pick": 253,
+    "round": 7,
+    "pick_in_round": 37,
+    "player": "Evan Beerntsen",
+    "school": "Northwestern",
+    "position": "OL",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Illinois",
+    "conference": "Big Ten",
+    "player_id": "464bbafe-064d-404e-b6c8-f468189954e3",
+    "owner": "Tilo"
   }
 ]
