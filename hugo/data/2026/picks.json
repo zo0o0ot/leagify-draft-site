@@ -3643,5 +3643,35 @@
     "conference": "Big Ten",
     "player_id": "42d063d7-5e69-45c8-a053-1a1b79e55b99",
     "owner": "Netten"
+  },
+  {
+    "pick": 244,
+    "round": 7,
+    "pick_in_round": 28,
+    "player": "Cole Wisniewski",
+    "school": "Texas Tech",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "bd30d72d-ecce-4bcc-b879-e0e8a69add75",
+    "owner": "Jared"
+  },
+  {
+    "pick": 245,
+    "round": 7,
+    "pick_in_round": 29,
+    "player": "Jam Miller",
+    "school": "Alabama",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "7af514df-bfcf-4243-9a7b-32d982a73309",
+    "owner": "Jared"
   }
 ]
