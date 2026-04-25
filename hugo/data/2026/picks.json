@@ -2653,5 +2653,20 @@
     "conference": "SEC",
     "player_id": "4840d750-aa92-4c5d-909e-e94ec18455d6",
     "owner": "Jawad"
+  },
+  {
+    "pick": 178,
+    "round": 5,
+    "pick_in_round": 38,
+    "player": "Cole Payton",
+    "school": "North Dakota State",
+    "position": "QB",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "North Dakota",
+    "conference": "FCS",
+    "player_id": "1a264045-9425-4d7a-81a5-f3d0aac85f42",
+    "owner": "Ross"
   }
 ]

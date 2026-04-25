@@ -528,6 +528,17 @@
     "points_per_dollar": 7.5
   },
   {
+    "school": "North Dakota State",
+    "owner": "Ross",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 18,
+    "actual": 15,
+    "difference": -3,
+    "performance_ratio": 0.833,
+    "points_per_dollar": 7.5
+  },
+  {
     "school": "Iowa State",
     "owner": "Ross",
     "tier": "Flex",
@@ -559,17 +570,6 @@
     "difference": -10,
     "performance_ratio": 0.444,
     "points_per_dollar": 8.0
-  },
-  {
-    "school": "North Dakota State",
-    "owner": "Ross",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 18,
-    "actual": 8,
-    "difference": -10,
-    "performance_ratio": 0.444,
-    "points_per_dollar": 4.0
   },
   {
     "school": "Wake Forest",
