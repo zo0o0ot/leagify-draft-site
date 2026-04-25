@@ -93,7 +93,7 @@
     "tier": "SEC",
     "bid": 42,
     "projected": 127,
-    "actual": 159
+    "actual": 165
   },
   {
     "owner": "Jared",
@@ -177,6 +177,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Texas",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 94
+  },
+  {
+    "owner": "Jawad",
     "school": "Michigan",
     "tier": "Big Ten",
     "bid": 20,
@@ -198,14 +206,6 @@
     "bid": 17,
     "projected": 60,
     "actual": 87
-  },
-  {
-    "owner": "Jawad",
-    "school": "Texas",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 78
   },
   {
     "owner": "Jawad",

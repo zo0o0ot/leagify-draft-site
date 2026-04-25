@@ -2983,5 +2983,35 @@
     "conference": "Big 12",
     "player_id": "11573aa7-dead-4028-a16d-d406656d3194",
     "owner": "Tilo"
+  },
+  {
+    "pick": 200,
+    "round": 6,
+    "pick_in_round": 19,
+    "player": "DJ Campbell",
+    "school": "Texas",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "dc1bd8f8-2552-42b0-8834-9100b7f48399",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 201,
+    "round": 6,
+    "pick_in_round": 20,
+    "player": "Domani Jackson",
+    "school": "Alabama",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "cd1343c4-8e41-40d3-85fa-7281768abab0",
+    "owner": "Jared"
   }
 ]

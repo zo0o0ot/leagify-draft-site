@@ -44,6 +44,17 @@
     "points_per_dollar": 2.059
   },
   {
+    "school": "Alabama",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
+    "actual": 165,
+    "difference": 38,
+    "performance_ratio": 1.299,
+    "points_per_dollar": 3.929
+  },
+  {
     "school": "Indiana",
     "owner": "Netten",
     "tier": "Big Ten",
@@ -53,17 +64,6 @@
     "difference": 27,
     "performance_ratio": 1.201,
     "points_per_dollar": 3.744
-  },
-  {
-    "school": "Alabama",
-    "owner": "Jared",
-    "tier": "SEC",
-    "bid": 42,
-    "projected": 127,
-    "actual": 159,
-    "difference": 32,
-    "performance_ratio": 1.252,
-    "points_per_dollar": 3.786
   },
   {
     "school": "Penn State",
@@ -132,6 +132,17 @@
     "points_per_dollar": 3.571
   },
   {
+    "school": "Texas",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 94,
+    "difference": 31,
+    "performance_ratio": 1.492,
+    "points_per_dollar": 4.7
+  },
+  {
     "school": "Michigan",
     "owner": "Jawad",
     "tier": "Big Ten",
@@ -196,17 +207,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Texas",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 78,
-    "difference": 15,
-    "performance_ratio": 1.238,
-    "points_per_dollar": 3.9
   },
   {
     "school": "Oklahoma",
