@@ -3283,5 +3283,20 @@
     "conference": "Big Ten",
     "player_id": "d4ac1c7b-6f56-4c0c-a733-02cdbcb6b8cb",
     "owner": "Netten"
+  },
+  {
+    "pick": 220,
+    "round": 7,
+    "pick_in_round": 4,
+    "player": "Toriano Pride Jr.",
+    "school": "Missouri",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "6d001834-6434-49f6-9a62-16c8d538daac",
+    "owner": "Jawad"
   }
 ]
