@@ -2233,5 +2233,35 @@
     "conference": "SEC",
     "player_id": "592ca30c-0a53-4f38-9f0a-046df72fc060",
     "owner": "Jared"
+  },
+  {
+    "pick": 150,
+    "round": 5,
+    "pick_in_round": 10,
+    "player": "Dalton Johnson",
+    "school": "Arizona",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "85cd3c34-d3f3-471f-b011-7a1deae842db",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 151,
+    "round": 5,
+    "pick_in_round": 11,
+    "player": "Zakee Wheatley",
+    "school": "Penn State",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "b7d693e0-e130-430a-b1b3-d1e8ba481431",
+    "owner": "Jawad"
   }
 ]

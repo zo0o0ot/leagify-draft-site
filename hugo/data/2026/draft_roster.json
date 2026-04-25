@@ -169,6 +169,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Penn State",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 83
+  },
+  {
+    "owner": "Jawad",
     "school": "Oklahoma",
     "tier": "Flex",
     "bid": 20,
@@ -190,14 +198,6 @@
     "bid": 17,
     "projected": 60,
     "actual": 70
-  },
-  {
-    "owner": "Jawad",
-    "school": "Penn State",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 66
   },
   {
     "owner": "Jawad",
@@ -425,19 +425,19 @@
   },
   {
     "owner": "Tilo",
+    "school": "Arizona",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 28,
+    "actual": 65
+  },
+  {
+    "owner": "Tilo",
     "school": "Arizona State",
     "tier": "Big 12",
     "bid": 30,
     "projected": 86,
     "actual": 60
-  },
-  {
-    "owner": "Tilo",
-    "school": "Arizona",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 28,
-    "actual": 48
   },
   {
     "owner": "Tilo",
