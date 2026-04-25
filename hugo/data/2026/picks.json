@@ -2773,5 +2773,35 @@
     "conference": "SEC",
     "player_id": "f3c8745e-40b7-4417-9ba8-6965fe812a21",
     "owner": "Jawad"
+  },
+  {
+    "pick": 186,
+    "round": 6,
+    "pick_in_round": 5,
+    "player": "Bobby Jamison-Travis",
+    "school": "Auburn",
+    "position": "DL",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "18e340cd-27f7-4ac2-b80a-32cbf37c148d",
+    "owner": "Netten"
+  },
+  {
+    "pick": 187,
+    "round": 6,
+    "pick_in_round": 6,
+    "player": "Kaytron Allen",
+    "school": "Penn State",
+    "position": "RB",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "7050a2f7-20f3-4f75-b775-99a1166e1662",
+    "owner": "Jawad"
   }
 ]
