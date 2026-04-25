@@ -8,6 +8,10 @@
     "points": 20
   },
   {
+    "school": "Navy",
+    "points": 20
+  },
+  {
     "school": "Boise State",
     "points": 18
   },
@@ -41,10 +45,6 @@
   },
   {
     "school": "Rutgers",
-    "points": 5
-  },
-  {
-    "school": "Navy",
     "points": 5
   }
 ]

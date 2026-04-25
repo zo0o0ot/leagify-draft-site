@@ -3433,5 +3433,20 @@
     "conference": "ACC",
     "player_id": "f7bfc8b6-da2a-484b-8f36-935c229c623b",
     "owner": "AJ"
+  },
+  {
+    "pick": 230,
+    "round": 7,
+    "pick_in_round": 14,
+    "player": "Eli Heidenreich",
+    "school": "Navy",
+    "position": "FB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Maryland",
+    "conference": "FBS - AAC",
+    "player_id": "fd60dde7-cad5-4dd4-b088-5d9ae94cb5ef",
+    "owner": ""
   }
 ]
