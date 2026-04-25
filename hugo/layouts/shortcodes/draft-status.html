@@ -10,7 +10,13 @@
   {{ if eq $s "in_progress" }}
     <strong style="color:#adc6ff;text-transform:uppercase;letter-spacing:0.05em">⬤ LIVE</strong>
     <span style="color:#dfe2eb;margin-left:1rem">Day {{ $status.current_day }}, Round {{ $status.current_round }} in progress</span>
-    <span style="color:#c4c6cf;font-size:0.85em;margin-left:1rem">{{ $status.total_picks_made }} picks made · Updated {{ $status.last_updated }}</span>
+    <span style="color:#c4c6cf;font-size:0.85em;margin-left:1rem">{{ $status.total_picks_made }} picks made · Updated <span class="leagify-ts" data-utc="{{ $status.last_updated }}">{{ $status.last_updated }}</span></span>
+    <script>
+      document.querySelectorAll('.leagify-ts').forEach(function(el) {
+        var d = new Date(el.dataset.utc);
+        el.textContent = d.toLocaleTimeString('en-US', { timeZone: 'America/Chicago', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' });
+      });
+    </script>
   {{ else if eq $s "between_days" }}
     <strong style="color:#59a14f">End of Day {{ $status.current_day }}</strong>
     <span style="color:#dfe2eb;margin-left:1rem">{{ $status.total_picks_made }} picks made so far</span>
