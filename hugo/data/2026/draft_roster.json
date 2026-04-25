@@ -201,19 +201,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Washington",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 56
+  },
+  {
+    "owner": "Jawad",
     "school": "Oklahoma",
     "tier": "Flex",
     "bid": 20,
     "projected": 68,
     "actual": 56
-  },
-  {
-    "owner": "Jawad",
-    "school": "Washington",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 48
   },
   {
     "owner": "Jawad",
@@ -265,19 +265,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Auburn",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 61,
+    "actual": 63
+  },
+  {
+    "owner": "Netten",
     "school": "Tennessee",
     "tier": "SEC",
     "bid": 27,
     "projected": 98,
     "actual": 48
-  },
-  {
-    "owner": "Netten",
-    "school": "Auburn",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 61,
-    "actual": 45
   },
   {
     "owner": "Netten",

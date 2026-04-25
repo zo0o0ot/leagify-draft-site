@@ -1888,5 +1888,35 @@
     "conference": "Big 12",
     "player_id": "f080bf14-7a57-4f74-8346-dc99cb715c29",
     "owner": "Jawad"
+  },
+  {
+    "pick": 127,
+    "round": 4,
+    "pick_in_round": 27,
+    "player": "Carver Willis",
+    "school": "Washington",
+    "position": "OL",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "d1a4bbeb-8b9f-494a-82d6-939f90471ba7",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 128,
+    "round": 4,
+    "pick_in_round": 28,
+    "player": "Connor Lew",
+    "school": "Auburn",
+    "position": "C",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "0ee9544e-225a-4be5-b4cf-f865c8810e09",
+    "owner": "Netten"
   }
 ]
