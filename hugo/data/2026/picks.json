@@ -1768,5 +1768,20 @@
     "conference": "Big Ten",
     "player_id": "748aab2c-b205-4eaa-883f-843a1d19174d",
     "owner": "Jawad"
+  },
+  {
+    "pick": 119,
+    "round": 4,
+    "pick_in_round": 19,
+    "player": "Wesley Williams",
+    "school": "Duke",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "302a8d1e-f700-467e-b5cf-256e96f15e89",
+    "owner": "Netten"
   }
 ]
