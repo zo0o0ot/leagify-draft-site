@@ -161,6 +161,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Michigan",
+    "tier": "Big Ten",
+    "bid": 20,
+    "projected": 56,
+    "actual": 90
+  },
+  {
+    "owner": "Jawad",
     "school": "Notre Dame",
     "tier": "Flex",
     "bid": 31,
@@ -177,19 +185,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Texas",
+    "tier": "SEC",
+    "bid": 20,
+    "projected": 63,
+    "actual": 78
+  },
+  {
+    "owner": "Jawad",
     "school": "Oklahoma",
     "tier": "Flex",
     "bid": 20,
     "projected": 68,
     "actual": 74
-  },
-  {
-    "owner": "Jawad",
-    "school": "Michigan",
-    "tier": "Big Ten",
-    "bid": 20,
-    "projected": 56,
-    "actual": 73
   },
   {
     "owner": "Jawad",
@@ -214,14 +222,6 @@
     "bid": 9,
     "projected": 56,
     "actual": 64
-  },
-  {
-    "owner": "Jawad",
-    "school": "Texas",
-    "tier": "SEC",
-    "bid": 20,
-    "projected": 63,
-    "actual": 61
   },
   {
     "owner": "Jawad",

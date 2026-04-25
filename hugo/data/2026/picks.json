@@ -2353,5 +2353,35 @@
     "conference": "Big 12",
     "player_id": "16d0c82a-50e6-4eb5-9a0e-5a52a4cf92d2",
     "owner": "Tilo"
+  },
+  {
+    "pick": 158,
+    "round": 5,
+    "pick_in_round": 18,
+    "player": "Michael Taaffe",
+    "school": "Texas",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "1af33ec7-bfa1-4728-b113-4fb2f7b17cdd",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 159,
+    "round": 5,
+    "pick_in_round": 19,
+    "player": "Max Bredeson",
+    "school": "Michigan",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "cfcd85ba-0548-43b0-b866-460ed0e789e7",
+    "owner": "Jawad"
   }
 ]
