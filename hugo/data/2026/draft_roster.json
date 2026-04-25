@@ -361,18 +361,18 @@
   },
   {
     "owner": "Ross",
-    "school": "Wisconsin",
-    "tier": "Big Ten",
-    "bid": 1,
-    "projected": 16,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
     "school": "Florida State",
     "tier": "ACC",
     "bid": 1,
     "projected": 18,
+    "actual": 8
+  },
+  {
+    "owner": "Ross",
+    "school": "Wisconsin",
+    "tier": "Big Ten",
+    "bid": 1,
+    "projected": 16,
     "actual": 0
   },
   {

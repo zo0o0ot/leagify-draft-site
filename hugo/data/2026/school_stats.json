@@ -449,5 +449,16 @@
     "difference": -10,
     "performance_ratio": 0.5,
     "points_per_dollar": 5.0
+  },
+  {
+    "school": "Florida State",
+    "owner": "Ross",
+    "tier": "ACC",
+    "bid": 1,
+    "projected": 18,
+    "actual": 8,
+    "difference": -10,
+    "performance_ratio": 0.444,
+    "points_per_dollar": 8.0
   }
 ]

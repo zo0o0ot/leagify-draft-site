@@ -1498,5 +1498,20 @@
     "conference": "ACC",
     "player_id": "26729df1-2ab7-4705-8555-834d858fa2a2",
     "owner": "Jared"
+  },
+  {
+    "pick": 103,
+    "round": 4,
+    "pick_in_round": 3,
+    "player": "Darrell Jackson Jr.",
+    "school": "Florida State",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "dfb73ae6-bb00-4560-9c3a-48081a8a4ab6",
+    "owner": "Ross"
   }
 ]
