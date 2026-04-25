@@ -2743,5 +2743,20 @@
     "conference": "Big Ten",
     "player_id": "f0534847-9098-492b-a650-9deaad748394",
     "owner": "Netten"
+  },
+  {
+    "pick": 184,
+    "round": 6,
+    "pick_in_round": 3,
+    "player": "Jackie Marshall",
+    "school": "Baylor",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "5bf2b37d-175e-45c6-9d53-e2808495e9d9",
+    "owner": "Jared"
   }
 ]

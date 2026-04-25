@@ -603,5 +603,16 @@
     "difference": -5,
     "performance_ratio": 0.583,
     "points_per_dollar": 7.0
+  },
+  {
+    "school": "Baylor",
+    "owner": "Jared",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 22,
+    "actual": 6,
+    "difference": -16,
+    "performance_ratio": 0.273,
+    "points_per_dollar": 6.0
   }
 ]
