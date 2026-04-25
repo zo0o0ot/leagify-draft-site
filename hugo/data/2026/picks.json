@@ -3133,5 +3133,50 @@
     "conference": "Big Ten",
     "player_id": "b3ca5d2b-89b8-44dd-9fd1-6c975730ff86",
     "owner": "AJ"
+  },
+  {
+    "pick": 210,
+    "round": 6,
+    "pick_in_round": 29,
+    "player": "Gabriel Rubio",
+    "school": "Notre Dame",
+    "position": "DL",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Indiana",
+    "conference": "FBS - Independent",
+    "player_id": "9e793f61-5a43-40c1-bec3-b88359952d9e",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 211,
+    "round": 6,
+    "pick_in_round": 30,
+    "player": "Ryan Eckley",
+    "school": "Michigan State",
+    "position": "P",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "f56b584b-6594-4105-803c-89bd366233e5",
+    "owner": "AJ"
+  },
+  {
+    "pick": 212,
+    "round": 6,
+    "pick_in_round": 31,
+    "player": "Namdi Obiazor",
+    "school": "TCU",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 6,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "bfe424ae-2b66-4ad9-984f-6ea80b102684",
+    "owner": "Jawad"
   }
 ]

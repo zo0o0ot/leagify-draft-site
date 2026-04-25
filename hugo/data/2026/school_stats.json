@@ -99,6 +99,17 @@
     "points_per_dollar": 2.956
   },
   {
+    "school": "Notre Dame",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 31,
+    "projected": 97,
+    "actual": 123,
+    "difference": 26,
+    "performance_ratio": 1.268,
+    "points_per_dollar": 3.968
+  },
+  {
     "school": "Penn State",
     "owner": "Jawad",
     "tier": "Big Ten",
@@ -108,17 +119,6 @@
     "difference": 24,
     "performance_ratio": 1.242,
     "points_per_dollar": 3.324
-  },
-  {
-    "school": "Notre Dame",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 31,
-    "projected": 97,
-    "actual": 107,
-    "difference": 10,
-    "performance_ratio": 1.103,
-    "points_per_dollar": 3.452
   },
   {
     "school": "Florida",
@@ -418,6 +418,17 @@
     "points_per_dollar": 33.0
   },
   {
+    "school": "Michigan State",
+    "owner": "AJ",
+    "tier": "Big Ten",
+    "bid": 1,
+    "projected": 10,
+    "actual": 32,
+    "difference": 22,
+    "performance_ratio": 3.2,
+    "points_per_dollar": 32.0
+  },
+  {
     "school": "Ole Miss",
     "owner": "Tilo",
     "tier": "SEC",
@@ -429,6 +440,17 @@
     "points_per_dollar": 5.0
   },
   {
+    "school": "TCU",
+    "owner": "Jawad",
+    "tier": "Big 12",
+    "bid": 3,
+    "projected": 29,
+    "actual": 29,
+    "difference": 0,
+    "performance_ratio": 1.0,
+    "points_per_dollar": 9.667
+  },
+  {
     "school": "Toledo",
     "owner": "Netten",
     "tier": "Flex",
@@ -438,17 +460,6 @@
     "difference": -9,
     "performance_ratio": 0.735,
     "points_per_dollar": 6.25
-  },
-  {
-    "school": "TCU",
-    "owner": "Jawad",
-    "tier": "Big 12",
-    "bid": 3,
-    "projected": 29,
-    "actual": 23,
-    "difference": -6,
-    "performance_ratio": 0.793,
-    "points_per_dollar": 7.667
   },
   {
     "school": "Wake Forest",
@@ -558,17 +569,6 @@
     "actual": 16,
     "difference": 1,
     "performance_ratio": 1.067,
-    "points_per_dollar": 16.0
-  },
-  {
-    "school": "Michigan State",
-    "owner": "AJ",
-    "tier": "Big Ten",
-    "bid": 1,
-    "projected": 10,
-    "actual": 16,
-    "difference": 6,
-    "performance_ratio": 1.6,
     "points_per_dollar": 16.0
   },
   {
