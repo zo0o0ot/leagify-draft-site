@@ -6,6 +6,12 @@
     "points": 35
   },
   {
+    "owner": "AJ",
+    "round": 3,
+    "picks": 1,
+    "points": 20
+  },
+  {
     "owner": "Jared",
     "round": 1,
     "picks": 7,
@@ -20,8 +26,8 @@
   {
     "owner": "Jared",
     "round": 3,
-    "picks": 1,
-    "points": 20
+    "picks": 2,
+    "points": 40
   },
   {
     "owner": "Jawad",

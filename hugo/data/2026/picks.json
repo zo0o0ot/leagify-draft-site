@@ -1018,5 +1018,35 @@
     "conference": "ACC",
     "player_id": "e1fdb3bd-b7e3-4771-80ec-726ce617dcdd",
     "owner": "Tilo"
+  },
+  {
+    "pick": 69,
+    "round": 3,
+    "pick_in_round": 5,
+    "player": "Sam Roush",
+    "school": "Stanford",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "California",
+    "conference": "ACC",
+    "player_id": "7256337d-2e74-4cc0-a0b7-50f972b9508a",
+    "owner": "AJ"
+  },
+  {
+    "pick": 70,
+    "round": 3,
+    "pick_in_round": 6,
+    "player": "Romello Height",
+    "school": "Texas Tech",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "bc8f6e80-ba84-4015-8f7f-772cae7fafb3",
+    "owner": "Jared"
   }
 ]

@@ -9,6 +9,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Stanford",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 12,
+    "actual": 20
+  },
+  {
+    "owner": "AJ",
     "school": "Kentucky",
     "tier": "SEC",
     "bid": 4,
@@ -72,14 +80,6 @@
     "actual": 0
   },
   {
-    "owner": "AJ",
-    "school": "Stanford",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 12,
-    "actual": 0
-  },
-  {
     "owner": "Jared",
     "school": "Alabama",
     "tier": "SEC",
@@ -101,7 +101,7 @@
     "tier": "Big 12",
     "bid": 42,
     "projected": 110,
-    "actual": 80
+    "actual": 100
   },
   {
     "owner": "Jared",
