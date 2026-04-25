@@ -1513,5 +1513,20 @@
     "conference": "ACC",
     "player_id": "dfb73ae6-bb00-4560-9c3a-48081a8a4ab6",
     "owner": "Ross"
+  },
+  {
+    "pick": 105,
+    "round": 4,
+    "pick_in_round": 5,
+    "player": "Brenen Thompson",
+    "school": "Mississippi State",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Mississippi",
+    "conference": "SEC",
+    "player_id": "44cf7824-a97c-4bcb-9f9f-60b9870dad0c",
+    "owner": "Tilo"
   }
 ]

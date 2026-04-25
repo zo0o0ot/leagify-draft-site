@@ -118,5 +118,11 @@
     "round": 3,
     "picks": 6,
     "points": 80
+  },
+  {
+    "owner": "Tilo",
+    "round": 4,
+    "picks": 1,
+    "points": 18
   }
 ]

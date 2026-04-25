@@ -396,6 +396,17 @@
     "points_per_dollar": 18.0
   },
   {
+    "school": "Mississippi State",
+    "owner": "Tilo",
+    "tier": "SEC",
+    "bid": 1,
+    "projected": 12,
+    "actual": 18,
+    "difference": 6,
+    "performance_ratio": 1.5,
+    "points_per_dollar": 18.0
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",
