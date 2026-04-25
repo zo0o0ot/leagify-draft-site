@@ -2293,5 +2293,20 @@
     "conference": "SEC",
     "player_id": "a1cc0014-a8a9-4757-8d1f-3546e4f13466",
     "owner": "AJ"
+  },
+  {
+    "pick": 154,
+    "round": 5,
+    "pick_in_round": 14,
+    "player": "Jaden Dugger",
+    "school": "Louisiana",
+    "position": "OLB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "",
+    "conference": "",
+    "player_id": "75f719ed-2542-45cd-9a91-21077bd58345",
+    "owner": ""
   }
 ]
