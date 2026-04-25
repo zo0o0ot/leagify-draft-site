@@ -3733,5 +3733,20 @@
     "conference": "SEC",
     "player_id": "aadfe3c6-d496-4158-8287-a272a3f2d318",
     "owner": "Jawad"
+  },
+  {
+    "pick": 250,
+    "round": 7,
+    "pick_in_round": 34,
+    "player": "Rayshaun Benny",
+    "school": "Michigan",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "f7ef66dd-6cc0-4b31-872f-d968eb755274",
+    "owner": "Jawad"
   }
 ]
