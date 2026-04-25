@@ -3748,5 +3748,20 @@
     "conference": "Big Ten",
     "player_id": "f7ef66dd-6cc0-4b31-872f-d968eb755274",
     "owner": "Jawad"
+  },
+  {
+    "pick": 251,
+    "round": 7,
+    "pick_in_round": 35,
+    "player": "Uar Bernard",
+    "school": "",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "",
+    "conference": "",
+    "player_id": "62d5b702-1a1b-4d9b-8073-bf1557bb7be3",
+    "owner": ""
   }
 ]
