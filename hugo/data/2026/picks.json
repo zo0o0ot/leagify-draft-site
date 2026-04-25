@@ -2923,5 +2923,35 @@
     "conference": "Big Ten",
     "player_id": "5f0338f2-9392-43f3-abef-7b0f24a5bf24",
     "owner": "Jared"
+  },
+  {
+    "pick": 196,
+    "round": 6,
+    "pick_in_round": 15,
+    "player": "Dametrious Crownover",
+    "school": "Texas A&M",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Texas",
+    "conference": "SEC",
+    "player_id": "3bd88322-c1a7-4c5e-8019-026ddd2d8147",
+    "owner": "Jared"
+  },
+  {
+    "pick": 197,
+    "round": 6,
+    "pick_in_round": 16,
+    "player": "CJ Daniels",
+    "school": "Miami (FL)",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "6da3beda-a354-4509-95b1-3ce3fd2c6f83",
+    "owner": "Tilo"
   }
 ]
