@@ -2038,5 +2038,20 @@
     "conference": "FCS",
     "player_id": "c1c14c9e-5cee-4552-a87b-0fe0f1ad8989",
     "owner": "Ross"
+  },
+  {
+    "pick": 137,
+    "round": 4,
+    "pick_in_round": 37,
+    "player": "LT Overton",
+    "school": "Alabama",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "ef061771-18cd-4818-af94-28c93ad379d6",
+    "owner": "Jared"
   }
 ]
