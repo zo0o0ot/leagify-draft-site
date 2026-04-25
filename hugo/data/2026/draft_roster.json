@@ -297,19 +297,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Duke",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 29,
+    "actual": 35
+  },
+  {
+    "owner": "Netten",
     "school": "Toledo",
     "tier": "Flex",
     "bid": 4,
     "projected": 34,
     "actual": 25
-  },
-  {
-    "owner": "Netten",
-    "school": "Duke",
-    "tier": "Flex",
-    "bid": 4,
-    "projected": 29,
-    "actual": 18
   },
   {
     "owner": "Netten",

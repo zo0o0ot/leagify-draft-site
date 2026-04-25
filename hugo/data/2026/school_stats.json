@@ -319,6 +319,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "Duke",
+    "owner": "Netten",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 29,
+    "actual": 35,
+    "difference": 6,
+    "performance_ratio": 1.207,
+    "points_per_dollar": 8.75
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",
@@ -438,17 +449,6 @@
     "difference": 6,
     "performance_ratio": 1.5,
     "points_per_dollar": 18.0
-  },
-  {
-    "school": "Duke",
-    "owner": "Netten",
-    "tier": "Flex",
-    "bid": 4,
-    "projected": 29,
-    "actual": 18,
-    "difference": -11,
-    "performance_ratio": 0.621,
-    "points_per_dollar": 4.5
   },
   {
     "school": "UConn",

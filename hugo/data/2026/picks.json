@@ -2413,5 +2413,35 @@
     "conference": "Big Ten",
     "player_id": "f235cda2-61a1-4423-9287-128d8d33f79c",
     "owner": "AJ"
+  },
+  {
+    "pick": 162,
+    "round": 5,
+    "pick_in_round": 22,
+    "player": "Chandler Rivers",
+    "school": "Duke",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "58c096fc-6f93-43fd-8454-20b3b60f8a98",
+    "owner": "Netten"
+  },
+  {
+    "pick": 163,
+    "round": 5,
+    "pick_in_round": 23,
+    "player": "Charles Demmings",
+    "school": "Stephen F. Austin",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Texas",
+    "conference": "FCS",
+    "player_id": "40721cce-b480-4c73-997f-2babab1819c7",
+    "owner": ""
   }
 ]
