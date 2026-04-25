@@ -3838,5 +3838,20 @@
     "conference": "Big 12",
     "player_id": "ec0c22c7-9327-4813-95b3-4b7ab2f9a06d",
     "owner": "Netten"
+  },
+  {
+    "pick": 257,
+    "round": 7,
+    "pick_in_round": 41,
+    "player": "Red Murdock",
+    "school": "Buffalo",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "New York",
+    "conference": "FBS - MAC",
+    "player_id": "799b919f-f976-469a-89a5-84ab201eba1c",
+    "owner": ""
   }
 ]
