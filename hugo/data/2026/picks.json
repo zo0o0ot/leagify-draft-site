@@ -3313,5 +3313,35 @@
     "conference": "SEC",
     "player_id": "cdadd6e3-ed65-45c5-b87f-0ba317b64e82",
     "owner": "Jawad"
+  },
+  {
+    "pick": 222,
+    "round": 7,
+    "pick_in_round": 6,
+    "player": "Tyre West",
+    "school": "Tennessee",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "f93cee4f-f743-4972-a576-1426209d1023",
+    "owner": "Netten"
+  },
+  {
+    "pick": 223,
+    "round": 7,
+    "pick_in_round": 7,
+    "player": "Athan Kaliakmanis",
+    "school": "Rutgers",
+    "position": "QB",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "New Jersey",
+    "conference": "Big Ten",
+    "player_id": "a8e6cef7-0cb0-4228-b9d4-51a84eddd29c",
+    "owner": ""
   }
 ]

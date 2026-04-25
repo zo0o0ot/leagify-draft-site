@@ -253,6 +253,17 @@
     "points_per_dollar": 14.2
   },
   {
+    "school": "Tennessee",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 27,
+    "projected": 98,
+    "actual": 70,
+    "difference": -28,
+    "performance_ratio": 0.714,
+    "points_per_dollar": 2.593
+  },
+  {
     "school": "USC",
     "owner": "Tilo",
     "tier": "Big Ten",
@@ -273,17 +284,6 @@
     "difference": 37,
     "performance_ratio": 2.321,
     "points_per_dollar": 32.5
-  },
-  {
-    "school": "Tennessee",
-    "owner": "Netten",
-    "tier": "SEC",
-    "bid": 27,
-    "projected": 98,
-    "actual": 55,
-    "difference": -43,
-    "performance_ratio": 0.561,
-    "points_per_dollar": 2.037
   },
   {
     "school": "Georgia Tech",
