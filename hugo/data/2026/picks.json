@@ -2563,5 +2563,20 @@
     "conference": "ACC",
     "player_id": "4b849077-b529-4a59-961d-a7e17e3686b8",
     "owner": "AJ"
+  },
+  {
+    "pick": 172,
+    "round": 5,
+    "pick_in_round": 32,
+    "player": "Lorenzo Styles Jr.",
+    "school": "Ohio State",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "656c1853-f1a9-4b55-961b-18b20309a933",
+    "owner": "Ross"
   }
 ]
