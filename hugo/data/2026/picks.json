@@ -718,5 +718,20 @@
     "conference": "ACC",
     "player_id": "9db4c0c4-d2fa-4e7c-91ed-e986a3f86eb7",
     "owner": "Tilo"
+  },
+  {
+    "pick": 49,
+    "round": 2,
+    "pick_in_round": 17,
+    "player": "Lee Hunter",
+    "school": "Texas Tech",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "7e6a375f-8a89-42c9-a5aa-faae10d205bb",
+    "owner": "Jared"
   }
 ]

@@ -89,6 +89,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Texas Tech",
+    "tier": "Big 12",
+    "bid": 42,
+    "projected": 110,
+    "actual": 80
+  },
+  {
+    "owner": "Jared",
     "school": "Texas A&M",
     "tier": "SEC",
     "bid": 49,
@@ -102,14 +110,6 @@
     "bid": 45,
     "projected": 109,
     "actual": 65
-  },
-  {
-    "owner": "Jared",
-    "school": "Texas Tech",
-    "tier": "Big 12",
-    "bid": 42,
-    "projected": 110,
-    "actual": 55
   },
   {
     "owner": "Jared",
