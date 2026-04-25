@@ -658,5 +658,20 @@
     "conference": "Big Ten",
     "player_id": "94c55392-c194-41ba-af07-74fb431d9db2",
     "owner": "Jawad"
+  },
+  {
+    "pick": 45,
+    "round": 2,
+    "pick_in_round": 13,
+    "player": "Zion Young",
+    "school": "Missouri",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "3b35aafe-593e-41c3-9036-4028d622f683",
+    "owner": "Jawad"
   }
 ]

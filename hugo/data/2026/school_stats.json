@@ -284,5 +284,16 @@
     "difference": -48,
     "performance_ratio": 0.294,
     "points_per_dollar": 1.0
+  },
+  {
+    "school": "Missouri",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 60,
+    "actual": 20,
+    "difference": -40,
+    "performance_ratio": 0.333,
+    "points_per_dollar": 1.176
   }
 ]

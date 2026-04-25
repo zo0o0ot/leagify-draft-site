@@ -209,6 +209,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Missouri",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 60,
+    "actual": 20
+  },
+  {
+    "owner": "Jawad",
     "school": "Texas",
     "tier": "SEC",
     "bid": 20,
@@ -229,14 +237,6 @@
     "tier": "Big 12",
     "bid": 3,
     "projected": 29,
-    "actual": 0
-  },
-  {
-    "owner": "Jawad",
-    "school": "Missouri",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 60,
     "actual": 0
   },
   {
