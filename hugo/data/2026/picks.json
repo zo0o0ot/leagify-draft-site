@@ -733,5 +733,35 @@
     "conference": "Big 12",
     "player_id": "7e6a375f-8a89-42c9-a5aa-faae10d205bb",
     "owner": "Jared"
+  },
+  {
+    "pick": 50,
+    "round": 2,
+    "pick_in_round": 18,
+    "player": "D'Angelo Ponds",
+    "school": "Indiana",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Indiana",
+    "conference": "Big Ten",
+    "player_id": "6889426f-0868-4fa9-9df1-9d1b1b5a7db3",
+    "owner": "Netten"
+  },
+  {
+    "pick": 51,
+    "round": 2,
+    "pick_in_round": 19,
+    "player": "Jake Golday",
+    "school": "Cincinnati",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Ohio",
+    "conference": "Big 12",
+    "player_id": "f959eab2-3971-4ccd-8ecf-6048dbe3572c",
+    "owner": "Ross"
   }
 ]

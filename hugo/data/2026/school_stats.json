@@ -33,6 +33,17 @@
     "points_per_dollar": 2.619
   },
   {
+    "school": "Indiana",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 100,
+    "difference": -34,
+    "performance_ratio": 0.746,
+    "points_per_dollar": 2.326
+  },
+  {
     "school": "Miami (FL)",
     "owner": "Tilo",
     "tier": "ACC",
@@ -64,17 +75,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Indiana",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 43,
-    "projected": 134,
-    "actual": 75,
-    "difference": -59,
-    "performance_ratio": 0.56,
-    "points_per_dollar": 1.744
   },
   {
     "school": "Texas A&M",
@@ -262,6 +262,17 @@
     "difference": -26,
     "performance_ratio": 0.536,
     "points_per_dollar": 1.5
+  },
+  {
+    "school": "Cincinnati",
+    "owner": "Ross",
+    "tier": "Big 12",
+    "bid": 8,
+    "projected": 46,
+    "actual": 25,
+    "difference": -21,
+    "performance_ratio": 0.543,
+    "points_per_dollar": 3.125
   },
   {
     "school": "Tennessee",

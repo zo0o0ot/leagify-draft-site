@@ -241,19 +241,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Indiana",
+    "tier": "Big Ten",
+    "bid": 43,
+    "projected": 134,
+    "actual": 100
+  },
+  {
+    "owner": "Netten",
     "school": "Utah",
     "tier": "Big 12",
     "bid": 20,
     "projected": 77,
     "actual": 80
-  },
-  {
-    "owner": "Netten",
-    "school": "Indiana",
-    "tier": "Big Ten",
-    "bid": 43,
-    "projected": 134,
-    "actual": 75
   },
   {
     "owner": "Netten",
@@ -337,6 +337,14 @@
   },
   {
     "owner": "Ross",
+    "school": "Cincinnati",
+    "tier": "Big 12",
+    "bid": 8,
+    "projected": 46,
+    "actual": 25
+  },
+  {
+    "owner": "Ross",
     "school": "South Carolina",
     "tier": "SEC",
     "bid": 7,
@@ -357,14 +365,6 @@
     "tier": "ACC",
     "bid": 1,
     "projected": 18,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
-    "school": "Cincinnati",
-    "tier": "Big 12",
-    "bid": 8,
-    "projected": 46,
     "actual": 0
   },
   {
