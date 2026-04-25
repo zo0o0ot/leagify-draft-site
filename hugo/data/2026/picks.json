@@ -2098,5 +2098,35 @@
     "conference": "SEC",
     "player_id": "363f6487-38ee-42ed-92f6-ebb9db81daf3",
     "owner": "Ross"
+  },
+  {
+    "pick": 141,
+    "round": 5,
+    "pick_in_round": 1,
+    "player": "Kamari Ramsey",
+    "school": "USC",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "California",
+    "conference": "Big Ten",
+    "player_id": "a647d7ce-04a4-48aa-b5c7-1d947312c874",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 142,
+    "round": 5,
+    "pick_in_round": 2,
+    "player": "Fernando Carmona",
+    "school": "Arkansas",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Arkansas",
+    "conference": "SEC",
+    "player_id": "1ef85c1a-47a7-4909-a585-b0e86d19cec7",
+    "owner": "AJ"
   }
 ]

@@ -18,6 +18,12 @@
     "points": 26
   },
   {
+    "owner": "AJ",
+    "round": 5,
+    "picks": 1,
+    "points": 17
+  },
+  {
     "owner": "Jared",
     "round": 1,
     "picks": 7,
@@ -136,5 +142,11 @@
     "round": 4,
     "picks": 6,
     "points": 98
+  },
+  {
+    "owner": "Tilo",
+    "round": 5,
+    "picks": 1,
+    "points": 17
   }
 ]
