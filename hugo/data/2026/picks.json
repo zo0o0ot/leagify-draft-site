@@ -2008,5 +2008,20 @@
     "conference": "SEC",
     "player_id": "30070ffe-9ec9-4559-beb4-112c8a94ac33",
     "owner": "Jawad"
+  },
+  {
+    "pick": 135,
+    "round": 4,
+    "pick_in_round": 35,
+    "player": "Bryce Boettcher",
+    "school": "Oregon",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "d34bdf57-fb50-4492-8053-4fe9611da063",
+    "owner": "Jared"
   }
 ]
