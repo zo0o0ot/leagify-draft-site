@@ -2488,5 +2488,35 @@
     "conference": "Big 12",
     "player_id": "d2429939-dbd6-430d-a353-b8a5ffc87da0",
     "owner": "Tilo"
+  },
+  {
+    "pick": 167,
+    "round": 5,
+    "pick_in_round": 27,
+    "player": "Jalon Kilgore",
+    "school": "South Carolina",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "South Carolina",
+    "conference": "SEC",
+    "player_id": "21f11af7-ea4e-41ae-ba50-a55e38843ae5",
+    "owner": "Ross"
+  },
+  {
+    "pick": 168,
+    "round": 5,
+    "pick_in_round": 28,
+    "player": "Kendrick Law",
+    "school": "Kentucky",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Kentucky",
+    "conference": "SEC",
+    "player_id": "6344d2d2-201a-42dd-92bd-1feea4d758c0",
+    "owner": "AJ"
   }
 ]

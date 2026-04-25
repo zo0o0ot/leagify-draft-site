@@ -286,6 +286,28 @@
     "points_per_dollar": 11.0
   },
   {
+    "school": "South Carolina",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 7,
+    "projected": 44,
+    "actual": 49,
+    "difference": 5,
+    "performance_ratio": 1.114,
+    "points_per_dollar": 7.0
+  },
+  {
+    "school": "Kentucky",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 4,
+    "projected": 36,
+    "actual": 42,
+    "difference": 6,
+    "performance_ratio": 1.167,
+    "points_per_dollar": 10.5
+  },
+  {
     "school": "UCF",
     "owner": "AJ",
     "tier": "Big 12",
@@ -330,17 +352,6 @@
     "points_per_dollar": 8.75
   },
   {
-    "school": "South Carolina",
-    "owner": "Ross",
-    "tier": "SEC",
-    "bid": 7,
-    "projected": 44,
-    "actual": 32,
-    "difference": -12,
-    "performance_ratio": 0.727,
-    "points_per_dollar": 4.571
-  },
-  {
     "school": "Ole Miss",
     "owner": "Tilo",
     "tier": "SEC",
@@ -382,17 +393,6 @@
     "actual": 25,
     "difference": -9,
     "performance_ratio": 0.735,
-    "points_per_dollar": 6.25
-  },
-  {
-    "school": "Kentucky",
-    "owner": "AJ",
-    "tier": "SEC",
-    "bid": 4,
-    "projected": 36,
-    "actual": 25,
-    "difference": -11,
-    "performance_ratio": 0.694,
     "points_per_dollar": 6.25
   },
   {
