@@ -101,7 +101,7 @@
     "tier": "Big 12",
     "bid": 42,
     "projected": 110,
-    "actual": 110
+    "actual": 117
   },
   {
     "owner": "Jared",
@@ -353,6 +353,14 @@
   },
   {
     "owner": "Ross",
+    "school": "Kansas State",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 18,
+    "actual": 17
+  },
+  {
+    "owner": "Ross",
     "school": "South Carolina",
     "tier": "SEC",
     "bid": 7,
@@ -389,14 +397,6 @@
     "tier": "Big Ten",
     "bid": 1,
     "projected": 16,
-    "actual": 0
-  },
-  {
-    "owner": "Ross",
-    "school": "Kansas State",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 18,
     "actual": 0
   },
   {

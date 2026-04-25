@@ -2128,5 +2128,35 @@
     "conference": "SEC",
     "player_id": "1ef85c1a-47a7-4909-a585-b0e86d19cec7",
     "owner": "AJ"
+  },
+  {
+    "pick": 143,
+    "round": 5,
+    "pick_in_round": 3,
+    "player": "Reggie Virgil",
+    "school": "Texas Tech",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "375163b9-4c26-4b75-9789-df537b4f2d63",
+    "owner": "Jared"
+  },
+  {
+    "pick": 144,
+    "round": 5,
+    "pick_in_round": 4,
+    "player": "Sam Hecht",
+    "school": "Kansas State",
+    "position": "C",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Kansas",
+    "conference": "Big 12",
+    "player_id": "7bff34c4-ae6f-4196-9a46-f09365ca175a",
+    "owner": "Ross"
   }
 ]
