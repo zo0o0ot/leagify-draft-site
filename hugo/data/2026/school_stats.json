@@ -11,6 +11,17 @@
     "points_per_dollar": 2.217
   },
   {
+    "school": "Clemson",
+    "owner": "Tilo",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 161,
+    "difference": 15,
+    "performance_ratio": 1.103,
+    "points_per_dollar": 1.894
+  },
+  {
     "school": "Miami (FL)",
     "owner": "Tilo",
     "tier": "ACC",
@@ -31,17 +42,6 @@
     "difference": 15,
     "performance_ratio": 1.111,
     "points_per_dollar": 3.061
-  },
-  {
-    "school": "Clemson",
-    "owner": "Tilo",
-    "tier": "Flex",
-    "bid": 85,
-    "projected": 146,
-    "actual": 143,
-    "difference": -3,
-    "performance_ratio": 0.979,
-    "points_per_dollar": 1.682
   },
   {
     "school": "Indiana",
