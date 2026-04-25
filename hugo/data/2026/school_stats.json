@@ -372,5 +372,16 @@
     "difference": -42,
     "performance_ratio": 0.263,
     "points_per_dollar": 0.577
+  },
+  {
+    "school": "TCU",
+    "owner": "Jawad",
+    "tier": "Big 12",
+    "bid": 3,
+    "projected": 29,
+    "actual": 15,
+    "difference": -14,
+    "performance_ratio": 0.517,
+    "points_per_dollar": 5.0
   }
 ]

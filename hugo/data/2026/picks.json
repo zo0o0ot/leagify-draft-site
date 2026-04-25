@@ -943,5 +943,20 @@
     "conference": "SEC",
     "player_id": "0e911057-8678-4db4-b93a-ed2b1b923991",
     "owner": "Netten"
+  },
+  {
+    "pick": 64,
+    "round": 2,
+    "pick_in_round": 32,
+    "player": "Bud Clark",
+    "school": "TCU",
+    "position": "SAF",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Texas",
+    "conference": "Big 12",
+    "player_id": "75dd7ece-7db9-42f0-b8b7-77baae393a43",
+    "owner": "Jawad"
   }
 ]

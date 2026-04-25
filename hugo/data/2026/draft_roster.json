@@ -225,18 +225,18 @@
   },
   {
     "owner": "Jawad",
-    "school": "Louisville",
-    "tier": "ACC",
-    "bid": 7,
-    "projected": 28,
-    "actual": 0
-  },
-  {
-    "owner": "Jawad",
     "school": "TCU",
     "tier": "Big 12",
     "bid": 3,
     "projected": 29,
+    "actual": 15
+  },
+  {
+    "owner": "Jawad",
+    "school": "Louisville",
+    "tier": "ACC",
+    "bid": 7,
+    "projected": 28,
     "actual": 0
   },
   {
