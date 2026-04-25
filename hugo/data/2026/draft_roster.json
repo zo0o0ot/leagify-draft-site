@@ -337,6 +337,14 @@
   },
   {
     "owner": "Ross",
+    "school": "South Carolina",
+    "tier": "SEC",
+    "bid": 7,
+    "projected": 44,
+    "actual": 32
+  },
+  {
+    "owner": "Ross",
     "school": "Cincinnati",
     "tier": "Big 12",
     "bid": 8,
@@ -358,14 +366,6 @@
     "bid": 1,
     "projected": 18,
     "actual": 17
-  },
-  {
-    "owner": "Ross",
-    "school": "South Carolina",
-    "tier": "SEC",
-    "bid": 7,
-    "projected": 44,
-    "actual": 15
   },
   {
     "owner": "Ross",

@@ -2158,5 +2158,20 @@
     "conference": "Big 12",
     "player_id": "7bff34c4-ae6f-4196-9a46-f09365ca175a",
     "owner": "Ross"
+  },
+  {
+    "pick": 145,
+    "round": 5,
+    "pick_in_round": 5,
+    "player": "Nick Barrett",
+    "school": "South Carolina",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "South Carolina",
+    "conference": "SEC",
+    "player_id": "0c699874-bd0f-4212-8ded-e9fe2b1d2d1e",
+    "owner": "Ross"
   }
 ]

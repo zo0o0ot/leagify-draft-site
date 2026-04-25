@@ -319,6 +319,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "South Carolina",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 7,
+    "projected": 44,
+    "actual": 32,
+    "difference": -12,
+    "performance_ratio": 0.727,
+    "points_per_dollar": 4.571
+  },
+  {
     "school": "Ole Miss",
     "owner": "Tilo",
     "tier": "SEC",
@@ -471,17 +482,6 @@
     "difference": -1,
     "performance_ratio": 0.944,
     "points_per_dollar": 17.0
-  },
-  {
-    "school": "South Carolina",
-    "owner": "Ross",
-    "tier": "SEC",
-    "bid": 7,
-    "projected": 44,
-    "actual": 15,
-    "difference": -29,
-    "performance_ratio": 0.341,
-    "points_per_dollar": 2.143
   },
   {
     "school": "Vanderbilt",
