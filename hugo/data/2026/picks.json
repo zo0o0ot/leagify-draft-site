@@ -3073,5 +3073,20 @@
     "conference": "Big 12",
     "player_id": "4abce9bd-41b1-4786-b78f-23c0c8974ae1",
     "owner": "Jared"
+  },
+  {
+    "pick": 206,
+    "round": 6,
+    "pick_in_round": 25,
+    "player": "Alex Harkey",
+    "school": "Oregon",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Oregon",
+    "conference": "Big Ten",
+    "player_id": "5697c5df-d7e3-4bc4-8e34-84601eeff607",
+    "owner": "Jared"
   }
 ]
