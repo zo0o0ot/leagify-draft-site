@@ -2803,5 +2803,20 @@
     "conference": "Big Ten",
     "player_id": "7050a2f7-20f3-4f75-b775-99a1166e1662",
     "owner": "Jawad"
+  },
+  {
+    "pick": 188,
+    "round": 6,
+    "pick_in_round": 7,
+    "player": "Anez Cooper",
+    "school": "Miami (FL)",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Florida",
+    "conference": "ACC",
+    "player_id": "5f84f907-3c2d-45b7-b4c1-69212d35f289",
+    "owner": "Tilo"
   }
 ]
