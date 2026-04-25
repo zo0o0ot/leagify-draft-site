@@ -2683,5 +2683,20 @@
     "conference": "Big 12",
     "player_id": "9a6ebbfd-c813-4384-8d4f-7240d123e9fe",
     "owner": "Tilo"
+  },
+  {
+    "pick": 180,
+    "round": 5,
+    "pick_in_round": 40,
+    "player": "Seydou Traore",
+    "school": "Mississippi State",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Mississippi",
+    "conference": "SEC",
+    "player_id": "67b0f8ba-960b-406a-b235-1c245d0f70ff",
+    "owner": "Tilo"
   }
 ]

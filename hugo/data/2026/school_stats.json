@@ -352,6 +352,17 @@
     "points_per_dollar": 35.0
   },
   {
+    "school": "Mississippi State",
+    "owner": "Tilo",
+    "tier": "SEC",
+    "bid": 1,
+    "projected": 12,
+    "actual": 35,
+    "difference": 23,
+    "performance_ratio": 2.917,
+    "points_per_dollar": 35.0
+  },
+  {
     "school": "Duke",
     "owner": "Netten",
     "tier": "Flex",
@@ -437,17 +448,6 @@
     "actual": 18,
     "difference": -1,
     "performance_ratio": 0.947,
-    "points_per_dollar": 18.0
-  },
-  {
-    "school": "Mississippi State",
-    "owner": "Tilo",
-    "tier": "SEC",
-    "bid": 1,
-    "projected": 12,
-    "actual": 18,
-    "difference": 6,
-    "performance_ratio": 1.5,
     "points_per_dollar": 18.0
   },
   {
