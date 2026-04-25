@@ -3088,5 +3088,20 @@
     "conference": "Big Ten",
     "player_id": "5697c5df-d7e3-4bc4-8e34-84601eeff607",
     "owner": "Jared"
+  },
+  {
+    "pick": 207,
+    "round": 6,
+    "pick_in_round": 26,
+    "player": "Micah Morris",
+    "school": "Georgia",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Georgia",
+    "conference": "SEC",
+    "player_id": "197ccd94-6155-460f-a86f-e6f6457e2ab6",
+    "owner": "Ross"
   }
 ]
