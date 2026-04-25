@@ -2473,5 +2473,20 @@
     "conference": "Big Ten",
     "player_id": "528435bc-d991-4a5c-b54e-d001e17cc386",
     "owner": "Jawad"
+  },
+  {
+    "pick": 166,
+    "round": 5,
+    "pick_in_round": 26,
+    "player": "Keyshaun Elliott",
+    "school": "Arizona State",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Arizona",
+    "conference": "Big 12",
+    "player_id": "d2429939-dbd6-430d-a353-b8a5ffc87da0",
+    "owner": "Tilo"
   }
 ]

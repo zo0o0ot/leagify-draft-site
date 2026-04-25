@@ -143,6 +143,17 @@
     "points_per_dollar": 4.5
   },
   {
+    "school": "Arizona State",
+    "owner": "Tilo",
+    "tier": "Big 12",
+    "bid": 30,
+    "projected": 86,
+    "actual": 84,
+    "difference": -2,
+    "performance_ratio": 0.977,
+    "points_per_dollar": 2.8
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -196,17 +207,6 @@
     "difference": 10,
     "performance_ratio": 1.167,
     "points_per_dollar": 4.118
-  },
-  {
-    "school": "Arizona State",
-    "owner": "Tilo",
-    "tier": "Big 12",
-    "bid": 30,
-    "projected": 86,
-    "actual": 67,
-    "difference": -19,
-    "performance_ratio": 0.779,
-    "points_per_dollar": 2.233
   },
   {
     "school": "USC",
