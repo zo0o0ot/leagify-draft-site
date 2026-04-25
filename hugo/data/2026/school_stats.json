@@ -286,6 +286,17 @@
     "points_per_dollar": 11.0
   },
   {
+    "school": "Cincinnati",
+    "owner": "Ross",
+    "tier": "Big 12",
+    "bid": 8,
+    "projected": 46,
+    "actual": 49,
+    "difference": 3,
+    "performance_ratio": 1.065,
+    "points_per_dollar": 6.125
+  },
+  {
     "school": "South Carolina",
     "owner": "Ross",
     "tier": "SEC",
@@ -295,17 +306,6 @@
     "difference": 5,
     "performance_ratio": 1.114,
     "points_per_dollar": 7.0
-  },
-  {
-    "school": "Cincinnati",
-    "owner": "Ross",
-    "tier": "Big 12",
-    "bid": 8,
-    "projected": 46,
-    "actual": 42,
-    "difference": -4,
-    "performance_ratio": 0.913,
-    "points_per_dollar": 5.25
   },
   {
     "school": "Kentucky",
@@ -580,6 +580,17 @@
     "actual": 7,
     "difference": -7,
     "performance_ratio": 0.5,
+    "points_per_dollar": 7.0
+  },
+  {
+    "school": "California",
+    "owner": "AJ",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 12,
+    "actual": 7,
+    "difference": -5,
+    "performance_ratio": 0.583,
     "points_per_dollar": 7.0
   }
 ]

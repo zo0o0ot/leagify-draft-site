@@ -57,6 +57,14 @@
   },
   {
     "owner": "AJ",
+    "school": "California",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 12,
+    "actual": 7
+  },
+  {
+    "owner": "AJ",
     "school": "Michigan State",
     "tier": "Big Ten",
     "bid": 1,
@@ -69,14 +77,6 @@
     "tier": "Flex",
     "bid": 1,
     "projected": 15,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "California",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 12,
     "actual": 0
   },
   {
@@ -349,7 +349,7 @@
     "tier": "Big 12",
     "bid": 8,
     "projected": 46,
-    "actual": 42
+    "actual": 49
   },
   {
     "owner": "Ross",

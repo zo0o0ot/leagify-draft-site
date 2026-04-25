@@ -2608,5 +2608,35 @@
     "conference": "ACC",
     "player_id": "9a4f849a-bebf-4048-becb-678ebf11d3de",
     "owner": "Tilo"
+  },
+  {
+    "pick": 175,
+    "round": 5,
+    "pick_in_round": 35,
+    "player": "Hezekiah Masses",
+    "school": "California",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "California",
+    "conference": "ACC",
+    "player_id": "7e1963d8-d155-469d-b9f3-1309562bf6e8",
+    "owner": "AJ"
+  },
+  {
+    "pick": 176,
+    "round": 5,
+    "pick_in_round": 36,
+    "player": "Cyrus Allen",
+    "school": "Cincinnati",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Ohio",
+    "conference": "Big 12",
+    "player_id": "62143af3-af14-46aa-b5fe-9688d18b2a2a",
+    "owner": "Ross"
   }
 ]
