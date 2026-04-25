@@ -853,5 +853,20 @@
     "conference": "Big Ten",
     "player_id": "ab740279-861a-4ef9-945d-60fcc7f9eeb5",
     "owner": "Netten"
+  },
+  {
+    "pick": 58,
+    "round": 2,
+    "pick_in_round": 26,
+    "player": "Emmanuel McNeil-Warren",
+    "school": "Toledo",
+    "position": "SAF",
+    "experience": "",
+    "traded": true,
+    "points": 25,
+    "state": "Ohio",
+    "conference": "FBS - MAC",
+    "player_id": "8d63122e-a22e-4240-867d-7288da95e6c0",
+    "owner": "Netten"
   }
 ]

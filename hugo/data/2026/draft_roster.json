@@ -281,6 +281,14 @@
   },
   {
     "owner": "Netten",
+    "school": "Toledo",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 34,
+    "actual": 25
+  },
+  {
+    "owner": "Netten",
     "school": "Tennessee",
     "tier": "SEC",
     "bid": 27,
@@ -294,14 +302,6 @@
     "bid": 26,
     "projected": 57,
     "actual": 15
-  },
-  {
-    "owner": "Netten",
-    "school": "Toledo",
-    "tier": "Flex",
-    "bid": 4,
-    "projected": 34,
-    "actual": 0
   },
   {
     "owner": "Netten",

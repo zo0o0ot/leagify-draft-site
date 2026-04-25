@@ -286,6 +286,17 @@
     "points_per_dollar": 2.083
   },
   {
+    "school": "Toledo",
+    "owner": "Netten",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 34,
+    "actual": 25,
+    "difference": -9,
+    "performance_ratio": 0.735,
+    "points_per_dollar": 6.25
+  },
+  {
     "school": "Tennessee",
     "owner": "Netten",
     "tier": "SEC",
