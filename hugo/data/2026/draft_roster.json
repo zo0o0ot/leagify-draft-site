@@ -49,6 +49,14 @@
   },
   {
     "owner": "AJ",
+    "school": "BYU",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 15,
+    "actual": 16
+  },
+  {
+    "owner": "AJ",
     "school": "Wake Forest",
     "tier": "Flex",
     "bid": 1,
@@ -69,14 +77,6 @@
     "tier": "Big Ten",
     "bid": 1,
     "projected": 10,
-    "actual": 0
-  },
-  {
-    "owner": "AJ",
-    "school": "BYU",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 15,
     "actual": 0
   },
   {

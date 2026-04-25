@@ -2878,5 +2878,20 @@
     "conference": "Big Ten",
     "player_id": "2efad32c-035b-4ccd-bd31-5e415300fe0d",
     "owner": "Jared"
+  },
+  {
+    "pick": 193,
+    "round": 6,
+    "pick_in_round": 12,
+    "player": "Jack Kelly",
+    "school": "BYU",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Utah",
+    "conference": "Big 12",
+    "player_id": "db82b9ce-a617-4a27-a0b2-aa1917bf0029",
+    "owner": "AJ"
   }
 ]

@@ -539,6 +539,17 @@
     "points_per_dollar": 17.0
   },
   {
+    "school": "BYU",
+    "owner": "AJ",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 15,
+    "actual": 16,
+    "difference": 1,
+    "performance_ratio": 1.067,
+    "points_per_dollar": 16.0
+  },
+  {
     "school": "Vanderbilt",
     "owner": "Jared",
     "tier": "Flex",
