@@ -3178,5 +3178,20 @@
     "conference": "Big 12",
     "player_id": "bfe424ae-2b66-4ad9-984f-6ea80b102684",
     "owner": "Jawad"
+  },
+  {
+    "pick": 213,
+    "round": 6,
+    "pick_in_round": 32,
+    "player": "Jordan van den Berg",
+    "school": "Georgia Tech",
+    "position": "DL",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Georgia",
+    "conference": "ACC",
+    "player_id": "b523da2d-368b-4738-94d0-271aba4708fb",
+    "owner": "Netten"
   }
 ]

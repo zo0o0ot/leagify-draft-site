@@ -289,19 +289,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Georgia Tech",
+    "tier": "ACC",
+    "bid": 5,
+    "projected": 29,
+    "actual": 51
+  },
+  {
+    "owner": "Netten",
     "school": "Duke",
     "tier": "Flex",
     "bid": 4,
     "projected": 29,
     "actual": 41
-  },
-  {
-    "owner": "Netten",
-    "school": "Georgia Tech",
-    "tier": "ACC",
-    "bid": 5,
-    "projected": 29,
-    "actual": 35
   },
   {
     "owner": "Netten",

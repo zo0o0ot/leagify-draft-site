@@ -286,6 +286,17 @@
     "points_per_dollar": 2.037
   },
   {
+    "school": "Georgia Tech",
+    "owner": "Netten",
+    "tier": "ACC",
+    "bid": 5,
+    "projected": 29,
+    "actual": 51,
+    "difference": 22,
+    "performance_ratio": 1.759,
+    "points_per_dollar": 10.2
+  },
+  {
     "school": "Boston College",
     "owner": "Jared",
     "tier": "Flex",
@@ -372,17 +383,6 @@
     "difference": 11,
     "performance_ratio": 1.458,
     "points_per_dollar": 35.0
-  },
-  {
-    "school": "Georgia Tech",
-    "owner": "Netten",
-    "tier": "ACC",
-    "bid": 5,
-    "projected": 29,
-    "actual": 35,
-    "difference": 6,
-    "performance_ratio": 1.207,
-    "points_per_dollar": 7.0
   },
   {
     "school": "San Diego State",
