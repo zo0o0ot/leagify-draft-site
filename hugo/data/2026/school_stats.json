@@ -165,6 +165,17 @@
     "points_per_dollar": 2.8
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 81,
+    "difference": -13,
+    "performance_ratio": 0.862,
+    "points_per_dollar": 3.24
+  },
+  {
     "school": "Auburn",
     "owner": "Netten",
     "tier": "Flex",
@@ -240,17 +251,6 @@
     "difference": 9,
     "performance_ratio": 1.158,
     "points_per_dollar": 2.538
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 65,
-    "difference": -29,
-    "performance_ratio": 0.691,
-    "points_per_dollar": 2.6
   },
   {
     "school": "Arizona",

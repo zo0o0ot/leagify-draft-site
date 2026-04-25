@@ -2758,5 +2758,20 @@
     "conference": "Big 12",
     "player_id": "5bf2b37d-175e-45c6-9d53-e2808495e9d9",
     "owner": "Jared"
+  },
+  {
+    "pick": 185,
+    "round": 6,
+    "pick_in_round": 4,
+    "player": "Bauer Sharp",
+    "school": "LSU",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "f3c8745e-40b7-4417-9ba8-6965fe812a21",
+    "owner": "Jawad"
   }
 ]

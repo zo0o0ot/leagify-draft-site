@@ -193,6 +193,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "LSU",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 81
+  },
+  {
+    "owner": "Jawad",
     "school": "Texas",
     "tier": "SEC",
     "bid": 20,
@@ -206,14 +214,6 @@
     "bid": 20,
     "projected": 68,
     "actual": 74
-  },
-  {
-    "owner": "Jawad",
-    "school": "LSU",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 65
   },
   {
     "owner": "Jawad",
