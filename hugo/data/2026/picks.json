@@ -703,5 +703,20 @@
     "conference": "SEC",
     "player_id": "9dd5cbab-b5c0-4f24-924a-f95ed2ad8608",
     "owner": "Jared"
+  },
+  {
+    "pick": 48,
+    "round": 2,
+    "pick_in_round": 16,
+    "player": "Avieon Terrell",
+    "school": "Clemson",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "9db4c0c4-d2fa-4e7c-91ed-e986a3f86eb7",
+    "owner": "Tilo"
   }
 ]

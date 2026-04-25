@@ -401,19 +401,19 @@
   },
   {
     "owner": "Tilo",
+    "school": "Clemson",
+    "tier": "Flex",
+    "bid": 85,
+    "projected": 146,
+    "actual": 115
+  },
+  {
+    "owner": "Tilo",
     "school": "Miami (FL)",
     "tier": "ACC",
     "bid": 48,
     "projected": 150,
     "actual": 100
-  },
-  {
-    "owner": "Tilo",
-    "school": "Clemson",
-    "tier": "Flex",
-    "bid": 85,
-    "projected": 146,
-    "actual": 95
   },
   {
     "owner": "Tilo",
