@@ -143,6 +143,17 @@
     "points_per_dollar": 4.72
   },
   {
+    "school": "Oklahoma",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 20,
+    "projected": 68,
+    "actual": 109,
+    "difference": 41,
+    "performance_ratio": 1.603,
+    "points_per_dollar": 5.45
+  },
+  {
     "school": "Texas",
     "owner": "Jawad",
     "tier": "SEC",
@@ -152,17 +163,6 @@
     "difference": 46,
     "performance_ratio": 1.73,
     "points_per_dollar": 5.45
-  },
-  {
-    "school": "Oklahoma",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 20,
-    "projected": 68,
-    "actual": 104,
-    "difference": 36,
-    "performance_ratio": 1.529,
-    "points_per_dollar": 5.2
   },
   {
     "school": "Missouri",

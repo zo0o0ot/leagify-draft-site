@@ -3793,5 +3793,20 @@
     "conference": "Big Ten",
     "player_id": "464bbafe-064d-404e-b6c8-f468189954e3",
     "owner": "Tilo"
+  },
+  {
+    "pick": 254,
+    "round": 7,
+    "pick_in_round": 38,
+    "player": "Deion Burks",
+    "school": "Oklahoma",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Oklahoma",
+    "conference": "SEC",
+    "player_id": "0fa01ae1-2d2b-48c2-8113-43c236f56974",
+    "owner": "Jawad"
   }
 ]
