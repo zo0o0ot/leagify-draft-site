@@ -161,19 +161,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Penn State",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 117
+  },
+  {
+    "owner": "Jawad",
     "school": "Notre Dame",
     "tier": "Flex",
     "bid": 31,
     "projected": 97,
     "actual": 107
-  },
-  {
-    "owner": "Jawad",
-    "school": "Penn State",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 100
   },
   {
     "owner": "Jawad",

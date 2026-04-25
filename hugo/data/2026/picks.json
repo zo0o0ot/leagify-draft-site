@@ -2698,5 +2698,20 @@
     "conference": "SEC",
     "player_id": "67b0f8ba-960b-406a-b235-1c245d0f70ff",
     "owner": "Tilo"
+  },
+  {
+    "pick": 181,
+    "round": 5,
+    "pick_in_round": 41,
+    "player": "Zane Durant",
+    "school": "Penn State",
+    "position": "DT",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "4c84a354-48f5-4f82-9d11-055f6468b4ff",
+    "owner": "Jawad"
   }
 ]

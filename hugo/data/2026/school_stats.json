@@ -88,6 +88,17 @@
     "points_per_dollar": 2.786
   },
   {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 117,
+    "difference": 18,
+    "performance_ratio": 1.182,
+    "points_per_dollar": 3.162
+  },
+  {
     "school": "Notre Dame",
     "owner": "Jawad",
     "tier": "Flex",
@@ -108,17 +119,6 @@
     "difference": -8,
     "performance_ratio": 0.927,
     "points_per_dollar": 2.244
-  },
-  {
-    "school": "Penn State",
-    "owner": "Jawad",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 100,
-    "difference": 1,
-    "performance_ratio": 1.01,
-    "points_per_dollar": 2.703
   },
   {
     "school": "Florida",
