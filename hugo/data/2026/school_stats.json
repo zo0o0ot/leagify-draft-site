@@ -154,6 +154,17 @@
     "points_per_dollar": 4.118
   },
   {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 66,
+    "difference": -33,
+    "performance_ratio": 0.667,
+    "points_per_dollar": 1.784
+  },
+  {
     "school": "LSU",
     "owner": "Jawad",
     "tier": "SEC",
@@ -174,17 +185,6 @@
     "difference": -26,
     "performance_ratio": 0.698,
     "points_per_dollar": 2.0
-  },
-  {
-    "school": "Penn State",
-    "owner": "Jawad",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 58,
-    "difference": -41,
-    "performance_ratio": 0.586,
-    "points_per_dollar": 1.568
   },
   {
     "school": "Oklahoma",
@@ -242,6 +242,17 @@
     "points_per_dollar": 2.647
   },
   {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 43,
+    "difference": -14,
+    "performance_ratio": 0.754,
+    "points_per_dollar": 1.654
+  },
+  {
     "school": "UCF",
     "owner": "AJ",
     "tier": "Big 12",
@@ -273,17 +284,6 @@
     "difference": 13,
     "performance_ratio": 1.591,
     "points_per_dollar": 35.0
-  },
-  {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 35,
-    "difference": -22,
-    "performance_ratio": 0.614,
-    "points_per_dollar": 1.346
   },
   {
     "school": "Ole Miss",

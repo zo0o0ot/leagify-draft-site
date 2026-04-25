@@ -1783,5 +1783,35 @@
     "conference": "ACC",
     "player_id": "302a8d1e-f700-467e-b5cf-256e96f15e89",
     "owner": "Netten"
+  },
+  {
+    "pick": 120,
+    "round": 4,
+    "pick_in_round": 20,
+    "player": "Dani Dennis-Sutton",
+    "school": "Penn State",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "ed04aba1-7dd4-4de2-bfc0-a256aebc7bdf",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 121,
+    "round": 4,
+    "pick_in_round": 21,
+    "player": "Kaden Wetjen",
+    "school": "Iowa",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "eea93759-510a-4234-bdb6-c0a880ac086c",
+    "owner": "Netten"
   }
 ]
