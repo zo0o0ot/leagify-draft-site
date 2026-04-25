@@ -2458,5 +2458,20 @@
     "conference": "Big 12",
     "player_id": "e1c53fe3-98ab-4086-824c-a41812a65228",
     "owner": ""
+  },
+  {
+    "pick": 165,
+    "round": 5,
+    "pick_in_round": 25,
+    "player": "Nicholas Singleton",
+    "school": "Penn State",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "528435bc-d991-4a5c-b54e-d001e17cc386",
+    "owner": "Jawad"
   }
 ]

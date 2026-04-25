@@ -110,6 +110,17 @@
     "points_per_dollar": 2.244
   },
   {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 100,
+    "difference": 1,
+    "performance_ratio": 1.01,
+    "points_per_dollar": 2.703
+  },
+  {
     "school": "Florida",
     "owner": "Netten",
     "tier": "SEC",
@@ -130,17 +141,6 @@
     "difference": 34,
     "performance_ratio": 1.607,
     "points_per_dollar": 4.5
-  },
-  {
-    "school": "Penn State",
-    "owner": "Jawad",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 83,
-    "difference": -16,
-    "performance_ratio": 0.838,
-    "points_per_dollar": 2.243
   },
   {
     "school": "Auburn",
