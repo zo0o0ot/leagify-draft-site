@@ -2308,5 +2308,35 @@
     "conference": "",
     "player_id": "75f719ed-2542-45cd-9a91-21077bd58345",
     "owner": ""
+  },
+  {
+    "pick": 155,
+    "round": 5,
+    "pick_in_round": 15,
+    "player": "DeMonte Capehart",
+    "school": "Clemson",
+    "position": "DT",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "8dc542fd-ebd2-4bb4-89e0-23096f8c0818",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 156,
+    "round": 5,
+    "pick_in_round": 16,
+    "player": "George Gumbs Jr.",
+    "school": "Florida",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "4d02f418-e946-4c37-8843-5a055f34637b",
+    "owner": "Netten"
   }
 ]
