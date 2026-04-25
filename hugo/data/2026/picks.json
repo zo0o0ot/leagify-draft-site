@@ -1633,5 +1633,20 @@
     "conference": "Big Ten",
     "player_id": "3f05c774-a6f3-4239-ab00-774a0aeb225b",
     "owner": "Jared"
+  },
+  {
+    "pick": 110,
+    "round": 4,
+    "pick_in_round": 10,
+    "player": "Cade Klubnik",
+    "school": "Clemson",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "9d25ab6b-9589-4c95-a090-959ec56fc95f",
+    "owner": "Tilo"
   }
 ]
