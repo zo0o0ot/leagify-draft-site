@@ -3193,5 +3193,35 @@
     "conference": "ACC",
     "player_id": "b523da2d-368b-4738-94d0-271aba4708fb",
     "owner": "Netten"
+  },
+  {
+    "pick": 214,
+    "round": 6,
+    "pick_in_round": 33,
+    "player": "Caden Curry",
+    "school": "Ohio State",
+    "position": "DE",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "e794dbef-3485-48ea-b526-934ed0b377d4",
+    "owner": "Ross"
+  },
+  {
+    "pick": 215,
+    "round": 6,
+    "pick_in_round": 34,
+    "player": "Harold Perkins Jr.",
+    "school": "LSU",
+    "position": "LB",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Louisiana",
+    "conference": "SEC",
+    "player_id": "3a790fc0-6cf2-4dce-bdc9-d955c8e2dcc5",
+    "owner": "Jawad"
   }
 ]

@@ -5,10 +5,10 @@
     "tier": "Big Ten",
     "bid": 106,
     "projected": 207,
-    "actual": 252,
-    "difference": 45,
-    "performance_ratio": 1.217,
-    "points_per_dollar": 2.377
+    "actual": 268,
+    "difference": 61,
+    "performance_ratio": 1.295,
+    "points_per_dollar": 2.528
   },
   {
     "school": "Miami (FL)",
@@ -121,6 +121,17 @@
     "points_per_dollar": 3.324
   },
   {
+    "school": "LSU",
+    "owner": "Jawad",
+    "tier": "SEC",
+    "bid": 25,
+    "projected": 94,
+    "actual": 103,
+    "difference": 9,
+    "performance_ratio": 1.096,
+    "points_per_dollar": 4.12
+  },
+  {
     "school": "Florida",
     "owner": "Netten",
     "tier": "SEC",
@@ -152,17 +163,6 @@
     "difference": 34,
     "performance_ratio": 1.607,
     "points_per_dollar": 4.5
-  },
-  {
-    "school": "LSU",
-    "owner": "Jawad",
-    "tier": "SEC",
-    "bid": 25,
-    "projected": 94,
-    "actual": 87,
-    "difference": -7,
-    "performance_ratio": 0.926,
-    "points_per_dollar": 3.48
   },
   {
     "school": "Auburn",
