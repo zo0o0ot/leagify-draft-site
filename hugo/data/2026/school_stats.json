@@ -253,6 +253,17 @@
     "points_per_dollar": 5.0
   },
   {
+    "school": "Tennessee",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 27,
+    "projected": 98,
+    "actual": 30,
+    "difference": -68,
+    "performance_ratio": 0.306,
+    "points_per_dollar": 1.111
+  },
+  {
     "school": "Arizona",
     "owner": "Tilo",
     "tier": "Flex",
@@ -317,17 +328,6 @@
     "difference": -38,
     "performance_ratio": 0.397,
     "points_per_dollar": 1.25
-  },
-  {
-    "school": "Tennessee",
-    "owner": "Netten",
-    "tier": "SEC",
-    "bid": 27,
-    "projected": 98,
-    "actual": 20,
-    "difference": -78,
-    "performance_ratio": 0.204,
-    "points_per_dollar": 0.741
   },
   {
     "school": "Oklahoma",

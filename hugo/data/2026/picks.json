@@ -1228,5 +1228,20 @@
     "conference": "Big 12",
     "player_id": "104aa49d-5c50-4532-ab5f-a08dac47f438",
     "owner": "Ross"
+  },
+  {
+    "pick": 83,
+    "round": 3,
+    "pick_in_round": 19,
+    "player": "Chris Brazzell II",
+    "school": "Tennessee",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "919a8694-6b72-46a9-8011-79a39c21fe1d",
+    "owner": "Netten"
   }
 ]
