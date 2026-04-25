@@ -3238,5 +3238,35 @@
     "conference": "SEC",
     "player_id": "4fbbc799-d322-47ca-acf2-845cd82cfb51",
     "owner": "Netten"
+  },
+  {
+    "pick": 217,
+    "round": 7,
+    "pick_in_round": 1,
+    "player": "Jayden Williams",
+    "school": "Ole Miss",
+    "position": "OL",
+    "experience": "",
+    "traded": false,
+    "points": 5,
+    "state": "Mississippi",
+    "conference": "SEC",
+    "player_id": "8c9c35d9-582c-4979-869e-ccaa979dd4e6",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 218,
+    "round": 7,
+    "pick_in_round": 2,
+    "player": "Anthony Smith",
+    "school": "East Carolina",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "North Carolina",
+    "conference": "FBS - AAC",
+    "player_id": "f8175056-e2c9-4f95-b78e-f939006d9658",
+    "owner": ""
   }
 ]

@@ -441,6 +441,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Ole Miss",
+    "tier": "SEC",
+    "bid": 6,
+    "projected": 34,
+    "actual": 35
+  },
+  {
+    "owner": "Tilo",
     "school": "Mississippi State",
     "tier": "SEC",
     "bid": 1,
@@ -454,14 +462,6 @@
     "bid": 1,
     "projected": 11,
     "actual": 33
-  },
-  {
-    "owner": "Tilo",
-    "school": "Ole Miss",
-    "tier": "SEC",
-    "bid": 6,
-    "projected": 34,
-    "actual": 30
   },
   {
     "owner": "Tilo",
