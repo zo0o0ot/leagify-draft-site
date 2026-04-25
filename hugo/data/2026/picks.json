@@ -1813,5 +1813,20 @@
     "conference": "Big Ten",
     "player_id": "eea93759-510a-4234-bdb6-c0a880ac086c",
     "owner": "Netten"
+  },
+  {
+    "pick": 122,
+    "round": 4,
+    "pick_in_round": 22,
+    "player": "Mike Washington Jr.",
+    "school": "Arkansas",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Arkansas",
+    "conference": "SEC",
+    "player_id": "97c96775-3e2d-44cf-9b50-c618c58576e2",
+    "owner": "AJ"
   }
 ]

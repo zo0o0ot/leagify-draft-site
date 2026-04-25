@@ -253,6 +253,17 @@
     "points_per_dollar": 1.654
   },
   {
+    "school": "Arkansas",
+    "owner": "AJ",
+    "tier": "SEC",
+    "bid": 5,
+    "projected": 40,
+    "actual": 38,
+    "difference": -2,
+    "performance_ratio": 0.95,
+    "points_per_dollar": 7.6
+  },
+  {
     "school": "UCF",
     "owner": "AJ",
     "tier": "Big 12",
@@ -372,17 +383,6 @@
     "difference": -8,
     "performance_ratio": 0.714,
     "points_per_dollar": 2.857
-  },
-  {
-    "school": "Arkansas",
-    "owner": "AJ",
-    "tier": "SEC",
-    "bid": 5,
-    "projected": 40,
-    "actual": 20,
-    "difference": -20,
-    "performance_ratio": 0.5,
-    "points_per_dollar": 4.0
   },
   {
     "school": "Boston College",
