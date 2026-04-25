@@ -2188,5 +2188,20 @@
     "conference": "SEC",
     "player_id": "730e2abd-1299-4726-8071-e0a15866b6ef",
     "owner": "Jared"
+  },
+  {
+    "pick": 147,
+    "round": 5,
+    "pick_in_round": 7,
+    "player": "Joshua Josephs",
+    "school": "Tennessee",
+    "position": "DE",
+    "experience": "",
+    "traded": false,
+    "points": 7,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "3c61e1c0-ef94-4f11-b4ba-59d811d6c484",
+    "owner": "Netten"
   }
 ]
