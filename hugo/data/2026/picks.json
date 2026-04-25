@@ -1273,5 +1273,20 @@
     "conference": "SEC",
     "player_id": "6ec30f81-78bb-40d6-adbd-617763aba4b6",
     "owner": "Netten"
+  },
+  {
+    "pick": 87,
+    "round": 3,
+    "pick_in_round": 23,
+    "player": "Will Kacmarek",
+    "school": "Ohio State",
+    "position": "TE",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Ohio",
+    "conference": "Big Ten",
+    "player_id": "c3b18595-ef8b-4e8c-9c1f-466799330fef",
+    "owner": "Ross"
   }
 ]
