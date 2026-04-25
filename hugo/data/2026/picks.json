@@ -2023,5 +2023,20 @@
     "conference": "Big Ten",
     "player_id": "d34bdf57-fb50-4492-8053-4fe9611da063",
     "owner": "Jared"
+  },
+  {
+    "pick": 136,
+    "round": 4,
+    "pick_in_round": 36,
+    "player": "Bryce Lance",
+    "school": "North Dakota State",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "North Dakota",
+    "conference": "FCS",
+    "player_id": "c1c14c9e-5cee-4552-a87b-0fe0f1ad8989",
+    "owner": "Ross"
   }
 ]

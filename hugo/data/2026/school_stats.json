@@ -515,5 +515,16 @@
     "difference": -28,
     "performance_ratio": 0.222,
     "points_per_dollar": 2.0
+  },
+  {
+    "school": "North Dakota State",
+    "owner": "Ross",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 18,
+    "actual": 8,
+    "difference": -10,
+    "performance_ratio": 0.444,
+    "points_per_dollar": 4.0
   }
 ]
