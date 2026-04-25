@@ -1753,5 +1753,20 @@
     "conference": "FBS - AAC",
     "player_id": "368de103-1a3c-42cb-b22c-37294bf698ff",
     "owner": ""
+  },
+  {
+    "pick": 118,
+    "round": 4,
+    "pick_in_round": 18,
+    "player": "Jimmy Rolder",
+    "school": "Michigan",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Michigan",
+    "conference": "Big Ten",
+    "player_id": "748aab2c-b205-4eaa-883f-843a1d19174d",
+    "owner": "Jawad"
   }
 ]
