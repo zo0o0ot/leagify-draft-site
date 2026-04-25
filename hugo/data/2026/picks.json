@@ -2953,5 +2953,35 @@
     "conference": "ACC",
     "player_id": "6da3beda-a354-4509-95b1-3ce3fd2c6f83",
     "owner": "Tilo"
+  },
+  {
+    "pick": 198,
+    "round": 6,
+    "pick_in_round": 17,
+    "player": "Demond Claiborne",
+    "school": "Wake Forest",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "North Carolina",
+    "conference": "ACC",
+    "player_id": "d7c24638-e151-41c7-97b2-9e6f0fb85996",
+    "owner": "AJ"
+  },
+  {
+    "pick": 199,
+    "round": 6,
+    "pick_in_round": 18,
+    "player": "Emmanuel Henderson Jr.",
+    "school": "Kansas",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 16,
+    "state": "Kansas",
+    "conference": "Big 12",
+    "player_id": "11573aa7-dead-4028-a16d-d406656d3194",
+    "owner": "Tilo"
   }
 ]

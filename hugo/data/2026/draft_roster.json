@@ -25,6 +25,14 @@
   },
   {
     "owner": "AJ",
+    "school": "Wake Forest",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 14,
+    "actual": 23
+  },
+  {
+    "owner": "AJ",
     "school": "Stanford",
     "tier": "Flex",
     "bid": 1,
@@ -54,14 +62,6 @@
     "bid": 1,
     "projected": 15,
     "actual": 16
-  },
-  {
-    "owner": "AJ",
-    "school": "Wake Forest",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 14,
-    "actual": 7
   },
   {
     "owner": "AJ",
@@ -449,6 +449,14 @@
   },
   {
     "owner": "Tilo",
+    "school": "Kansas",
+    "tier": "Flex",
+    "bid": 1,
+    "projected": 11,
+    "actual": 33
+  },
+  {
+    "owner": "Tilo",
     "school": "Ole Miss",
     "tier": "SEC",
     "bid": 6,
@@ -462,14 +470,6 @@
     "bid": 1,
     "projected": 17,
     "actual": 18
-  },
-  {
-    "owner": "Tilo",
-    "school": "Kansas",
-    "tier": "Flex",
-    "bid": 1,
-    "projected": 11,
-    "actual": 17
   },
   {
     "owner": "Tilo",
