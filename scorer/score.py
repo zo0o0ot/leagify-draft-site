@@ -126,6 +126,12 @@ def assign_owners(picks: list[dict], fantasy: list[dict]) -> list[dict]:
     return owned
 
 
+def assign_owners_all(picks: list[dict], fantasy: list[dict]) -> list[dict]:
+    """All picks with owner assigned; unowned schools get owner=''."""
+    school_to_owner = {row["Player"]: row["Owner"] for row in fantasy}
+    return [{**pick, "owner": school_to_owner.get(pick["school"], "")} for pick in picks]
+
+
 def compute_owner_scores(owned_picks: list[dict]) -> list[dict]:
     totals: dict[str, int] = {}
     for pick in owned_picks:
@@ -339,7 +345,7 @@ def score_year(year: int, draft_complete: bool, api_key: str) -> dict:
     write_json(data_dir, "round_breakdown.json", compute_round_breakdown(owned_picks))
     write_json(data_dir, "flops.json", compute_flops(fantasy, owned_picks))
     write_json(data_dir, "nobody_schools.json", compute_nobody_schools(picks, owned_picks))
-    write_json(data_dir, "picks.json", owned_picks)
+    write_json(data_dir, "picks.json", assign_owners_all(picks, fantasy))
 
     return compute_draft_status(year, draft_data, picks)
 

@@ -18,13 +18,14 @@
   </thead>
   <tbody>
     {{ range $data }}
-    <tr style="border-bottom:1px solid #1c2026">
+    {{ $unowned := eq .owner "" }}
+    <tr style="border-bottom:1px solid #1c2026{{ if $unowned }};opacity:0.55{{ end }}">
       <td style="padding:4px 10px;color:#c4c6cf">{{ .pick }}</td>
       <td style="padding:4px 10px;font-weight:500">{{ .player }}</td>
       <td style="padding:4px 10px">{{ .school }}</td>
       <td style="padding:4px 10px;color:#c4c6cf">{{ .position }}</td>
       <td style="padding:4px 10px;color:#c4c6cf;text-align:center">{{ .round }}</td>
-      <td style="padding:4px 10px">{{ .owner }}</td>
+      <td style="padding:4px 10px;{{ if $unowned }}color:#555e6e;font-style:italic{{ end }}">{{ if $unowned }}—{{ else }}{{ .owner }}{{ end }}</td>
       <td style="padding:4px 10px;text-align:right;font-weight:600;color:#e9c400">{{ .points }}</td>
       <td style="padding:4px 10px;text-align:center;color:#adc6ff">{{ if .traded }}✓{{ end }}</td>
     </tr>
