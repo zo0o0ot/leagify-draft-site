@@ -673,5 +673,35 @@
     "conference": "SEC",
     "player_id": "3b35aafe-593e-41c3-9036-4028d622f683",
     "owner": "Jawad"
+  },
+  {
+    "pick": 46,
+    "round": 2,
+    "pick_in_round": 14,
+    "player": "Josiah Trotter",
+    "school": "Missouri",
+    "position": "LB",
+    "experience": "",
+    "traded": false,
+    "points": 20,
+    "state": "Missouri",
+    "conference": "SEC",
+    "player_id": "9a5692f6-c87f-4e3f-8973-82563d059bf6",
+    "owner": "Jawad"
+  },
+  {
+    "pick": 47,
+    "round": 2,
+    "pick_in_round": 15,
+    "player": "Germie Bernard",
+    "school": "Alabama",
+    "position": "WR",
+    "experience": "",
+    "traded": true,
+    "points": 30,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "9dd5cbab-b5c0-4f24-924a-f95ed2ad8608",
+    "owner": "Jared"
   }
 ]

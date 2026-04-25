@@ -85,7 +85,7 @@
     "tier": "SEC",
     "bid": 42,
     "projected": 127,
-    "actual": 80
+    "actual": 110
   },
   {
     "owner": "Jared",
@@ -177,6 +177,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Missouri",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 60,
+    "actual": 40
+  },
+  {
+    "owner": "Jawad",
     "school": "Penn State",
     "tier": "Big Ten",
     "bid": 37,
@@ -205,14 +213,6 @@
     "tier": "Flex",
     "bid": 20,
     "projected": 68,
-    "actual": 20
-  },
-  {
-    "owner": "Jawad",
-    "school": "Missouri",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 60,
     "actual": 20
   },
   {

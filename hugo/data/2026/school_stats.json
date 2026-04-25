@@ -11,6 +11,17 @@
     "points_per_dollar": 1.651
   },
   {
+    "school": "Alabama",
+    "owner": "Jared",
+    "tier": "SEC",
+    "bid": 42,
+    "projected": 127,
+    "actual": 110,
+    "difference": -17,
+    "performance_ratio": 0.866,
+    "points_per_dollar": 2.619
+  },
+  {
     "school": "Miami (FL)",
     "owner": "Tilo",
     "tier": "ACC",
@@ -42,17 +53,6 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
-  },
-  {
-    "school": "Alabama",
-    "owner": "Jared",
-    "tier": "SEC",
-    "bid": 42,
-    "projected": 127,
-    "actual": 80,
-    "difference": -47,
-    "performance_ratio": 0.63,
-    "points_per_dollar": 1.905
   },
   {
     "school": "Indiana",
@@ -152,6 +152,17 @@
     "difference": -28,
     "performance_ratio": 0.588,
     "points_per_dollar": 1.667
+  },
+  {
+    "school": "Missouri",
+    "owner": "Jawad",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 60,
+    "actual": 40,
+    "difference": -20,
+    "performance_ratio": 0.667,
+    "points_per_dollar": 2.353
   },
   {
     "school": "UCF",
@@ -284,16 +295,5 @@
     "difference": -48,
     "performance_ratio": 0.294,
     "points_per_dollar": 1.0
-  },
-  {
-    "school": "Missouri",
-    "owner": "Jawad",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 60,
-    "actual": 20,
-    "difference": -40,
-    "performance_ratio": 0.333,
-    "points_per_dollar": 1.176
   }
 ]
