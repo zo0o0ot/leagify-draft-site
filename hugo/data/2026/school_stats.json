@@ -121,6 +121,17 @@
     "points_per_dollar": 1.844
   },
   {
+    "school": "Auburn",
+    "owner": "Netten",
+    "tier": "Flex",
+    "bid": 17,
+    "projected": 61,
+    "actual": 81,
+    "difference": 20,
+    "performance_ratio": 1.328,
+    "points_per_dollar": 4.765
+  },
+  {
     "school": "Utah",
     "owner": "Netten",
     "tier": "Big 12",
@@ -174,17 +185,6 @@
     "difference": -29,
     "performance_ratio": 0.691,
     "points_per_dollar": 2.6
-  },
-  {
-    "school": "Auburn",
-    "owner": "Netten",
-    "tier": "Flex",
-    "bid": 17,
-    "projected": 61,
-    "actual": 63,
-    "difference": 2,
-    "performance_ratio": 1.033,
-    "points_per_dollar": 3.706
   },
   {
     "school": "Texas",

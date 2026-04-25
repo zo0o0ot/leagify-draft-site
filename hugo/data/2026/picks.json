@@ -1963,5 +1963,20 @@
     "conference": "Big 12",
     "player_id": "1651e933-d519-4498-9ab4-b52287006a21",
     "owner": "Tilo"
+  },
+  {
+    "pick": 132,
+    "round": 4,
+    "pick_in_round": 32,
+    "player": "Jeremiah Wright",
+    "school": "Auburn",
+    "position": "G",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Alabama",
+    "conference": "SEC",
+    "player_id": "1dbd7534-7804-42e6-a53a-3dcf950a5f48",
+    "owner": "Netten"
   }
 ]
