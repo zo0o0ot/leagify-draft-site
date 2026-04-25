@@ -3508,5 +3508,35 @@
     "conference": "Big 12",
     "player_id": "c88ad684-30c9-4a4e-814a-fc1e143f7f82",
     "owner": "Jared"
+  },
+  {
+    "pick": 235,
+    "round": 7,
+    "pick_in_round": 19,
+    "player": "Gavin Gerhardt",
+    "school": "Cincinnati",
+    "position": "OL",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Ohio",
+    "conference": "Big 12",
+    "player_id": "f9d24c1b-1b44-4b64-84ee-16c2147c00a6",
+    "owner": "Ross"
+  },
+  {
+    "pick": 236,
+    "round": 7,
+    "pick_in_round": 20,
+    "player": "Andre Fuller",
+    "school": "Toledo",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Ohio",
+    "conference": "FBS - MAC",
+    "player_id": "c9e3c11a-7da8-4b70-b7b1-b7a4874c967f",
+    "owner": "Netten"
   }
 ]

@@ -286,6 +286,17 @@
     "points_per_dollar": 32.5
   },
   {
+    "school": "Cincinnati",
+    "owner": "Ross",
+    "tier": "Big 12",
+    "bid": 8,
+    "projected": 46,
+    "actual": 64,
+    "difference": 18,
+    "performance_ratio": 1.391,
+    "points_per_dollar": 8.0
+  },
+  {
     "school": "Georgia Tech",
     "owner": "Netten",
     "tier": "ACC",
@@ -306,17 +317,6 @@
     "difference": 31,
     "performance_ratio": 2.632,
     "points_per_dollar": 50.0
-  },
-  {
-    "school": "Cincinnati",
-    "owner": "Ross",
-    "tier": "Big 12",
-    "bid": 8,
-    "projected": 46,
-    "actual": 49,
-    "difference": 3,
-    "performance_ratio": 1.065,
-    "points_per_dollar": 6.125
   },
   {
     "school": "South Carolina",
@@ -361,6 +361,17 @@
     "difference": 12,
     "performance_ratio": 1.414,
     "points_per_dollar": 10.25
+  },
+  {
+    "school": "Toledo",
+    "owner": "Netten",
+    "tier": "Flex",
+    "bid": 4,
+    "projected": 34,
+    "actual": 40,
+    "difference": 6,
+    "performance_ratio": 1.176,
+    "points_per_dollar": 10.0
   },
   {
     "school": "Stanford",
@@ -471,17 +482,6 @@
     "difference": 0,
     "performance_ratio": 1.0,
     "points_per_dollar": 9.667
-  },
-  {
-    "school": "Toledo",
-    "owner": "Netten",
-    "tier": "Flex",
-    "bid": 4,
-    "projected": 34,
-    "actual": 25,
-    "difference": -9,
-    "performance_ratio": 0.735,
-    "points_per_dollar": 6.25
   },
   {
     "school": "Wake Forest",

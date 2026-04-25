@@ -309,7 +309,7 @@
     "tier": "Flex",
     "bid": 4,
     "projected": 34,
-    "actual": 25
+    "actual": 40
   },
   {
     "owner": "Netten",
@@ -337,18 +337,18 @@
   },
   {
     "owner": "Ross",
-    "school": "South Carolina",
-    "tier": "SEC",
-    "bid": 7,
-    "projected": 44,
-    "actual": 49
-  },
-  {
-    "owner": "Ross",
     "school": "Cincinnati",
     "tier": "Big 12",
     "bid": 8,
     "projected": 46,
+    "actual": 64
+  },
+  {
+    "owner": "Ross",
+    "school": "South Carolina",
+    "tier": "SEC",
+    "bid": 7,
+    "projected": 44,
     "actual": 49
   },
   {
