@@ -201,19 +201,19 @@
   },
   {
     "owner": "Jawad",
+    "school": "Washington",
+    "tier": "Flex",
+    "bid": 9,
+    "projected": 56,
+    "actual": 30
+  },
+  {
+    "owner": "Jawad",
     "school": "Texas",
     "tier": "SEC",
     "bid": 20,
     "projected": 63,
     "actual": 25
-  },
-  {
-    "owner": "Jawad",
-    "school": "Washington",
-    "tier": "Flex",
-    "bid": 9,
-    "projected": 56,
-    "actual": 20
   },
   {
     "owner": "Jawad",
@@ -413,7 +413,7 @@
     "tier": "Flex",
     "bid": 85,
     "projected": 146,
-    "actual": 115
+    "actual": 125
   },
   {
     "owner": "Tilo",

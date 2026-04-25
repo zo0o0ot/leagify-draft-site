@@ -42,6 +42,12 @@
     "points": 165
   },
   {
+    "owner": "Jawad",
+    "round": 3,
+    "picks": 1,
+    "points": 10
+  },
+  {
     "owner": "Netten",
     "round": 1,
     "picks": 7,
@@ -86,7 +92,7 @@
   {
     "owner": "Tilo",
     "round": 3,
-    "picks": 2,
-    "points": 30
+    "picks": 3,
+    "points": 40
   }
 ]

@@ -1048,5 +1048,35 @@
     "conference": "Big 12",
     "player_id": "bc8f6e80-ba84-4015-8f7f-772cae7fafb3",
     "owner": "Jared"
+  },
+  {
+    "pick": 71,
+    "round": 3,
+    "pick_in_round": 7,
+    "player": "Antonio Williams",
+    "school": "Clemson",
+    "position": "WR",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "South Carolina",
+    "conference": "ACC",
+    "player_id": "86735d82-6c96-4761-80ae-7fd3f8f4bf6b",
+    "owner": "Tilo"
+  },
+  {
+    "pick": 72,
+    "round": 3,
+    "pick_in_round": 8,
+    "player": "Tacario Davis",
+    "school": "Washington",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Washington",
+    "conference": "Big Ten",
+    "player_id": "9da681f0-dc2e-4153-8892-bd95f27037f9",
+    "owner": "Jawad"
   }
 ]
