@@ -66,6 +66,17 @@
     "points_per_dollar": 2.619
   },
   {
+    "school": "Georgia",
+    "owner": "Ross",
+    "tier": "SEC",
+    "bid": 55,
+    "projected": 120,
+    "actual": 105,
+    "difference": -15,
+    "performance_ratio": 0.875,
+    "points_per_dollar": 1.909
+  },
+  {
     "school": "Indiana",
     "owner": "Netten",
     "tier": "Big Ten",
@@ -75,17 +86,6 @@
     "difference": -34,
     "performance_ratio": 0.746,
     "points_per_dollar": 2.326
-  },
-  {
-    "school": "Georgia",
-    "owner": "Ross",
-    "tier": "SEC",
-    "bid": 55,
-    "projected": 120,
-    "actual": 95,
-    "difference": -25,
-    "performance_ratio": 0.792,
-    "points_per_dollar": 1.727
   },
   {
     "school": "Notre Dame",
@@ -108,6 +108,17 @@
     "difference": 3,
     "performance_ratio": 1.039,
     "points_per_dollar": 4.0
+  },
+  {
+    "school": "Florida",
+    "owner": "Netten",
+    "tier": "SEC",
+    "bid": 28,
+    "projected": 69,
+    "actual": 75,
+    "difference": 6,
+    "performance_ratio": 1.087,
+    "points_per_dollar": 2.679
   },
   {
     "school": "Oregon",
@@ -152,17 +163,6 @@
     "difference": -39,
     "performance_ratio": 0.585,
     "points_per_dollar": 2.2
-  },
-  {
-    "school": "Florida",
-    "owner": "Netten",
-    "tier": "SEC",
-    "bid": 28,
-    "projected": 69,
-    "actual": 55,
-    "difference": -14,
-    "performance_ratio": 0.797,
-    "points_per_dollar": 1.964
   },
   {
     "school": "Penn State",

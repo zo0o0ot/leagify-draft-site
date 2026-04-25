@@ -1243,5 +1243,35 @@
     "conference": "SEC",
     "player_id": "919a8694-6b72-46a9-8011-79a39c21fe1d",
     "owner": "Netten"
+  },
+  {
+    "pick": 85,
+    "round": 3,
+    "pick_in_round": 21,
+    "player": "Daylen Everette",
+    "school": "Georgia",
+    "position": "CB",
+    "experience": "",
+    "traded": false,
+    "points": 10,
+    "state": "Georgia",
+    "conference": "SEC",
+    "player_id": "33b8f521-7677-4019-a620-d7704d35a18b",
+    "owner": "Ross"
+  },
+  {
+    "pick": 86,
+    "round": 3,
+    "pick_in_round": 22,
+    "player": "Austin Barber",
+    "school": "Florida",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Florida",
+    "conference": "SEC",
+    "player_id": "6ec30f81-78bb-40d6-adbd-617763aba4b6",
+    "owner": "Netten"
   }
 ]
