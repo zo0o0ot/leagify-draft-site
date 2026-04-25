@@ -169,6 +169,14 @@
   },
   {
     "owner": "Jawad",
+    "school": "Penn State",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 50
+  },
+  {
+    "owner": "Jawad",
     "school": "LSU",
     "tier": "SEC",
     "bid": 25,
@@ -190,14 +198,6 @@
     "bid": 17,
     "projected": 60,
     "actual": 40
-  },
-  {
-    "owner": "Jawad",
-    "school": "Penn State",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 30
   },
   {
     "owner": "Jawad",

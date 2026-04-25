@@ -1123,5 +1123,20 @@
     "conference": "Big 12",
     "player_id": "e05b2997-4681-43fd-844d-b4c05686d4d6",
     "owner": "Jared"
+  },
+  {
+    "pick": 76,
+    "round": 3,
+    "pick_in_round": 12,
+    "player": "Drew Allar",
+    "school": "Penn State",
+    "position": "QB",
+    "experience": "",
+    "traded": true,
+    "points": 20,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "0fff6e3e-6fa1-4eb8-89d3-26bd2338fd09",
+    "owner": "Jawad"
   }
 ]
