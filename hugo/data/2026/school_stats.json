@@ -198,6 +198,17 @@
     "points_per_dollar": 2.8
   },
   {
+    "school": "Iowa",
+    "owner": "Netten",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 81,
+    "difference": 24,
+    "performance_ratio": 1.421,
+    "points_per_dollar": 3.115
+  },
+  {
     "school": "Utah",
     "owner": "Netten",
     "tier": "Big 12",
@@ -251,17 +262,6 @@
     "difference": -1,
     "performance_ratio": 0.985,
     "points_per_dollar": 2.792
-  },
-  {
-    "school": "Iowa",
-    "owner": "Netten",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 66,
-    "difference": 9,
-    "performance_ratio": 1.158,
-    "points_per_dollar": 2.538
   },
   {
     "school": "Arizona",

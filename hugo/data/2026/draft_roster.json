@@ -265,19 +265,19 @@
   },
   {
     "owner": "Netten",
+    "school": "Iowa",
+    "tier": "Big Ten",
+    "bid": 26,
+    "projected": 57,
+    "actual": 81
+  },
+  {
+    "owner": "Netten",
     "school": "Utah",
     "tier": "Big 12",
     "bid": 20,
     "projected": 77,
     "actual": 80
-  },
-  {
-    "owner": "Netten",
-    "school": "Iowa",
-    "tier": "Big Ten",
-    "bid": 26,
-    "projected": 57,
-    "actual": 66
   },
   {
     "owner": "Netten",

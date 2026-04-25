@@ -3268,5 +3268,20 @@
     "conference": "FBS - AAC",
     "player_id": "f8175056-e2c9-4f95-b78e-f939006d9658",
     "owner": ""
+  },
+  {
+    "pick": 219,
+    "round": 7,
+    "pick_in_round": 3,
+    "player": "TJ Hall",
+    "school": "Iowa",
+    "position": "CB",
+    "experience": "",
+    "traded": true,
+    "points": 15,
+    "state": "Iowa",
+    "conference": "Big Ten",
+    "player_id": "d4ac1c7b-6f56-4c0c-a733-02cdbcb6b8cb",
+    "owner": "Netten"
   }
 ]
