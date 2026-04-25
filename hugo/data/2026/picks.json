@@ -2398,5 +2398,20 @@
     "conference": "FBS - Independent",
     "player_id": "58cb3bc2-67c6-462c-982a-7515d07cbc2c",
     "owner": "Jawad"
+  },
+  {
+    "pick": 161,
+    "round": 5,
+    "pick_in_round": 21,
+    "player": "Emmett Johnson",
+    "school": "Nebraska",
+    "position": "RB",
+    "experience": "",
+    "traded": true,
+    "points": 17,
+    "state": "Nebraska",
+    "conference": "Big Ten",
+    "player_id": "f235cda2-61a1-4423-9287-128d8d33f79c",
+    "owner": "AJ"
   }
 ]

@@ -506,6 +506,17 @@
     "points_per_dollar": 17.0
   },
   {
+    "school": "Nebraska",
+    "owner": "AJ",
+    "tier": "Big Ten",
+    "bid": 1,
+    "projected": 16,
+    "actual": 17,
+    "difference": 1,
+    "performance_ratio": 1.062,
+    "points_per_dollar": 17.0
+  },
+  {
     "school": "Vanderbilt",
     "owner": "Jared",
     "tier": "Flex",

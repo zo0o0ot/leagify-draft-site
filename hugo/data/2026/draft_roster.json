@@ -33,19 +33,19 @@
   },
   {
     "owner": "AJ",
+    "school": "Nebraska",
+    "tier": "Big Ten",
+    "bid": 1,
+    "projected": 16,
+    "actual": 17
+  },
+  {
+    "owner": "AJ",
     "school": "North Carolina State",
     "tier": "ACC",
     "bid": 1,
     "projected": 20,
     "actual": 17
-  },
-  {
-    "owner": "AJ",
-    "school": "Nebraska",
-    "tier": "Big Ten",
-    "bid": 1,
-    "projected": 16,
-    "actual": 0
   },
   {
     "owner": "AJ",
