@@ -1648,5 +1648,35 @@
     "conference": "ACC",
     "player_id": "9d25ab6b-9589-4c95-a090-959ec56fc95f",
     "owner": "Tilo"
+  },
+  {
+    "pick": 111,
+    "round": 4,
+    "pick_in_round": 11,
+    "player": "Kage Casey",
+    "school": "Boise State",
+    "position": "OT",
+    "experience": "",
+    "traded": true,
+    "points": 18,
+    "state": "Idaho",
+    "conference": "FBS - Mountain West",
+    "player_id": "2cbc5dde-d11d-46d0-98e1-a282a0254e46",
+    "owner": ""
+  },
+  {
+    "pick": 112,
+    "round": 4,
+    "pick_in_round": 12,
+    "player": "Drew Shelton",
+    "school": "Penn State",
+    "position": "OT",
+    "experience": "",
+    "traded": false,
+    "points": 8,
+    "state": "Pennsylvania",
+    "conference": "Big Ten",
+    "player_id": "0a294df3-e863-4196-9cfa-8c9f51020b2d",
+    "owner": "Jawad"
   }
 ]

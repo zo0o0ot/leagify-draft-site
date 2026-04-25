@@ -176,6 +176,17 @@
     "points_per_dollar": 2.0
   },
   {
+    "school": "Penn State",
+    "owner": "Jawad",
+    "tier": "Big Ten",
+    "bid": 37,
+    "projected": 99,
+    "actual": 58,
+    "difference": -41,
+    "performance_ratio": 0.586,
+    "points_per_dollar": 1.568
+  },
+  {
     "school": "Oklahoma",
     "owner": "Jawad",
     "tier": "Flex",
@@ -185,17 +196,6 @@
     "difference": -12,
     "performance_ratio": 0.824,
     "points_per_dollar": 2.8
-  },
-  {
-    "school": "Penn State",
-    "owner": "Jawad",
-    "tier": "Big Ten",
-    "bid": 37,
-    "projected": 99,
-    "actual": 50,
-    "difference": -49,
-    "performance_ratio": 0.505,
-    "points_per_dollar": 1.351
   },
   {
     "school": "USC",
