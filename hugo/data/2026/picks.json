@@ -793,5 +793,20 @@
     "conference": "SEC",
     "player_id": "66447ff6-60de-4511-8f7d-7093d1e7fa98",
     "owner": "Ross"
+  },
+  {
+    "pick": 54,
+    "round": 2,
+    "pick_in_round": 22,
+    "player": "Eli Stowers",
+    "school": "Vanderbilt",
+    "position": "TE",
+    "experience": "",
+    "traded": false,
+    "points": 15,
+    "state": "Tennessee",
+    "conference": "SEC",
+    "player_id": "f32fcef0-956f-41e5-b6fc-81c5f91d1a9d",
+    "owner": "Jared"
   }
 ]

@@ -121,6 +121,14 @@
   },
   {
     "owner": "Jared",
+    "school": "Vanderbilt",
+    "tier": "Flex",
+    "bid": 2,
+    "projected": 29,
+    "actual": 15
+  },
+  {
+    "owner": "Jared",
     "school": "Illinois",
     "tier": "Big Ten",
     "bid": 12,
@@ -133,14 +141,6 @@
     "tier": "ACC",
     "bid": 3,
     "projected": 20,
-    "actual": 0
-  },
-  {
-    "owner": "Jared",
-    "school": "Vanderbilt",
-    "tier": "Flex",
-    "bid": 2,
-    "projected": 29,
     "actual": 0
   },
   {
