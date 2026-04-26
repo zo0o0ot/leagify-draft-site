@@ -1,6 +1,6 @@
 {{/* Owner scores go back to 2017; school data only from 2021 onward */}}
-{{ $ownerYears := slice "2014" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024" "2025" }}
-{{ $schoolYears := slice "2021" "2022" "2023" "2024" "2025" }}
+{{ $ownerYears := slice "2014" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024" "2025" "2026" }}
+{{ $schoolYears := slice "2021" "2022" "2023" "2024" "2025" "2026" }}
 
 {{/* Build owner scores dataset for all years */}}
 {{ $allScores := slice }}
@@ -108,9 +108,9 @@ const data = JSON.parse({{ $allScores | jsonify }});
 const ALL_YEAR_COLORS = {
   2014: '#d4a373', 2015: '#a8dadc', 2016: '#6a994e',
   2017: '#9c755f', 2018: '#bab0ac', 2019: '#b07aa1', 2020: '#edc948',
-  2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2'
+  2021: '#4e79a7', 2022: '#f28e2b', 2023: '#e15759', 2024: '#59a14f', 2025: '#76b7b2', 2026: '#ff9da7'
 };
-const allYears = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+const allYears = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026];
 
 // All-time totals stacked bar chart (colored by year)
 const ownerTotals = new Map();
@@ -255,7 +255,7 @@ const schoolOrder = [...schoolTotals.entries()]
   .sort((a, b) => b[1] - a[1])  // descending so highest is at top in Plot
   .map(([school]) => school);
 
-const schoolYears = [2021, 2022, 2023, 2024, 2025];
+const schoolYears = [2021, 2022, 2023, 2024, 2025, 2026];
 
 const schoolsChart = Plot.plot({
   marginLeft: 120,

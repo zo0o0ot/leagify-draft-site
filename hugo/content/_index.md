@@ -9,8 +9,4 @@ Each spring, six owners — Ross, Tilo, Jawad, Jared, AJ, and Netten — hold an
 
 This site updates automatically throughout draft weekend so you can follow the scores in real time.
 
----
-
-{{< draft-status >}}
-
-{{< owner-scores year="2026" >}}
+The [2026 results](/2026) are now final.
